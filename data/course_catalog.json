@@ -1,0 +1,5939 @@
+[
+  {
+    "title": "Google Data Analytics",
+    "platform": "Coursera",
+    "provider": "Google",
+    "price": 0,
+    "duration_weeks": 4,
+    "skills_covered": [
+      "Data Visualization",
+      "Machine Learning",
+      "MySQL",
+      "PostgreSQL",
+      "Python",
+      "SQL",
+      "Statistics",
+      "TensorFlow"
+    ],
+    "format": "video",
+    "level": "beginner",
+    "bahasa": "English",
+    "url": "https://www.coursera.org/professional-certificates/google-data-analytics",
+    "tanggal_scrape": "2026-05-13",
+    "id": "crs_0001"
+  },
+  {
+    "title": "Python for Everybody",
+    "platform": "Coursera",
+    "provider": "University of Michigan",
+    "price": 0,
+    "duration_weeks": 4,
+    "skills_covered": [
+      "Java",
+      "JavaScript",
+      "Python",
+      "React",
+      "TypeScript"
+    ],
+    "format": "video",
+    "level": "beginner",
+    "bahasa": "English",
+    "url": "https://www.coursera.org/specializations/python",
+    "tanggal_scrape": "2026-05-13",
+    "id": "crs_0002"
+  },
+  {
+    "title": "Google Project Management",
+    "platform": "Coursera",
+    "provider": "Google",
+    "price": 0,
+    "duration_weeks": 4,
+    "skills_covered": [
+      "Agile",
+      "Business Analysis",
+      "Product Management",
+      "Project Management"
+    ],
+    "format": "video",
+    "level": "beginner",
+    "bahasa": "English",
+    "url": "https://www.coursera.org/professional-certificates/google-project-management",
+    "tanggal_scrape": "2026-05-13",
+    "id": "crs_0003"
+  },
+  {
+    "title": "Google IT Support",
+    "platform": "Coursera",
+    "provider": "Google",
+    "price": 0,
+    "duration_weeks": 4,
+    "skills_covered": [
+      "AWS",
+      "CI/CD",
+      "Cloud Computing",
+      "Docker",
+      "GCP",
+      "Kubernetes",
+      "Linux"
+    ],
+    "format": "video",
+    "level": "beginner",
+    "bahasa": "English",
+    "url": "https://www.coursera.org/professional-certificates/google-it-support",
+    "tanggal_scrape": "2026-05-13",
+    "id": "crs_0004"
+  },
+  {
+    "title": "Google Create High-Fidelity Designs and Prototypes in Figma Best for: beginners ",
+    "platform": "Coursera",
+    "provider": "",
+    "price": 0,
+    "duration_weeks": 4,
+    "skills_covered": [
+      "Figma",
+      "Prototyping",
+      "Usability Testing",
+      "User Research"
+    ],
+    "format": "video",
+    "level": "beginner",
+    "bahasa": "English",
+    "url": "https://www.coursera.org/learn/high-fidelity-designs-prototype",
+    "tanggal_scrape": "2026-05-13",
+    "id": "crs_0005"
+  },
+  {
+    "title": "Georgia Institute of Technology Introduction to User Experience Design Best for:",
+    "platform": "Coursera",
+    "provider": "",
+    "price": 0,
+    "duration_weeks": 4,
+    "skills_covered": [
+      "Figma",
+      "Prototyping",
+      "Usability Testing",
+      "User Research"
+    ],
+    "format": "video",
+    "level": "beginner",
+    "bahasa": "English",
+    "url": "https://www.coursera.org/learn/user-experience-design",
+    "tanggal_scrape": "2026-05-13",
+    "id": "crs_0006"
+  },
+  {
+    "title": "Coursera Figma Mastery: From Wireframes to Prototypes Best for: intermediate lea",
+    "platform": "Coursera",
+    "provider": "",
+    "price": 0,
+    "duration_weeks": 4,
+    "skills_covered": [
+      "Figma",
+      "Prototyping",
+      "Usability Testing",
+      "User Research",
+      "Wireframe"
+    ],
+    "format": "video",
+    "level": "beginner",
+    "bahasa": "English",
+    "url": "https://www.coursera.org/specializations/figma-mastery-from-wireframes-to-prototypes",
+    "tanggal_scrape": "2026-05-13",
+    "id": "crs_0007"
+  },
+  {
+    "title": "Skillshare Beginner: Figma UI / UX Design Essentials Best for: beginners with 3-",
+    "platform": "Coursera",
+    "provider": "",
+    "price": 0,
+    "duration_weeks": 4,
+    "skills_covered": [
+      "Figma",
+      "Prototyping",
+      "Usability Testing",
+      "User Research"
+    ],
+    "format": "video",
+    "level": "beginner",
+    "bahasa": "English",
+    "url": "https://www.coursera.org/specializations/beginnerfigmauiuxdesignessentials",
+    "tanggal_scrape": "2026-05-13",
+    "id": "crs_0008"
+  },
+  {
+    "title": "Create High-Fidelity Designs and Prototypes in Figma",
+    "platform": "Coursera",
+    "provider": "Google",
+    "price": 0,
+    "duration_weeks": 4,
+    "skills_covered": [
+      "Figma",
+      "Prototyping",
+      "Usability Testing",
+      "User Research"
+    ],
+    "format": "video",
+    "level": "beginner",
+    "bahasa": "English",
+    "url": "https://www.coursera.org/learn/high-fidelity-designs-prototype",
+    "tanggal_scrape": "2026-05-13",
+    "id": "crs_0009"
+  },
+  {
+    "title": "IBM Introduction to Data Analytics Best for: beginners with 1-3 months availabil",
+    "platform": "Coursera",
+    "provider": "",
+    "price": 0,
+    "duration_weeks": 4,
+    "skills_covered": [
+      "Data Visualization",
+      "MySQL",
+      "PostgreSQL",
+      "Python",
+      "SQL",
+      "Tableau"
+    ],
+    "format": "video",
+    "level": "beginner",
+    "bahasa": "English",
+    "url": "https://www.coursera.org/learn/introduction-to-data-analytics",
+    "tanggal_scrape": "2026-05-13",
+    "id": "crs_0010"
+  },
+  {
+    "title": "Google Google Data Analytics Best for: learners with 3-6 months to commit, begin",
+    "platform": "Coursera",
+    "provider": "",
+    "price": 0,
+    "duration_weeks": 4,
+    "skills_covered": [
+      "Data Visualization",
+      "MySQL",
+      "PostgreSQL",
+      "Python",
+      "SQL",
+      "Tableau"
+    ],
+    "format": "video",
+    "level": "beginner",
+    "bahasa": "English",
+    "url": "https://www.coursera.org/professional-certificates/google-data-analytics",
+    "tanggal_scrape": "2026-05-13",
+    "id": "crs_0011"
+  },
+  {
+    "title": "Google Foundations: Data, Data, Everywhere Best for: learners with 1-4 weeks ava",
+    "platform": "Coursera",
+    "provider": "",
+    "price": 0,
+    "duration_weeks": 4,
+    "skills_covered": [
+      "Data Visualization",
+      "MySQL",
+      "PostgreSQL",
+      "Python",
+      "SQL",
+      "Tableau"
+    ],
+    "format": "video",
+    "level": "beginner",
+    "bahasa": "English",
+    "url": "https://www.coursera.org/learn/foundations-data",
+    "tanggal_scrape": "2026-05-13",
+    "id": "crs_0012"
+  },
+  {
+    "title": "Google Google Advanced Data Analytics Best for: advanced learners with 3-6 month",
+    "platform": "Coursera",
+    "provider": "",
+    "price": 0,
+    "duration_weeks": 4,
+    "skills_covered": [
+      "Data Visualization",
+      "MySQL",
+      "PostgreSQL",
+      "Python",
+      "SQL",
+      "Tableau"
+    ],
+    "format": "video",
+    "level": "beginner",
+    "bahasa": "English",
+    "url": "https://www.coursera.org/professional-certificates/google-advanced-data-analytics",
+    "tanggal_scrape": "2026-05-13",
+    "id": "crs_0013"
+  },
+  {
+    "title": "Introduction to Data Analytics",
+    "platform": "Coursera",
+    "provider": "IBM",
+    "price": 0,
+    "duration_weeks": 4,
+    "skills_covered": [
+      "Data Visualization",
+      "MySQL",
+      "PostgreSQL",
+      "Python",
+      "SQL",
+      "Tableau"
+    ],
+    "format": "video",
+    "level": "beginner",
+    "bahasa": "English",
+    "url": "https://www.coursera.org/learn/introduction-to-data-analytics",
+    "tanggal_scrape": "2026-05-13",
+    "id": "crs_0014"
+  },
+  {
+    "title": "DeepLearning.AI Machine Learning Best for: beginners with 1-3 months availabilit",
+    "platform": "Coursera",
+    "provider": "",
+    "price": 0,
+    "duration_weeks": 4,
+    "skills_covered": [
+      "Deep Learning",
+      "Machine Learning",
+      "PyTorch",
+      "Python",
+      "Statistics",
+      "TensorFlow"
+    ],
+    "format": "video",
+    "level": "beginner",
+    "bahasa": "English",
+    "url": "https://www.coursera.org/specializations/machine-learning-introduction",
+    "tanggal_scrape": "2026-05-13",
+    "id": "crs_0015"
+  },
+  {
+    "title": "DeepLearning.AI Introduction to TensorFlow for Artificial Intelligence, Machine ",
+    "platform": "Coursera",
+    "provider": "",
+    "price": 0,
+    "duration_weeks": 4,
+    "skills_covered": [
+      "Artificial Intelligence",
+      "Deep Learning",
+      "Machine Learning",
+      "PyTorch",
+      "Python",
+      "Statistics",
+      "TensorFlow"
+    ],
+    "format": "video",
+    "level": "beginner",
+    "bahasa": "English",
+    "url": "https://www.coursera.org/learn/introduction-tensorflow",
+    "tanggal_scrape": "2026-05-13",
+    "id": "crs_0016"
+  },
+  {
+    "title": "Coursera Build & Optimize TensorFlow ML Workflows Best for: intermediate learner",
+    "platform": "Coursera",
+    "provider": "",
+    "price": 0,
+    "duration_weeks": 4,
+    "skills_covered": [
+      "Deep Learning",
+      "Machine Learning",
+      "PyTorch",
+      "Python",
+      "Statistics",
+      "TensorFlow"
+    ],
+    "format": "video",
+    "level": "beginner",
+    "bahasa": "English",
+    "url": "https://www.coursera.org/learn/build--optimize-tensorflow-ml-workflows",
+    "tanggal_scrape": "2026-05-13",
+    "id": "crs_0017"
+  },
+  {
+    "title": "Google Cloud Machine Learning on Google Cloud Best for: intermediate learners wi",
+    "platform": "Coursera",
+    "provider": "",
+    "price": 0,
+    "duration_weeks": 4,
+    "skills_covered": [
+      "AWS",
+      "Cloud Computing",
+      "Deep Learning",
+      "GCP",
+      "Machine Learning",
+      "PyTorch",
+      "Python",
+      "Statistics",
+      "TensorFlow"
+    ],
+    "format": "video",
+    "level": "beginner",
+    "bahasa": "English",
+    "url": "https://www.coursera.org/specializations/machine-learning-tensorflow-gcp",
+    "tanggal_scrape": "2026-05-13",
+    "id": "crs_0018"
+  },
+  {
+    "title": "Machine Learning",
+    "platform": "Coursera",
+    "provider": "Multiple educators",
+    "price": 0,
+    "duration_weeks": 4,
+    "skills_covered": [
+      "Deep Learning",
+      "Machine Learning",
+      "PyTorch",
+      "Python",
+      "Statistics",
+      "TensorFlow"
+    ],
+    "format": "video",
+    "level": "beginner",
+    "bahasa": "English",
+    "url": "https://www.coursera.org/specializations/machine-learning-introduction",
+    "tanggal_scrape": "2026-05-13",
+    "id": "crs_0019"
+  },
+  {
+    "title": "IBM Developing Mobile Apps with Flutter Best for: beginners with 3-6 months avai",
+    "platform": "Coursera",
+    "provider": "",
+    "price": 0,
+    "duration_weeks": 4,
+    "skills_covered": [
+      "Android",
+      "Flutter",
+      "Kotlin"
+    ],
+    "format": "video",
+    "level": "beginner",
+    "bahasa": "English",
+    "url": "https://www.coursera.org/specializations/developing-mobile-apps-with-flutter",
+    "tanggal_scrape": "2026-05-13",
+    "id": "crs_0020"
+  },
+  {
+    "title": "Packt Flutter & Dart - Complete App Development Course Best for: intermediate le",
+    "platform": "Coursera",
+    "provider": "",
+    "price": 0,
+    "duration_weeks": 4,
+    "skills_covered": [
+      "Android",
+      "Flutter",
+      "Kotlin"
+    ],
+    "format": "video",
+    "level": "beginner",
+    "bahasa": "English",
+    "url": "https://www.coursera.org/specializations/packt-flutter-dart-complete-app-development-course",
+    "tanggal_scrape": "2026-05-13",
+    "id": "crs_0021"
+  },
+  {
+    "title": "Meta Meta Android UI Development Best for: beginners with 3-6 months to learn, A",
+    "platform": "Coursera",
+    "provider": "",
+    "price": 0,
+    "duration_weeks": 4,
+    "skills_covered": [
+      "Android",
+      "Flutter",
+      "Kotlin"
+    ],
+    "format": "video",
+    "level": "beginner",
+    "bahasa": "English",
+    "url": "https://www.coursera.org/specializations/meta-android-ui-development",
+    "tanggal_scrape": "2026-05-13",
+    "id": "crs_0022"
+  },
+  {
+    "title": "Meta Meta Android Developer Best for: beginners committing 3-6 months, learners ",
+    "platform": "Coursera",
+    "provider": "",
+    "price": 0,
+    "duration_weeks": 4,
+    "skills_covered": [
+      "Android",
+      "Flutter",
+      "Kotlin"
+    ],
+    "format": "video",
+    "level": "beginner",
+    "bahasa": "English",
+    "url": "https://www.coursera.org/professional-certificates/meta-android-developer",
+    "tanggal_scrape": "2026-05-13",
+    "id": "crs_0023"
+  },
+  {
+    "title": "Developing Mobile Apps with Flutter",
+    "platform": "Coursera",
+    "provider": "IBM",
+    "price": 0,
+    "duration_weeks": 4,
+    "skills_covered": [
+      "Android",
+      "Flutter",
+      "Kotlin"
+    ],
+    "format": "video",
+    "level": "beginner",
+    "bahasa": "English",
+    "url": "https://www.coursera.org/specializations/developing-mobile-apps-with-flutter",
+    "tanggal_scrape": "2026-05-13",
+    "id": "crs_0024"
+  },
+  {
+    "title": "SAP SAP Business Analyst Best for: beginners seeking business process skills, le",
+    "platform": "Coursera",
+    "provider": "",
+    "price": 0,
+    "duration_weeks": 4,
+    "skills_covered": [
+      "Business Analysis",
+      "Data Visualization",
+      "MySQL",
+      "PostgreSQL",
+      "SQL"
+    ],
+    "format": "video",
+    "level": "beginner",
+    "bahasa": "English",
+    "url": "https://www.coursera.org/professional-certificates/sap-business-analyst",
+    "tanggal_scrape": "2026-05-13",
+    "id": "crs_0025"
+  },
+  {
+    "title": "IBM IBM Business Intelligence (BI) Analyst Best for: beginners focused on IT and",
+    "platform": "Coursera",
+    "provider": "",
+    "price": 0,
+    "duration_weeks": 4,
+    "skills_covered": [
+      "Business Analysis",
+      "Data Visualization",
+      "MySQL",
+      "PostgreSQL",
+      "SQL"
+    ],
+    "format": "video",
+    "level": "beginner",
+    "bahasa": "English",
+    "url": "https://www.coursera.org/professional-certificates/bi-analyst",
+    "tanggal_scrape": "2026-05-13",
+    "id": "crs_0026"
+  },
+  {
+    "title": "Packt SQL Bootcamp - From Zero to Job-Ready Best for: intermediate learners aimi",
+    "platform": "Coursera",
+    "provider": "",
+    "price": 0,
+    "duration_weeks": 4,
+    "skills_covered": [
+      "Business Analysis",
+      "Data Visualization",
+      "MySQL",
+      "PostgreSQL",
+      "SQL"
+    ],
+    "format": "video",
+    "level": "beginner",
+    "bahasa": "English",
+    "url": "https://www.coursera.org/learn/packt-sql-bootcamp-from-zero-to-job-ready-ldram",
+    "tanggal_scrape": "2026-05-13",
+    "id": "crs_0027"
+  },
+  {
+    "title": "IBM Databases and SQL for Data Science with Python Best for: beginners wanting q",
+    "platform": "Coursera",
+    "provider": "",
+    "price": 0,
+    "duration_weeks": 4,
+    "skills_covered": [
+      "Business Analysis",
+      "Data Visualization",
+      "Machine Learning",
+      "MySQL",
+      "PostgreSQL",
+      "Python",
+      "SQL",
+      "Statistics"
+    ],
+    "format": "video",
+    "level": "beginner",
+    "bahasa": "English",
+    "url": "https://www.coursera.org/learn/sql-data-science",
+    "tanggal_scrape": "2026-05-13",
+    "id": "crs_0028"
+  },
+  {
+    "title": "SAP Business Analyst",
+    "platform": "Coursera",
+    "provider": "SAP",
+    "price": 0,
+    "duration_weeks": 4,
+    "skills_covered": [
+      "Business Analysis",
+      "Data Visualization",
+      "MySQL",
+      "PostgreSQL",
+      "SQL"
+    ],
+    "format": "video",
+    "level": "beginner",
+    "bahasa": "English",
+    "url": "https://www.coursera.org/professional-certificates/sap-business-analyst",
+    "tanggal_scrape": "2026-05-13",
+    "id": "crs_0029"
+  },
+  {
+    "title": "Scrum Alliance Agile for the Modern Product Manager Best for: beginners in produ",
+    "platform": "Coursera",
+    "provider": "",
+    "price": 0,
+    "duration_weeks": 4,
+    "skills_covered": [
+      "Agile",
+      "Product Management",
+      "Roadmap",
+      "Scrum"
+    ],
+    "format": "video",
+    "level": "beginner",
+    "bahasa": "English",
+    "url": "https://www.coursera.org/specializations/agile-for-the-modern-product-manager",
+    "tanggal_scrape": "2026-05-13",
+    "id": "crs_0030"
+  },
+  {
+    "title": "Microsoft Microsoft AI Product Manager Best for: beginners interested in AI prod",
+    "platform": "Coursera",
+    "provider": "",
+    "price": 0,
+    "duration_weeks": 4,
+    "skills_covered": [
+      "Agile",
+      "Product Management",
+      "Roadmap",
+      "Scrum"
+    ],
+    "format": "video",
+    "level": "beginner",
+    "bahasa": "English",
+    "url": "https://www.coursera.org/professional-certificates/microsoft-ai-product-manager",
+    "tanggal_scrape": "2026-05-13",
+    "id": "crs_0031"
+  },
+  {
+    "title": "John Wiley & Sons Product Leadership: Building Empowered Teams Best for: interme",
+    "platform": "Coursera",
+    "provider": "",
+    "price": 0,
+    "duration_weeks": 4,
+    "skills_covered": [
+      "Agile",
+      "Product Management",
+      "Roadmap",
+      "Scrum"
+    ],
+    "format": "video",
+    "level": "beginner",
+    "bahasa": "English",
+    "url": "https://www.coursera.org/specializations/wiley-product-leadership-building-empowered-teams",
+    "tanggal_scrape": "2026-05-13",
+    "id": "crs_0032"
+  },
+  {
+    "title": "IBM IBM Product Manager Best for: beginners exploring AI product strategy, learn",
+    "platform": "Coursera",
+    "provider": "",
+    "price": 0,
+    "duration_weeks": 4,
+    "skills_covered": [
+      "Agile",
+      "Product Management",
+      "Roadmap",
+      "Scrum"
+    ],
+    "format": "video",
+    "level": "beginner",
+    "bahasa": "English",
+    "url": "https://www.coursera.org/professional-certificates/ibm-product-manager",
+    "tanggal_scrape": "2026-05-13",
+    "id": "crs_0033"
+  },
+  {
+    "title": "Agile for the Modern Product Manager",
+    "platform": "Coursera",
+    "provider": "Scrum Alliance",
+    "price": 0,
+    "duration_weeks": 4,
+    "skills_covered": [
+      "Agile",
+      "Product Management",
+      "Roadmap",
+      "Scrum"
+    ],
+    "format": "video",
+    "level": "beginner",
+    "bahasa": "English",
+    "url": "https://www.coursera.org/specializations/agile-for-the-modern-product-manager",
+    "tanggal_scrape": "2026-05-13",
+    "id": "crs_0034"
+  },
+  {
+    "id": "crs_0035",
+    "title": "Belajar Fundamental Analisis Data",
+    "platform": "Dicoding",
+    "price": 0,
+    "duration_weeks": 7,
+    "skills_covered": [
+      "Data Analysis",
+      "Data Visualization",
+      "Python",
+      "Statistics"
+    ],
+    "format": "video",
+    "level": "beginner",
+    "bahasa": "Indonesia",
+    "url": "https://www.dicoding.com/academies/555-belajar-fundamental-analisis-data",
+    "tanggal_scrape": "2026-05-13"
+  },
+  {
+    "id": "crs_0036",
+    "title": "Belajar Toolset untuk Pengembangan Front-End Web",
+    "platform": "Dicoding",
+    "price": 0,
+    "duration_weeks": 6,
+    "skills_covered": [
+      "CSS",
+      "HTML",
+      "JavaScript"
+    ],
+    "format": "video",
+    "level": "beginner",
+    "bahasa": "Indonesia",
+    "url": "https://www.dicoding.com/academies/565-belajar-toolset-untuk-pengembangan-front-end-web",
+    "tanggal_scrape": "2026-05-13"
+  },
+  {
+    "id": "crs_0037",
+    "title": "Belajar Dasar Manajemen Proyek",
+    "platform": "Dicoding",
+    "price": 0,
+    "duration_weeks": 1,
+    "skills_covered": [
+      "Agile",
+      "Project Management",
+      "Scrum"
+    ],
+    "format": "video",
+    "level": "beginner",
+    "bahasa": "Indonesia",
+    "url": "https://www.dicoding.com/academies/570-belajar-dasar-manajemen-proyek",
+    "tanggal_scrape": "2026-05-13"
+  },
+  {
+    "id": "crs_0038",
+    "title": "Belajar Pemrograman Fungsional dengan Haskell",
+    "platform": "Dicoding",
+    "price": 0,
+    "duration_weeks": 2,
+    "skills_covered": [],
+    "format": "video",
+    "level": "beginner",
+    "bahasa": "Indonesia",
+    "url": "https://www.dicoding.com/academies/580-belajar-pemrograman-fungsional-dengan-haskell",
+    "tanggal_scrape": "2026-05-13"
+  },
+  {
+    "id": "crs_0039",
+    "title": "Belajar Penerapan Data Science",
+    "platform": "Dicoding",
+    "price": 0,
+    "duration_weeks": 11,
+    "skills_covered": [
+      "Data Visualization",
+      "Machine Learning",
+      "Python",
+      "Statistics"
+    ],
+    "format": "video",
+    "level": "beginner",
+    "bahasa": "Indonesia",
+    "url": "https://www.dicoding.com/academies/590-belajar-penerapan-data-science",
+    "tanggal_scrape": "2026-05-13"
+  },
+  {
+    "id": "crs_0040",
+    "title": "Belajar Dasar Structured Query Language (SQL)",
+    "platform": "Dicoding",
+    "price": 0,
+    "duration_weeks": 1,
+    "skills_covered": [
+      "MySQL",
+      "PostgreSQL",
+      "SQL"
+    ],
+    "format": "video",
+    "level": "beginner",
+    "bahasa": "Indonesia",
+    "url": "https://www.dicoding.com/academies/600-belajar-dasar-structured-query-language-sql",
+    "tanggal_scrape": "2026-05-13"
+  },
+  {
+    "id": "crs_0041",
+    "title": "Memulai Pemrograman dengan Haskell",
+    "platform": "Dicoding",
+    "price": 0,
+    "duration_weeks": 2,
+    "skills_covered": [],
+    "format": "video",
+    "level": "beginner",
+    "bahasa": "Indonesia",
+    "url": "https://www.dicoding.com/academies/605-memulai-pemrograman-dengan-haskell",
+    "tanggal_scrape": "2026-05-13"
+  },
+  {
+    "id": "crs_0042",
+    "title": "Menjadi Node.js Application Developer",
+    "platform": "Dicoding",
+    "price": 0,
+    "duration_weeks": 5,
+    "skills_covered": [
+      "Node.js"
+    ],
+    "format": "video",
+    "level": "beginner",
+    "bahasa": "Indonesia",
+    "url": "https://www.dicoding.com/academies/610-menjadi-node-js-application-developer",
+    "tanggal_scrape": "2026-05-13"
+  },
+  {
+    "id": "crs_0043",
+    "title": "Belajar Dasar Data Science",
+    "platform": "Dicoding",
+    "price": 0,
+    "duration_weeks": 1,
+    "skills_covered": [
+      "Data Visualization",
+      "Machine Learning",
+      "Python",
+      "Statistics"
+    ],
+    "format": "video",
+    "level": "beginner",
+    "bahasa": "Indonesia",
+    "url": "https://www.dicoding.com/academies/615-belajar-dasar-data-science",
+    "tanggal_scrape": "2026-05-13"
+  },
+  {
+    "id": "crs_0044",
+    "title": "Belajar Pemrograman Prosedural dengan Python",
+    "platform": "Dicoding",
+    "price": 0,
+    "duration_weeks": 3,
+    "skills_covered": [
+      "Python"
+    ],
+    "format": "video",
+    "level": "beginner",
+    "bahasa": "Indonesia",
+    "url": "https://www.dicoding.com/academies/620-belajar-pemrograman-prosedural-dengan-python",
+    "tanggal_scrape": "2026-05-13"
+  },
+  {
+    "id": "crs_0045",
+    "title": "Belajar Dasar AI",
+    "platform": "Dicoding",
+    "price": 0,
+    "duration_weeks": 1,
+    "skills_covered": [],
+    "format": "video",
+    "level": "beginner",
+    "bahasa": "Indonesia",
+    "url": "https://www.dicoding.com/academies/653-belajar-dasar-ai",
+    "tanggal_scrape": "2026-05-13"
+  },
+  {
+    "id": "crs_0046",
+    "title": "Belajar Penerapan Machine Learning dengan Google Cloud",
+    "platform": "Dicoding",
+    "price": 0,
+    "duration_weeks": 4,
+    "skills_covered": [
+      "AWS",
+      "Cloud Computing",
+      "GCP",
+      "Machine Learning",
+      "Python",
+      "Statistics",
+      "TensorFlow"
+    ],
+    "format": "video",
+    "level": "beginner",
+    "bahasa": "Indonesia",
+    "url": "https://www.dicoding.com/academies/658-belajar-penerapan-machine-learning-dengan-google-cloud",
+    "tanggal_scrape": "2026-05-13"
+  },
+  {
+    "id": "crs_0047",
+    "title": "Belajar Penerapan Machine Learning untuk Android",
+    "platform": "Dicoding",
+    "price": 0,
+    "duration_weeks": 6,
+    "skills_covered": [
+      "Android",
+      "Kotlin",
+      "Machine Learning",
+      "Python",
+      "Statistics",
+      "TensorFlow"
+    ],
+    "format": "video",
+    "level": "beginner",
+    "bahasa": "Indonesia",
+    "url": "https://www.dicoding.com/academies/663-belajar-penerapan-machine-learning-untuk-android",
+    "tanggal_scrape": "2026-05-13"
+  },
+  {
+    "id": "crs_0048",
+    "title": "Belajar Strategi Pengembangan Diri",
+    "platform": "Dicoding",
+    "price": 0,
+    "duration_weeks": 1,
+    "skills_covered": [],
+    "format": "video",
+    "level": "beginner",
+    "bahasa": "Indonesia",
+    "url": "https://www.dicoding.com/academies/697-belajar-strategi-pengembangan-diri",
+    "tanggal_scrape": "2026-05-13"
+  },
+  {
+    "id": "crs_0049",
+    "title": "Dev Certification for Machine Learning with Tensorflow (DCML) Preparation",
+    "platform": "Dicoding",
+    "price": 0,
+    "duration_weeks": 2,
+    "skills_covered": [
+      "Machine Learning",
+      "Python",
+      "Statistics",
+      "TensorFlow"
+    ],
+    "format": "video",
+    "level": "beginner",
+    "bahasa": "Indonesia",
+    "url": "https://www.dicoding.com/academies/698-dev-certification-for-machine-learning-with-tensorflow-dcml-preparation",
+    "tanggal_scrape": "2026-05-13"
+  },
+  {
+    "id": "crs_0050",
+    "title": "Dev Certification for Android (DCA) Preparation",
+    "platform": "Dicoding",
+    "price": 0,
+    "duration_weeks": 4,
+    "skills_covered": [
+      "Android",
+      "Kotlin"
+    ],
+    "format": "video",
+    "level": "beginner",
+    "bahasa": "Indonesia",
+    "url": "https://www.dicoding.com/academies/703-dev-certification-for-android-dca-preparation",
+    "tanggal_scrape": "2026-05-13"
+  },
+  {
+    "id": "crs_0051",
+    "title": "Belajar Fundamental Pemrosesan Data",
+    "platform": "Dicoding",
+    "price": 0,
+    "duration_weeks": 7,
+    "skills_covered": [],
+    "format": "video",
+    "level": "beginner",
+    "bahasa": "Indonesia",
+    "url": "https://www.dicoding.com/academies/708-belajar-fundamental-pemrosesan-data",
+    "tanggal_scrape": "2026-05-13"
+  },
+  {
+    "id": "crs_0052",
+    "title": "Membangun Sistem Machine Learning",
+    "platform": "Dicoding",
+    "price": 0,
+    "duration_weeks": 9,
+    "skills_covered": [
+      "Machine Learning",
+      "Python",
+      "Statistics",
+      "TensorFlow"
+    ],
+    "format": "video",
+    "level": "beginner",
+    "bahasa": "Indonesia",
+    "url": "https://www.dicoding.com/academies/713-membangun-sistem-machine-learning",
+    "tanggal_scrape": "2026-05-13"
+  },
+  {
+    "id": "crs_0053",
+    "title": "Belajar Strategi Perencanaan Karier",
+    "platform": "Dicoding",
+    "price": 0,
+    "duration_weeks": 2,
+    "skills_covered": [],
+    "format": "video",
+    "level": "beginner",
+    "bahasa": "Indonesia",
+    "url": "https://www.dicoding.com/academies/718-belajar-strategi-perencanaan-karier",
+    "tanggal_scrape": "2026-05-13"
+  },
+  {
+    "id": "crs_0054",
+    "title": "Belajar Back-End Pemula dengan Python",
+    "platform": "Dicoding",
+    "price": 0,
+    "duration_weeks": 4,
+    "skills_covered": [
+      "Node.js",
+      "Python",
+      "REST API",
+      "SQL"
+    ],
+    "format": "video",
+    "level": "beginner",
+    "bahasa": "Indonesia",
+    "url": "https://www.dicoding.com/academies/743-belajar-back-end-pemula-dengan-python",
+    "tanggal_scrape": "2026-05-13"
+  },
+  {
+    "id": "crs_0055",
+    "title": "Prompt Engineering untuk Software Developer",
+    "platform": "Dicoding",
+    "price": 0,
+    "duration_weeks": 1,
+    "skills_covered": [],
+    "format": "video",
+    "level": "beginner",
+    "bahasa": "Indonesia",
+    "url": "https://www.dicoding.com/academies/753-prompt-engineering-untuk-software-developer",
+    "tanggal_scrape": "2026-05-13"
+  },
+  {
+    "id": "crs_0056",
+    "title": "Belajar Penerapan Machine Learning untuk Flutter",
+    "platform": "Dicoding",
+    "price": 0,
+    "duration_weeks": 6,
+    "skills_covered": [
+      "Flutter",
+      "Machine Learning",
+      "Python",
+      "Statistics",
+      "TensorFlow"
+    ],
+    "format": "video",
+    "level": "beginner",
+    "bahasa": "Indonesia",
+    "url": "https://www.dicoding.com/academies/758-belajar-penerapan-machine-learning-untuk-flutter",
+    "tanggal_scrape": "2026-05-13"
+  },
+  {
+    "id": "crs_0057",
+    "title": "Belajar Fundamental Back-End dengan Python",
+    "platform": "Dicoding",
+    "price": 0,
+    "duration_weeks": 6,
+    "skills_covered": [
+      "Node.js",
+      "Python",
+      "REST API",
+      "SQL"
+    ],
+    "format": "video",
+    "level": "beginner",
+    "bahasa": "Indonesia",
+    "url": "https://www.dicoding.com/academies/788-belajar-fundamental-back-end-dengan-python",
+    "tanggal_scrape": "2026-05-13"
+  },
+  {
+    "id": "crs_0058",
+    "title": "Membangun Proyek Deep Learning Tingkat Mahir",
+    "platform": "Dicoding",
+    "price": 0,
+    "duration_weeks": 9,
+    "skills_covered": [
+      "Deep Learning",
+      "PyTorch",
+      "Python",
+      "TensorFlow"
+    ],
+    "format": "video",
+    "level": "beginner",
+    "bahasa": "Indonesia",
+    "url": "https://www.dicoding.com/academies/818-membangun-proyek-deep-learning-tingkat-mahir",
+    "tanggal_scrape": "2026-05-13"
+  },
+  {
+    "id": "crs_0059",
+    "title": "Belajar Matematika untuk Data Science",
+    "platform": "Dicoding",
+    "price": 0,
+    "duration_weeks": 7,
+    "skills_covered": [
+      "Data Visualization",
+      "Machine Learning",
+      "Python",
+      "Statistics"
+    ],
+    "format": "video",
+    "level": "beginner",
+    "bahasa": "Indonesia",
+    "url": "https://www.dicoding.com/academies/831-belajar-matematika-untuk-data-science",
+    "tanggal_scrape": "2026-05-13"
+  },
+  {
+    "id": "crs_0060",
+    "title": "Pengembangan Generative AI berbasis LLM",
+    "platform": "Dicoding",
+    "price": 0,
+    "duration_weeks": 9,
+    "skills_covered": [
+      "Artificial Intelligence",
+      "Machine Learning",
+      "Python"
+    ],
+    "format": "video",
+    "level": "beginner",
+    "bahasa": "Indonesia",
+    "url": "https://www.dicoding.com/academies/857-pengembangan-generative-ai-berbasis-llm",
+    "tanggal_scrape": "2026-05-13"
+  },
+  {
+    "id": "crs_0061",
+    "title": "AI Praktis untuk Produktivitas",
+    "platform": "Dicoding",
+    "price": 0,
+    "duration_weeks": 2,
+    "skills_covered": [],
+    "format": "video",
+    "level": "beginner",
+    "bahasa": "Indonesia",
+    "url": "https://www.dicoding.com/academies/862-ai-praktis-untuk-produktivitas",
+    "tanggal_scrape": "2026-05-13"
+  },
+  {
+    "id": "crs_0062",
+    "title": "Belajar Penggunaan Generative AI",
+    "platform": "Dicoding",
+    "price": 0,
+    "duration_weeks": 3,
+    "skills_covered": [
+      "Artificial Intelligence",
+      "Machine Learning",
+      "Python"
+    ],
+    "format": "video",
+    "level": "beginner",
+    "bahasa": "Indonesia",
+    "url": "https://www.dicoding.com/academies/867-belajar-penggunaan-generative-ai",
+    "tanggal_scrape": "2026-05-13"
+  },
+  {
+    "id": "crs_0063",
+    "title": "Belajar Pemrograman Rust untuk Pemula",
+    "platform": "Dicoding",
+    "price": 0,
+    "duration_weeks": 4,
+    "skills_covered": [],
+    "format": "video",
+    "level": "beginner",
+    "bahasa": "Indonesia",
+    "url": "https://www.dicoding.com/academies/881-belajar-pemrograman-rust-untuk-pemula",
+    "tanggal_scrape": "2026-05-13"
+  },
+  {
+    "id": "crs_0064",
+    "title": "Belajar Penerapan AI di Aplikasi Web",
+    "platform": "Dicoding",
+    "price": 0,
+    "duration_weeks": 5,
+    "skills_covered": [],
+    "format": "video",
+    "level": "beginner",
+    "bahasa": "Indonesia",
+    "url": "https://www.dicoding.com/academies/882-belajar-penerapan-ai-di-aplikasi-web",
+    "tanggal_scrape": "2026-05-13"
+  },
+  {
+    "id": "crs_0065",
+    "title": "Belajar Dasar Cyber Security",
+    "platform": "Dicoding",
+    "price": 0,
+    "duration_weeks": 2,
+    "skills_covered": [],
+    "format": "video",
+    "level": "beginner",
+    "bahasa": "Indonesia",
+    "url": "https://www.dicoding.com/academies/893-belajar-dasar-cyber-security",
+    "tanggal_scrape": "2026-05-13"
+  },
+  {
+    "id": "crs_0066",
+    "title": "Belajar Fundamental Generative AI",
+    "platform": "Dicoding",
+    "price": 0,
+    "duration_weeks": 6,
+    "skills_covered": [
+      "Artificial Intelligence",
+      "Machine Learning",
+      "Python"
+    ],
+    "format": "video",
+    "level": "beginner",
+    "bahasa": "Indonesia",
+    "url": "https://www.dicoding.com/academies/896-belajar-fundamental-generative-ai",
+    "tanggal_scrape": "2026-05-13"
+  },
+  {
+    "id": "crs_0067",
+    "title": "Membangun Aplikasi Gen AI dengan Microsoft Azure",
+    "platform": "Dicoding",
+    "price": 0,
+    "duration_weeks": 1,
+    "skills_covered": [
+      "Artificial Intelligence",
+      "Azure",
+      "Machine Learning"
+    ],
+    "format": "video",
+    "level": "beginner",
+    "bahasa": "Indonesia",
+    "url": "https://www.dicoding.com/academies/899-membangun-aplikasi-gen-ai-dengan-microsoft-azure",
+    "tanggal_scrape": "2026-05-13"
+  },
+  {
+    "id": "crs_0068",
+    "title": "Belajar Penerapan Data Science dengan Microsoft Fabric",
+    "platform": "Dicoding",
+    "price": 0,
+    "duration_weeks": 1,
+    "skills_covered": [
+      "Data Visualization",
+      "Machine Learning",
+      "Python",
+      "Statistics"
+    ],
+    "format": "video",
+    "level": "beginner",
+    "bahasa": "Indonesia",
+    "url": "https://www.dicoding.com/academies/902-belajar-penerapan-data-science-dengan-microsoft-fabric",
+    "tanggal_scrape": "2026-05-13"
+  },
+  {
+    "id": "crs_0069",
+    "title": "Belajar Analisis Data untuk Pemula",
+    "platform": "Dicoding",
+    "price": 0,
+    "duration_weeks": 3,
+    "skills_covered": [
+      "Data Analysis",
+      "Data Visualization",
+      "Python",
+      "Statistics"
+    ],
+    "format": "video",
+    "level": "beginner",
+    "bahasa": "Indonesia",
+    "url": "https://www.dicoding.com/academies/906-belajar-analisis-data-untuk-pemula",
+    "tanggal_scrape": "2026-05-13"
+  },
+  {
+    "id": "crs_0070",
+    "title": "Belajar Dasar Pengembangan Aplikasi Mobile",
+    "platform": "Dicoding",
+    "price": 0,
+    "duration_weeks": 1,
+    "skills_covered": [],
+    "format": "video",
+    "level": "beginner",
+    "bahasa": "Indonesia",
+    "url": "https://www.dicoding.com/academies/908-belajar-dasar-pengembangan-aplikasi-mobile",
+    "tanggal_scrape": "2026-05-13"
+  },
+  {
+    "id": "crs_0071",
+    "title": "Spec-Driven Development dengan Kiro",
+    "platform": "Dicoding",
+    "price": 0,
+    "duration_weeks": 1,
+    "skills_covered": [],
+    "format": "video",
+    "level": "beginner",
+    "bahasa": "Indonesia",
+    "url": "https://www.dicoding.com/academies/929-spec-driven-development-dengan-kiro",
+    "tanggal_scrape": "2026-05-13"
+  },
+  {
+    "id": "crs_0072",
+    "title": "Belajar Dasar Desain UX bagi Desainer UI/UX Pemula",
+    "platform": "Dicoding",
+    "price": 0,
+    "duration_weeks": 2,
+    "skills_covered": [
+      "Figma",
+      "Prototyping",
+      "Usability Testing",
+      "User Research"
+    ],
+    "format": "video",
+    "level": "beginner",
+    "bahasa": "Indonesia",
+    "url": "https://www.dicoding.com/academies/535-belajar-dasar-desain-ux-bagi-desainer-ui-ux-pemula",
+    "tanggal_scrape": "2026-05-13"
+  },
+  {
+    "id": "crs_0073",
+    "title": "Memulai Dasar Pemrograman Bagi Pengembang Perangkat Lunak Pemula",
+    "platform": "Dicoding",
+    "price": 0,
+    "duration_weeks": 1,
+    "skills_covered": [],
+    "format": "video",
+    "level": "beginner",
+    "bahasa": "Indonesia",
+    "url": "https://www.dicoding.com/academies/525-memulai-dasar-pemrograman-bagi-pengembang-perangkat-lunak-pemula",
+    "tanggal_scrape": "2026-05-13"
+  },
+  {
+    "id": "crs_0074",
+    "title": "Belajar Dasar DevOps Bagi Insinyur Operasi Pengembang Pemula",
+    "platform": "Dicoding",
+    "price": 0,
+    "duration_weeks": 1,
+    "skills_covered": [
+      "CI/CD",
+      "Docker",
+      "Linux"
+    ],
+    "format": "video",
+    "level": "beginner",
+    "bahasa": "Indonesia",
+    "url": "https://www.dicoding.com/academies/515-belajar-dasar-devops-bagi-insinyur-operasi-pengembang-pemula",
+    "tanggal_scrape": "2026-05-13"
+  },
+  {
+    "id": "crs_0075",
+    "title": "Belajar Implementasi CI/CD",
+    "platform": "Dicoding",
+    "price": 0,
+    "duration_weeks": 3,
+    "skills_covered": [
+      "CI/CD"
+    ],
+    "format": "video",
+    "level": "beginner",
+    "bahasa": "Indonesia",
+    "url": "https://www.dicoding.com/academies/428-belajar-implementasi-ci-cd",
+    "tanggal_scrape": "2026-05-13"
+  },
+  {
+    "id": "crs_0076",
+    "title": "Menjadi Linux System Administrator",
+    "platform": "Dicoding",
+    "price": 0,
+    "duration_weeks": 2,
+    "skills_covered": [
+      "Figma",
+      "Linux",
+      "Usability Testing",
+      "User Research"
+    ],
+    "format": "video",
+    "level": "beginner",
+    "bahasa": "Indonesia",
+    "url": "https://www.dicoding.com/academies/423-menjadi-linux-system-administrator",
+    "tanggal_scrape": "2026-05-13"
+  },
+  {
+    "id": "crs_0077",
+    "title": "Belajar Fundamental Aplikasi Web dengan React",
+    "platform": "Dicoding",
+    "price": 0,
+    "duration_weeks": 5,
+    "skills_covered": [
+      "JavaScript",
+      "React",
+      "TypeScript"
+    ],
+    "format": "video",
+    "level": "beginner",
+    "bahasa": "Indonesia",
+    "url": "https://www.dicoding.com/academies/413-belajar-fundamental-aplikasi-web-dengan-react",
+    "tanggal_scrape": "2026-05-13"
+  },
+  {
+    "id": "crs_0078",
+    "title": "Belajar Membuat Aplikasi Web dengan React",
+    "platform": "Dicoding",
+    "price": 0,
+    "duration_weeks": 3,
+    "skills_covered": [
+      "JavaScript",
+      "React",
+      "TypeScript"
+    ],
+    "format": "video",
+    "level": "beginner",
+    "bahasa": "Indonesia",
+    "url": "https://www.dicoding.com/academies/403-belajar-membuat-aplikasi-web-dengan-react",
+    "tanggal_scrape": "2026-05-13"
+  },
+  {
+    "id": "crs_0079",
+    "title": "Belajar Jaringan Komputer untuk Pemula",
+    "platform": "Dicoding",
+    "price": 0,
+    "duration_weeks": 2,
+    "skills_covered": [
+      "Linux"
+    ],
+    "format": "video",
+    "level": "beginner",
+    "bahasa": "Indonesia",
+    "url": "https://www.dicoding.com/academies/387-belajar-jaringan-komputer-untuk-pemula",
+    "tanggal_scrape": "2026-05-13"
+  },
+  {
+    "id": "crs_0080",
+    "title": "Belajar Dasar-Dasar DevOps",
+    "platform": "Dicoding",
+    "price": 0,
+    "duration_weeks": 1,
+    "skills_covered": [
+      "CI/CD",
+      "Docker",
+      "Linux"
+    ],
+    "format": "video",
+    "level": "beginner",
+    "bahasa": "Indonesia",
+    "url": "https://www.dicoding.com/academies/382-belajar-dasar-dasar-devops",
+    "tanggal_scrape": "2026-05-13"
+  },
+  {
+    "id": "crs_0081",
+    "title": "Belajar Pengembangan Aplikasi Android Intermediate",
+    "platform": "Dicoding",
+    "price": 0,
+    "duration_weeks": 15,
+    "skills_covered": [
+      "Android",
+      "Java",
+      "Kotlin"
+    ],
+    "format": "video",
+    "level": "beginner",
+    "bahasa": "Indonesia",
+    "url": "https://www.dicoding.com/academies/352-belajar-pengembangan-aplikasi-android-intermediate",
+    "tanggal_scrape": "2026-05-13"
+  },
+  {
+    "id": "crs_0082",
+    "title": "Belajar Membuat Aplikasi Back-End untuk Pemula dengan Google Cloud",
+    "platform": "Dicoding",
+    "price": 0,
+    "duration_weeks": 4,
+    "skills_covered": [
+      "AWS",
+      "Cloud Computing",
+      "GCP",
+      "Node.js",
+      "REST API",
+      "SQL"
+    ],
+    "format": "video",
+    "level": "beginner",
+    "bahasa": "Indonesia",
+    "url": "https://www.dicoding.com/academies/342-belajar-membuat-aplikasi-back-end-untuk-pemula-dengan-google-cloud",
+    "tanggal_scrape": "2026-05-13"
+  },
+  {
+    "id": "crs_0083",
+    "title": "Belajar Dasar Google Cloud",
+    "platform": "Dicoding",
+    "price": 0,
+    "duration_weeks": 1,
+    "skills_covered": [
+      "AWS",
+      "Cloud Computing",
+      "GCP"
+    ],
+    "format": "video",
+    "level": "beginner",
+    "bahasa": "Indonesia",
+    "url": "https://www.dicoding.com/academies/337-belajar-dasar-google-cloud",
+    "tanggal_scrape": "2026-05-13"
+  },
+  {
+    "id": "crs_0084",
+    "title": "Belajar Dasar UX Design",
+    "platform": "Dicoding",
+    "price": 0,
+    "duration_weeks": 3,
+    "skills_covered": [
+      "Figma",
+      "Usability Testing",
+      "User Research"
+    ],
+    "format": "video",
+    "level": "beginner",
+    "bahasa": "Indonesia",
+    "url": "https://www.dicoding.com/academies/335-belajar-dasar-ux-design",
+    "tanggal_scrape": "2026-05-13"
+  },
+  {
+    "id": "crs_0085",
+    "title": "Menjadi Google Cloud Architect",
+    "platform": "Dicoding",
+    "price": 0,
+    "duration_weeks": 3,
+    "skills_covered": [
+      "AWS",
+      "Cloud Computing",
+      "GCP"
+    ],
+    "format": "video",
+    "level": "beginner",
+    "bahasa": "Indonesia",
+    "url": "https://www.dicoding.com/academies/332-menjadi-google-cloud-architect",
+    "tanggal_scrape": "2026-05-13"
+  },
+  {
+    "id": "crs_0086",
+    "title": "Belajar Pengembangan Aplikasi Flutter Intermediate",
+    "platform": "Dicoding",
+    "price": 0,
+    "duration_weeks": 8,
+    "skills_covered": [
+      "Flutter"
+    ],
+    "format": "video",
+    "level": "beginner",
+    "bahasa": "Indonesia",
+    "url": "https://www.dicoding.com/academies/480-belajar-pengembangan-aplikasi-flutter-intermediate",
+    "tanggal_scrape": "2026-05-13"
+  },
+  {
+    "id": "crs_0087",
+    "title": "Belajar Membuat Aplikasi Android dengan Jetpack Compose",
+    "platform": "Dicoding",
+    "price": 0,
+    "duration_weeks": 5,
+    "skills_covered": [
+      "Android",
+      "Java",
+      "Kotlin"
+    ],
+    "format": "video",
+    "level": "beginner",
+    "bahasa": "Indonesia",
+    "url": "https://www.dicoding.com/academies/445-belajar-membuat-aplikasi-android-dengan-jetpack-compose",
+    "tanggal_scrape": "2026-05-13"
+  },
+  {
+    "id": "crs_0088",
+    "title": "Machine Learning Operations (MLOps)",
+    "platform": "Dicoding",
+    "price": 0,
+    "duration_weeks": 8,
+    "skills_covered": [
+      "Machine Learning",
+      "Python",
+      "Statistics",
+      "TensorFlow"
+    ],
+    "format": "video",
+    "level": "beginner",
+    "bahasa": "Indonesia",
+    "url": "https://www.dicoding.com/academies/443-machine-learning-operations-mlops",
+    "tanggal_scrape": "2026-05-13"
+  },
+  {
+    "id": "crs_0089",
+    "title": "Belajar Membangun Arsitektur Microservices",
+    "platform": "Dicoding",
+    "price": 0,
+    "duration_weeks": 6,
+    "skills_covered": [
+      "Microservices"
+    ],
+    "format": "video",
+    "level": "beginner",
+    "bahasa": "Indonesia",
+    "url": "https://www.dicoding.com/academies/433-belajar-membangun-arsitektur-microservices",
+    "tanggal_scrape": "2026-05-13"
+  },
+  {
+    "id": "crs_0090",
+    "title": "Menjadi React Web Developer Expert",
+    "platform": "Dicoding",
+    "price": 0,
+    "duration_weeks": 7,
+    "skills_covered": [
+      "JavaScript",
+      "React",
+      "TypeScript"
+    ],
+    "format": "video",
+    "level": "beginner",
+    "bahasa": "Indonesia",
+    "url": "https://www.dicoding.com/academies/418-menjadi-react-web-developer-expert",
+    "tanggal_scrape": "2026-05-13"
+  },
+  {
+    "id": "crs_0091",
+    "title": "Meniti Karier sebagai Software Developer",
+    "platform": "Dicoding",
+    "price": 0,
+    "duration_weeks": 1,
+    "skills_covered": [],
+    "format": "video",
+    "level": "beginner",
+    "bahasa": "Indonesia",
+    "url": "https://www.dicoding.com/academies/292-meniti-karier-sebagai-software-developer",
+    "tanggal_scrape": "2026-05-13"
+  },
+  {
+    "id": "crs_0092",
+    "title": "Pengenalan ke Logika Pemrograman (Programming Logic 101)",
+    "platform": "Dicoding",
+    "price": 0,
+    "duration_weeks": 1,
+    "skills_covered": [],
+    "format": "video",
+    "level": "beginner",
+    "bahasa": "Indonesia",
+    "url": "https://www.dicoding.com/academies/302-pengenalan-ke-logika-pemrograman-programming-logic-101",
+    "tanggal_scrape": "2026-05-13"
+  },
+  {
+    "id": "crs_0093",
+    "title": "Belajar Dasar Git dengan GitHub",
+    "platform": "Dicoding",
+    "price": 0,
+    "duration_weeks": 1,
+    "skills_covered": [
+      "Git",
+      "GitHub"
+    ],
+    "format": "video",
+    "level": "beginner",
+    "bahasa": "Indonesia",
+    "url": "https://www.dicoding.com/academies/317-belajar-dasar-git-dengan-github",
+    "tanggal_scrape": "2026-05-13"
+  },
+  {
+    "id": "crs_0094",
+    "title": "Memulai Pemrograman Dengan C",
+    "platform": "Dicoding",
+    "price": 0,
+    "duration_weeks": 1,
+    "skills_covered": [],
+    "format": "video",
+    "level": "beginner",
+    "bahasa": "Indonesia",
+    "url": "https://www.dicoding.com/academies/120-memulai-pemrograman-dengan-c",
+    "tanggal_scrape": "2026-05-13"
+  },
+  {
+    "id": "crs_0095",
+    "title": "Belajar Dasar Visualisasi Data",
+    "platform": "Dicoding",
+    "price": 0,
+    "duration_weeks": 1,
+    "skills_covered": [
+      "Data Visualization"
+    ],
+    "format": "video",
+    "level": "beginner",
+    "bahasa": "Indonesia",
+    "url": "https://www.dicoding.com/academies/177-belajar-dasar-visualisasi-data",
+    "tanggal_scrape": "2026-05-13"
+  },
+  {
+    "id": "crs_0096",
+    "title": "Memulai Pemrograman dengan Python",
+    "platform": "Dicoding",
+    "price": 0,
+    "duration_weeks": 6,
+    "skills_covered": [
+      "Python"
+    ],
+    "format": "video",
+    "level": "beginner",
+    "bahasa": "Indonesia",
+    "url": "https://www.dicoding.com/academies/86-memulai-pemrograman-dengan-python",
+    "tanggal_scrape": "2026-05-13"
+  },
+  {
+    "id": "crs_0097",
+    "title": "Belajar Machine Learning untuk Pemula",
+    "platform": "Dicoding",
+    "price": 0,
+    "duration_weeks": 9,
+    "skills_covered": [
+      "Machine Learning",
+      "Python",
+      "Statistics",
+      "TensorFlow"
+    ],
+    "format": "video",
+    "level": "beginner",
+    "bahasa": "Indonesia",
+    "url": "https://www.dicoding.com/academies/184-belajar-machine-learning-untuk-pemula",
+    "tanggal_scrape": "2026-05-13"
+  },
+  {
+    "id": "crs_0098",
+    "title": "Belajar Fundamental Deep Learning",
+    "platform": "Dicoding",
+    "price": 0,
+    "duration_weeks": 11,
+    "skills_covered": [
+      "Deep Learning",
+      "PyTorch",
+      "Python",
+      "TensorFlow"
+    ],
+    "format": "video",
+    "level": "beginner",
+    "bahasa": "Indonesia",
+    "url": "https://www.dicoding.com/academies/185-belajar-fundamental-deep-learning",
+    "tanggal_scrape": "2026-05-13"
+  },
+  {
+    "id": "crs_0099",
+    "title": "Machine Learning Terapan",
+    "platform": "Dicoding",
+    "price": 0,
+    "duration_weeks": 8,
+    "skills_covered": [
+      "Machine Learning",
+      "Python",
+      "Statistics",
+      "TensorFlow"
+    ],
+    "format": "video",
+    "level": "beginner",
+    "bahasa": "Indonesia",
+    "url": "https://www.dicoding.com/academies/319-machine-learning-terapan",
+    "tanggal_scrape": "2026-05-13"
+  },
+  {
+    "id": "crs_0100",
+    "title": "Memulai Pemrograman Dengan Java",
+    "platform": "Dicoding",
+    "price": 0,
+    "duration_weeks": 1,
+    "skills_covered": [
+      "Java"
+    ],
+    "format": "video",
+    "level": "beginner",
+    "bahasa": "Indonesia",
+    "url": "https://www.dicoding.com/academies/60-memulai-pemrograman-dengan-java",
+    "tanggal_scrape": "2026-05-13"
+  },
+  {
+    "id": "crs_0101",
+    "title": "Memulai Pemrograman dengan Kotlin",
+    "platform": "Dicoding",
+    "price": 0,
+    "duration_weeks": 5,
+    "skills_covered": [
+      "Kotlin"
+    ],
+    "format": "video",
+    "level": "beginner",
+    "bahasa": "Indonesia",
+    "url": "https://www.dicoding.com/academies/80-memulai-pemrograman-dengan-kotlin",
+    "tanggal_scrape": "2026-05-13"
+  },
+  {
+    "id": "crs_0102",
+    "title": "Belajar Prinsip Pemrograman SOLID",
+    "platform": "Dicoding",
+    "price": 0,
+    "duration_weeks": 1,
+    "skills_covered": [],
+    "format": "video",
+    "level": "beginner",
+    "bahasa": "Indonesia",
+    "url": "https://www.dicoding.com/academies/169-belajar-prinsip-pemrograman-solid",
+    "tanggal_scrape": "2026-05-13"
+  },
+  {
+    "id": "crs_0103",
+    "title": "Belajar Membuat Aplikasi Android untuk Pemula",
+    "platform": "Dicoding",
+    "price": 0,
+    "duration_weeks": 6,
+    "skills_covered": [
+      "Android",
+      "Java",
+      "Kotlin"
+    ],
+    "format": "video",
+    "level": "beginner",
+    "bahasa": "Indonesia",
+    "url": "https://www.dicoding.com/academies/51-belajar-membuat-aplikasi-android-untuk-pemula",
+    "tanggal_scrape": "2026-05-13"
+  },
+  {
+    "id": "crs_0104",
+    "title": "Belajar Fundamental Aplikasi Android",
+    "platform": "Dicoding",
+    "price": 0,
+    "duration_weeks": 14,
+    "skills_covered": [
+      "Android",
+      "Java",
+      "Kotlin"
+    ],
+    "format": "video",
+    "level": "beginner",
+    "bahasa": "Indonesia",
+    "url": "https://www.dicoding.com/academies/14-belajar-fundamental-aplikasi-android",
+    "tanggal_scrape": "2026-05-13"
+  },
+  {
+    "id": "crs_0105",
+    "title": "Menjadi Android Developer Expert",
+    "platform": "Dicoding",
+    "price": 0,
+    "duration_weeks": 9,
+    "skills_covered": [
+      "Android",
+      "Kotlin"
+    ],
+    "format": "video",
+    "level": "beginner",
+    "bahasa": "Indonesia",
+    "url": "https://www.dicoding.com/academies/165-menjadi-android-developer-expert",
+    "tanggal_scrape": "2026-05-13"
+  },
+  {
+    "id": "crs_0106",
+    "title": "Memulai Pemrograman Dengan Swift",
+    "platform": "Dicoding",
+    "price": 0,
+    "duration_weeks": 4,
+    "skills_covered": [
+      "Swift"
+    ],
+    "format": "video",
+    "level": "beginner",
+    "bahasa": "Indonesia",
+    "url": "https://www.dicoding.com/academies/145-memulai-pemrograman-dengan-swift",
+    "tanggal_scrape": "2026-05-13"
+  },
+  {
+    "id": "crs_0107",
+    "title": "Belajar Membuat Aplikasi iOS untuk Pemula",
+    "platform": "Dicoding",
+    "price": 0,
+    "duration_weeks": 4,
+    "skills_covered": [
+      "Swift",
+      "Xcode",
+      "iOS"
+    ],
+    "format": "video",
+    "level": "beginner",
+    "bahasa": "Indonesia",
+    "url": "https://www.dicoding.com/academies/171-belajar-membuat-aplikasi-ios-untuk-pemula",
+    "tanggal_scrape": "2026-05-13"
+  },
+  {
+    "id": "crs_0108",
+    "title": "Belajar Fundamental Aplikasi iOS",
+    "platform": "Dicoding",
+    "price": 0,
+    "duration_weeks": 7,
+    "skills_covered": [
+      "Swift",
+      "Xcode",
+      "iOS"
+    ],
+    "format": "video",
+    "level": "beginner",
+    "bahasa": "Indonesia",
+    "url": "https://www.dicoding.com/academies/202-belajar-fundamental-aplikasi-ios",
+    "tanggal_scrape": "2026-05-13"
+  },
+  {
+    "id": "crs_0109",
+    "title": "Menjadi iOS Developer Expert",
+    "platform": "Dicoding",
+    "price": 0,
+    "duration_weeks": 7,
+    "skills_covered": [
+      "Swift",
+      "Xcode",
+      "iOS"
+    ],
+    "format": "video",
+    "level": "beginner",
+    "bahasa": "Indonesia",
+    "url": "https://www.dicoding.com/academies/209-menjadi-ios-developer-expert",
+    "tanggal_scrape": "2026-05-13"
+  },
+  {
+    "id": "crs_0110",
+    "title": "Belajar Dasar Pemrograman Web",
+    "platform": "Dicoding",
+    "price": 0,
+    "duration_weeks": 4,
+    "skills_covered": [],
+    "format": "video",
+    "level": "beginner",
+    "bahasa": "Indonesia",
+    "url": "https://www.dicoding.com/academies/123-belajar-dasar-pemrograman-web",
+    "tanggal_scrape": "2026-05-13"
+  },
+  {
+    "id": "crs_0111",
+    "title": "Belajar Membuat Front-End Web untuk Pemula",
+    "platform": "Dicoding",
+    "price": 0,
+    "duration_weeks": 4,
+    "skills_covered": [
+      "CSS",
+      "HTML",
+      "JavaScript"
+    ],
+    "format": "video",
+    "level": "beginner",
+    "bahasa": "Indonesia",
+    "url": "https://www.dicoding.com/academies/315-belajar-membuat-front-end-web-untuk-pemula",
+    "tanggal_scrape": "2026-05-13"
+  },
+  {
+    "id": "crs_0112",
+    "title": "Belajar Fundamental Front-End Web Development",
+    "platform": "Dicoding",
+    "price": 0,
+    "duration_weeks": 8,
+    "skills_covered": [
+      "CSS",
+      "HTML",
+      "JavaScript"
+    ],
+    "format": "video",
+    "level": "beginner",
+    "bahasa": "Indonesia",
+    "url": "https://www.dicoding.com/academies/163-belajar-fundamental-front-end-web-development",
+    "tanggal_scrape": "2026-05-13"
+  },
+  {
+    "id": "crs_0113",
+    "title": "Belajar Pengembangan Web Intermediate",
+    "platform": "Dicoding",
+    "price": 0,
+    "duration_weeks": 8,
+    "skills_covered": [
+      "JavaScript"
+    ],
+    "format": "video",
+    "level": "beginner",
+    "bahasa": "Indonesia",
+    "url": "https://www.dicoding.com/academies/219-belajar-pengembangan-web-intermediate",
+    "tanggal_scrape": "2026-05-13"
+  },
+  {
+    "id": "crs_0114",
+    "title": "Belajar Dasar Cloud dan Gen AI di AWS",
+    "platform": "Dicoding",
+    "price": 0,
+    "duration_weeks": 1,
+    "skills_covered": [
+      "AWS",
+      "Artificial Intelligence",
+      "Cloud Computing",
+      "GCP",
+      "Machine Learning"
+    ],
+    "format": "video",
+    "level": "beginner",
+    "bahasa": "Indonesia",
+    "url": "https://www.dicoding.com/academies/251-belajar-dasar-cloud-dan-gen-ai-di-aws",
+    "tanggal_scrape": "2026-05-13"
+  },
+  {
+    "id": "crs_0115",
+    "title": "Belajar Dasar Pemrograman JavaScript",
+    "platform": "Dicoding",
+    "price": 0,
+    "duration_weeks": 4,
+    "skills_covered": [
+      "Java",
+      "JavaScript"
+    ],
+    "format": "video",
+    "level": "beginner",
+    "bahasa": "Indonesia",
+    "url": "https://www.dicoding.com/academies/256-belajar-dasar-pemrograman-javascript",
+    "tanggal_scrape": "2026-05-13"
+  },
+  {
+    "id": "crs_0116",
+    "title": "Belajar Back-End Pemula dengan JavaScript",
+    "platform": "Dicoding",
+    "price": 0,
+    "duration_weeks": 5,
+    "skills_covered": [
+      "Java",
+      "JavaScript",
+      "Node.js",
+      "REST API",
+      "SQL"
+    ],
+    "format": "video",
+    "level": "beginner",
+    "bahasa": "Indonesia",
+    "url": "https://www.dicoding.com/academies/261-belajar-back-end-pemula-dengan-javascript",
+    "tanggal_scrape": "2026-05-13"
+  },
+  {
+    "id": "crs_0117",
+    "title": "Architecting on AWS (Membangun Arsitektur Cloud di AWS)",
+    "platform": "Dicoding",
+    "price": 0,
+    "duration_weeks": 4,
+    "skills_covered": [
+      "AWS",
+      "Cloud Computing",
+      "GCP"
+    ],
+    "format": "video",
+    "level": "beginner",
+    "bahasa": "Indonesia",
+    "url": "https://www.dicoding.com/academies/266-architecting-on-aws-membangun-arsitektur-cloud-di-aws",
+    "tanggal_scrape": "2026-05-13"
+  },
+  {
+    "id": "crs_0118",
+    "title": "Belajar Fundamental Back-End dengan JavaScript",
+    "platform": "Dicoding",
+    "price": 0,
+    "duration_weeks": 9,
+    "skills_covered": [
+      "Java",
+      "JavaScript",
+      "Node.js",
+      "REST API",
+      "SQL"
+    ],
+    "format": "video",
+    "level": "beginner",
+    "bahasa": "Indonesia",
+    "url": "https://www.dicoding.com/academies/271-belajar-fundamental-back-end-dengan-javascript",
+    "tanggal_scrape": "2026-05-13"
+  },
+  {
+    "id": "crs_0119",
+    "title": "Menjadi Back-End Developer Expert dengan JavaScript",
+    "platform": "Dicoding",
+    "price": 0,
+    "duration_weeks": 8,
+    "skills_covered": [
+      "Java",
+      "JavaScript",
+      "Node.js",
+      "REST API",
+      "SQL"
+    ],
+    "format": "video",
+    "level": "beginner",
+    "bahasa": "Indonesia",
+    "url": "https://www.dicoding.com/academies/276-menjadi-back-end-developer-expert-dengan-javascript",
+    "tanggal_scrape": "2026-05-13"
+  },
+  {
+    "id": "crs_0120",
+    "title": "DevOps Praktis dengan IBM Cloud (Practical DevOps with IBM Cloud)",
+    "platform": "Dicoding",
+    "price": 0,
+    "duration_weeks": 3,
+    "skills_covered": [
+      "AWS",
+      "CI/CD",
+      "Cloud Computing",
+      "Docker",
+      "GCP",
+      "Linux"
+    ],
+    "format": "video",
+    "level": "beginner",
+    "bahasa": "Indonesia",
+    "url": "https://www.dicoding.com/academies/307-devops-praktis-dengan-ibm-cloud-practical-devops-with-ibm-cloud",
+    "tanggal_scrape": "2026-05-13"
+  },
+  {
+    "id": "crs_0121",
+    "title": "Menjadi Google Cloud Engineer",
+    "platform": "Dicoding",
+    "price": 0,
+    "duration_weeks": 4,
+    "skills_covered": [
+      "AWS",
+      "Cloud Computing",
+      "GCP"
+    ],
+    "format": "video",
+    "level": "beginner",
+    "bahasa": "Indonesia",
+    "url": "https://www.dicoding.com/academies/133-menjadi-google-cloud-engineer",
+    "tanggal_scrape": "2026-05-13"
+  },
+  {
+    "id": "crs_0122",
+    "title": "Simulasi Ujian Associate Cloud Engineer",
+    "platform": "Dicoding",
+    "price": 0,
+    "duration_weeks": 2,
+    "skills_covered": [
+      "AWS",
+      "Cloud Computing",
+      "GCP"
+    ],
+    "format": "video",
+    "level": "beginner",
+    "bahasa": "Indonesia",
+    "url": "https://www.dicoding.com/academies/281-simulasi-ujian-associate-cloud-engineer",
+    "tanggal_scrape": "2026-05-13"
+  },
+  {
+    "id": "crs_0123",
+    "title": "Memulai Pemrograman dengan Dart",
+    "platform": "Dicoding",
+    "price": 0,
+    "duration_weeks": 3,
+    "skills_covered": [
+      "Flutter"
+    ],
+    "format": "video",
+    "level": "beginner",
+    "bahasa": "Indonesia",
+    "url": "https://www.dicoding.com/academies/191-memulai-pemrograman-dengan-dart",
+    "tanggal_scrape": "2026-05-13"
+  },
+  {
+    "id": "crs_0124",
+    "title": "Belajar Membuat Aplikasi Flutter untuk Pemula",
+    "platform": "Dicoding",
+    "price": 0,
+    "duration_weeks": 4,
+    "skills_covered": [
+      "Flutter"
+    ],
+    "format": "video",
+    "level": "beginner",
+    "bahasa": "Indonesia",
+    "url": "https://www.dicoding.com/academies/159-belajar-membuat-aplikasi-flutter-untuk-pemula",
+    "tanggal_scrape": "2026-05-13"
+  },
+  {
+    "id": "crs_0125",
+    "title": "Belajar Fundamental Aplikasi Flutter",
+    "platform": "Dicoding",
+    "price": 0,
+    "duration_weeks": 9,
+    "skills_covered": [
+      "Flutter"
+    ],
+    "format": "video",
+    "level": "beginner",
+    "bahasa": "Indonesia",
+    "url": "https://www.dicoding.com/academies/195-belajar-fundamental-aplikasi-flutter",
+    "tanggal_scrape": "2026-05-13"
+  },
+  {
+    "id": "crs_0126",
+    "title": "Menjadi Flutter Developer Expert",
+    "platform": "Dicoding",
+    "price": 0,
+    "duration_weeks": 8,
+    "skills_covered": [
+      "Flutter"
+    ],
+    "format": "video",
+    "level": "beginner",
+    "bahasa": "Indonesia",
+    "url": "https://www.dicoding.com/academies/199-menjadi-flutter-developer-expert",
+    "tanggal_scrape": "2026-05-13"
+  },
+  {
+    "id": "crs_0127",
+    "title": "Memulai Dasar Pemrograman untuk Menjadi Pengembang Software",
+    "platform": "Dicoding",
+    "price": 0,
+    "duration_weeks": 1,
+    "skills_covered": [],
+    "format": "video",
+    "level": "beginner",
+    "bahasa": "Indonesia",
+    "url": "https://www.dicoding.com/academies/237-memulai-dasar-pemrograman-untuk-menjadi-pengembang-software",
+    "tanggal_scrape": "2026-05-13"
+  },
+  {
+    "id": "crs_0128",
+    "title": "Belajar Membuat Aplikasi Kognitif",
+    "platform": "Dicoding",
+    "price": 0,
+    "duration_weeks": 1,
+    "skills_covered": [],
+    "format": "video",
+    "level": "beginner",
+    "bahasa": "Indonesia",
+    "url": "https://www.dicoding.com/academies/68-belajar-membuat-aplikasi-kognitif",
+    "tanggal_scrape": "2026-05-13"
+  },
+  {
+    "id": "crs_0129",
+    "title": "Mini Course Data Analytics",
+    "platform": "RevoU",
+    "price": 0,
+    "duration_weeks": 1,
+    "skills_covered": [
+      "Data Visualization",
+      "MySQL",
+      "PostgreSQL",
+      "Python",
+      "SQL",
+      "Tableau"
+    ],
+    "format": "video",
+    "level": "beginner",
+    "bahasa": "Indonesia",
+    "url": "https://www.revou.co/mini-course-data-analytics",
+    "tanggal_scrape": "2026-05-13"
+  },
+  {
+    "id": "crs_0130",
+    "title": "Coding Camp Software Engineering",
+    "platform": "RevoU",
+    "price": 0,
+    "duration_weeks": 1,
+    "skills_covered": [
+      "CSS",
+      "HTML",
+      "Java",
+      "JavaScript"
+    ],
+    "format": "video",
+    "level": "beginner",
+    "bahasa": "Indonesia",
+    "url": "https://www.revou.co/coding-camp-software-engineering",
+    "tanggal_scrape": "2026-05-13"
+  },
+  {
+    "id": "crs_0131",
+    "title": "Mini Course Digital Marketing",
+    "platform": "RevoU",
+    "price": 0,
+    "duration_weeks": 1,
+    "skills_covered": [
+      "Git",
+      "GitHub",
+      "Google Analytics"
+    ],
+    "format": "video",
+    "level": "beginner",
+    "bahasa": "Indonesia",
+    "url": "https://www.revou.co/mini-course-digital-marketing",
+    "tanggal_scrape": "2026-05-13"
+  },
+  {
+    "id": "crs_0132",
+    "title": "Full Program Data Analytics",
+    "platform": "RevoU",
+    "price": 7000000,
+    "duration_weeks": 16,
+    "skills_covered": [
+      "A/B Testing",
+      "Business Analysis",
+      "Data Visualization",
+      "MySQL",
+      "PostgreSQL",
+      "Python",
+      "SQL",
+      "Statistics",
+      "Tableau"
+    ],
+    "format": "bootcamp",
+    "level": "beginner",
+    "bahasa": "Indonesia",
+    "url": "https://www.revou.co/data-analytics",
+    "tanggal_scrape": "2026-05-13"
+  },
+  {
+    "id": "crs_0133",
+    "title": "Full Program Software Engineering",
+    "platform": "RevoU",
+    "price": 9000000,
+    "duration_weeks": 20,
+    "skills_covered": [
+      "CSS",
+      "Git",
+      "GitHub",
+      "HTML",
+      "Java",
+      "JavaScript",
+      "Node.js",
+      "REST API",
+      "React",
+      "TypeScript"
+    ],
+    "format": "bootcamp",
+    "level": "beginner",
+    "bahasa": "Indonesia",
+    "url": "https://www.revou.co/software-engineering",
+    "tanggal_scrape": "2026-05-13"
+  },
+  {
+    "id": "crs_0134",
+    "title": "Full Program Product Management",
+    "platform": "RevoU",
+    "price": 7000000,
+    "duration_weeks": 12,
+    "skills_covered": [
+      "Agile",
+      "JIRA",
+      "KPI",
+      "PRD",
+      "Product Management",
+      "Roadmap",
+      "Scrum",
+      "Stakeholder Management",
+      "User Research"
+    ],
+    "format": "bootcamp",
+    "level": "beginner",
+    "bahasa": "Indonesia",
+    "url": "https://www.revou.co/product-management",
+    "tanggal_scrape": "2026-05-13"
+  },
+  {
+    "id": "crs_0135",
+    "title": "Short Courses RevoU",
+    "platform": "RevoU",
+    "price": 500000,
+    "duration_weeks": 4,
+    "skills_covered": [
+      "Business Analysis",
+      "MySQL",
+      "PostgreSQL",
+      "Python",
+      "SQL"
+    ],
+    "format": "video",
+    "level": "beginner",
+    "bahasa": "Indonesia",
+    "url": "https://www.revou.co/short-courses",
+    "tanggal_scrape": "2026-05-13"
+  },
+  {
+    "id": "crs_0136",
+    "title": "Applied AI Analytics and Automation",
+    "platform": "RevoU",
+    "price": 15000000,
+    "duration_weeks": 12,
+    "skills_covered": [
+      "Artificial Intelligence",
+      "Machine Learning",
+      "Python",
+      "Statistics",
+      "TensorFlow"
+    ],
+    "format": "bootcamp",
+    "level": "intermediate",
+    "bahasa": "Indonesia",
+    "url": "https://revou.co/applied-ai-automation",
+    "tanggal_scrape": "2026-05-13"
+  },
+  {
+    "id": "crs_0137",
+    "title": "Data Science Essentials – Crash Course in A/B Testing with Case Study",
+    "platform": "YouTube",
+    "provider": "freeCodeCamp.org",
+    "price": 0,
+    "duration_weeks": 1,
+    "skills_covered": [
+      "A/B Testing",
+      "Data Visualization",
+      "Machine Learning",
+      "Python",
+      "Statistics"
+    ],
+    "format": "video",
+    "level": "beginner",
+    "bahasa": "English",
+    "url": "https://www.youtube.com/watch?v=KZe0C0Qq4p0",
+    "tanggal_scrape": "2026-05-13"
+  },
+  {
+    "id": "crs_0138",
+    "title": "What is A/B Testing? | Data Science in Minutes",
+    "platform": "YouTube",
+    "provider": "Data Science Dojo",
+    "price": 0,
+    "duration_weeks": 1,
+    "skills_covered": [
+      "A/B Testing",
+      "Data Visualization",
+      "Machine Learning",
+      "Python",
+      "Statistics"
+    ],
+    "format": "video",
+    "level": "beginner",
+    "bahasa": "English",
+    "url": "https://www.youtube.com/watch?v=zFMgpxG-chM",
+    "tanggal_scrape": "2026-05-13"
+  },
+  {
+    "id": "crs_0139",
+    "title": "Software Testing Explained in 100 Seconds",
+    "platform": "YouTube",
+    "provider": "Fireship",
+    "price": 0,
+    "duration_weeks": 1,
+    "skills_covered": [
+      "A/B Testing"
+    ],
+    "format": "video",
+    "level": "beginner",
+    "bahasa": "English",
+    "url": "https://www.youtube.com/watch?v=u6QfIXgjwGQ",
+    "tanggal_scrape": "2026-05-13"
+  },
+  {
+    "id": "crs_0140",
+    "title": "AWS In 5 Minutes | What Is AWS? | AWS Tutorial For Beginners | AWS Training | Simplilearn",
+    "platform": "YouTube",
+    "provider": "Simplilearn",
+    "price": 0,
+    "duration_weeks": 1,
+    "skills_covered": [
+      "AWS"
+    ],
+    "format": "video",
+    "level": "beginner",
+    "bahasa": "English",
+    "url": "https://www.youtube.com/watch?v=3XFODda6YXo",
+    "tanggal_scrape": "2026-05-13"
+  },
+  {
+    "id": "crs_0141",
+    "title": "AWS Tutorial For Beginners | AWS Full Course - Learn AWS In 10 Hours | AWS Training | Edureka",
+    "platform": "YouTube",
+    "provider": "edureka!",
+    "price": 0,
+    "duration_weeks": 1,
+    "skills_covered": [
+      "AWS"
+    ],
+    "format": "video",
+    "level": "beginner",
+    "bahasa": "English",
+    "url": "https://www.youtube.com/watch?v=k1RI5locZE4",
+    "tanggal_scrape": "2026-05-13"
+  },
+  {
+    "id": "crs_0142",
+    "title": "AWS Tutorial for Beginners – Step-by-Step Guide to Cloud Computing",
+    "platform": "YouTube",
+    "provider": "Kevin Stratvert",
+    "price": 0,
+    "duration_weeks": 1,
+    "skills_covered": [
+      "AWS",
+      "Cloud Computing",
+      "GCP"
+    ],
+    "format": "video",
+    "level": "beginner",
+    "bahasa": "English",
+    "url": "https://www.youtube.com/watch?v=Nzv-tzU-UAw",
+    "tanggal_scrape": "2026-05-13"
+  },
+  {
+    "id": "crs_0143",
+    "title": "Adobe XD Masterclass for Beginners (Updated 2023)",
+    "platform": "YouTube",
+    "provider": "Jesse Showalter",
+    "price": 0,
+    "duration_weeks": 1,
+    "skills_covered": [
+      "Adobe XD"
+    ],
+    "format": "video",
+    "level": "beginner",
+    "bahasa": "English",
+    "url": "https://www.youtube.com/watch?v=C-_pr1Hzlvg",
+    "tanggal_scrape": "2026-05-13"
+  },
+  {
+    "id": "crs_0144",
+    "title": "Adobe XD for Beginners | FREE COURSE",
+    "platform": "YouTube",
+    "provider": "Envato Tuts+",
+    "price": 0,
+    "duration_weeks": 1,
+    "skills_covered": [
+      "Adobe XD"
+    ],
+    "format": "video",
+    "level": "beginner",
+    "bahasa": "English",
+    "url": "https://www.youtube.com/watch?v=WEljsc2jorI",
+    "tanggal_scrape": "2026-05-13"
+  },
+  {
+    "id": "crs_0145",
+    "title": "Free Adobe XD Tutorial 2023 for Beginners - Your Quick Start Guide",
+    "platform": "YouTube",
+    "provider": "Bring Your Own Laptop",
+    "price": 0,
+    "duration_weeks": 1,
+    "skills_covered": [
+      "Adobe XD"
+    ],
+    "format": "video",
+    "level": "beginner",
+    "bahasa": "English",
+    "url": "https://www.youtube.com/watch?v=HMbj5B_QrYQ",
+    "tanggal_scrape": "2026-05-13"
+  },
+  {
+    "id": "crs_0146",
+    "title": "Complete Agile Course in 15 Minutes",
+    "platform": "YouTube",
+    "provider": "David McLachlan",
+    "price": 0,
+    "duration_weeks": 1,
+    "skills_covered": [
+      "Agile"
+    ],
+    "format": "video",
+    "level": "beginner",
+    "bahasa": "English",
+    "url": "https://www.youtube.com/watch?v=vxpKA9UuM1w",
+    "tanggal_scrape": "2026-05-13"
+  },
+  {
+    "id": "crs_0147",
+    "title": "What Is Agile Methodology? | Introduction to Agile Methodology in Six Minutes | Simplilearn",
+    "platform": "YouTube",
+    "provider": "Simplilearn",
+    "price": 0,
+    "duration_weeks": 1,
+    "skills_covered": [
+      "Agile"
+    ],
+    "format": "video",
+    "level": "beginner",
+    "bahasa": "English",
+    "url": "https://www.youtube.com/watch?v=8eVXTyIZ1Hs",
+    "tanggal_scrape": "2026-05-13"
+  },
+  {
+    "id": "crs_0148",
+    "title": "Agile Scrum Full Course In 4 Hours | Agile Scrum Master Training | Agile Training Video |Simplilearn",
+    "platform": "YouTube",
+    "provider": "Simplilearn",
+    "price": 0,
+    "duration_weeks": 1,
+    "skills_covered": [
+      "Agile",
+      "Scrum"
+    ],
+    "format": "video",
+    "level": "beginner",
+    "bahasa": "English",
+    "url": "https://www.youtube.com/watch?v=VFQtSqChlsk",
+    "tanggal_scrape": "2026-05-13"
+  },
+  {
+    "id": "crs_0149",
+    "title": "Android Development for Beginners - Full Course",
+    "platform": "YouTube",
+    "provider": "freeCodeCamp.org",
+    "price": 0,
+    "duration_weeks": 1,
+    "skills_covered": [
+      "Android",
+      "Kotlin"
+    ],
+    "format": "video",
+    "level": "beginner",
+    "bahasa": "English",
+    "url": "https://www.youtube.com/watch?v=fis26HvvDII",
+    "tanggal_scrape": "2026-05-13"
+  },
+  {
+    "id": "crs_0150",
+    "title": "Kotlin in 100 Seconds",
+    "platform": "YouTube",
+    "provider": "Fireship",
+    "price": 0,
+    "duration_weeks": 1,
+    "skills_covered": [
+      "Android",
+      "Kotlin"
+    ],
+    "format": "video",
+    "level": "beginner",
+    "bahasa": "English",
+    "url": "https://www.youtube.com/watch?v=xT8oP0wy-A0",
+    "tanggal_scrape": "2026-05-13"
+  },
+  {
+    "id": "crs_0151",
+    "title": "Android & Kotlin Development Masterclass – Full Course",
+    "platform": "YouTube",
+    "provider": "freeCodeCamp.org",
+    "price": 0,
+    "duration_weeks": 1,
+    "skills_covered": [
+      "Android",
+      "Kotlin"
+    ],
+    "format": "video",
+    "level": "beginner",
+    "bahasa": "English",
+    "url": "https://www.youtube.com/watch?v=blKkRoZPxLc",
+    "tanggal_scrape": "2026-05-13"
+  },
+  {
+    "id": "crs_0152",
+    "title": "Angular Tutorial for Beginners: Learn Angular & TypeScript",
+    "platform": "YouTube",
+    "provider": "Programming with Mosh",
+    "price": 0,
+    "duration_weeks": 1,
+    "skills_covered": [
+      "Angular",
+      "TypeScript"
+    ],
+    "format": "video",
+    "level": "beginner",
+    "bahasa": "English",
+    "url": "https://www.youtube.com/watch?v=k5E2AVpwsko",
+    "tanggal_scrape": "2026-05-13"
+  },
+  {
+    "id": "crs_0153",
+    "title": "Angular in 100 Seconds",
+    "platform": "YouTube",
+    "provider": "Fireship",
+    "price": 0,
+    "duration_weeks": 1,
+    "skills_covered": [
+      "Angular"
+    ],
+    "format": "video",
+    "level": "beginner",
+    "bahasa": "English",
+    "url": "https://www.youtube.com/watch?v=Ata9cSC2WpM",
+    "tanggal_scrape": "2026-05-13"
+  },
+  {
+    "id": "crs_0154",
+    "title": "Angular Crash Course for beginners | Learn Angular in 90 Minutes",
+    "platform": "YouTube",
+    "provider": "Code with Ahsan",
+    "price": 0,
+    "duration_weeks": 1,
+    "skills_covered": [
+      "Angular"
+    ],
+    "format": "video",
+    "level": "beginner",
+    "bahasa": "English",
+    "url": "https://www.youtube.com/watch?v=oUmVFHlwZsI",
+    "tanggal_scrape": "2026-05-13"
+  },
+  {
+    "id": "crs_0155",
+    "title": "Ansible in 100 Seconds",
+    "platform": "YouTube",
+    "provider": "Fireship",
+    "price": 0,
+    "duration_weeks": 1,
+    "skills_covered": [
+      "Ansible"
+    ],
+    "format": "video",
+    "level": "beginner",
+    "bahasa": "English",
+    "url": "https://www.youtube.com/watch?v=xRMPKQweySE",
+    "tanggal_scrape": "2026-05-13"
+  },
+  {
+    "id": "crs_0156",
+    "title": "Ansible Full Course | Zero to Hero",
+    "platform": "YouTube",
+    "provider": "Rahul Wagh",
+    "price": 0,
+    "duration_weeks": 1,
+    "skills_covered": [
+      "Ansible"
+    ],
+    "format": "video",
+    "level": "beginner",
+    "bahasa": "English",
+    "url": "https://www.youtube.com/watch?v=GROqwFFLl3s",
+    "tanggal_scrape": "2026-05-13"
+  },
+  {
+    "id": "crs_0157",
+    "title": "Ansible Explained in 4 Minutes | Ansible Tutorial for Beginners (2026)",
+    "platform": "YouTube",
+    "provider": "Tech With Diego",
+    "price": 0,
+    "duration_weeks": 1,
+    "skills_covered": [
+      "Ansible"
+    ],
+    "format": "video",
+    "level": "beginner",
+    "bahasa": "English",
+    "url": "https://www.youtube.com/watch?v=SuUnLqWpnEM",
+    "tanggal_scrape": "2026-05-13"
+  },
+  {
+    "id": "crs_0158",
+    "title": "Azure Full Course - Learn Microsoft Azure in 8 Hours | Azure Tutorial For Beginners | Edureka",
+    "platform": "YouTube",
+    "provider": "edureka!",
+    "price": 0,
+    "duration_weeks": 1,
+    "skills_covered": [
+      "Azure"
+    ],
+    "format": "video",
+    "level": "beginner",
+    "bahasa": "English",
+    "url": "https://www.youtube.com/watch?v=tDuruX7XSac",
+    "tanggal_scrape": "2026-05-13"
+  },
+  {
+    "id": "crs_0159",
+    "title": "What is Azure? | Introduction To Azure In 5 Minutes | Microsoft Azure For Beginners | Simplilearn",
+    "platform": "YouTube",
+    "provider": "Simplilearn",
+    "price": 0,
+    "duration_weeks": 1,
+    "skills_covered": [
+      "Azure"
+    ],
+    "format": "video",
+    "level": "beginner",
+    "bahasa": "English",
+    "url": "https://www.youtube.com/watch?v=YfZ0zk5Zzcw",
+    "tanggal_scrape": "2026-05-13"
+  },
+  {
+    "id": "crs_0160",
+    "title": "Microsoft Azure Fundamentals Certification Course (AZ-900) UPDATED – Pass the exam in 8 hours!",
+    "platform": "YouTube",
+    "provider": "freeCodeCamp.org",
+    "price": 0,
+    "duration_weeks": 1,
+    "skills_covered": [
+      "Azure"
+    ],
+    "format": "video",
+    "level": "beginner",
+    "bahasa": "English",
+    "url": "https://www.youtube.com/watch?v=5abffC-K40c",
+    "tanggal_scrape": "2026-05-13"
+  },
+  {
+    "id": "crs_0161",
+    "title": "Business Analyst Full Course In 2 Hours | Business Analyst Training For Beginners | Simplilearn",
+    "platform": "YouTube",
+    "provider": "Simplilearn",
+    "price": 0,
+    "duration_weeks": 1,
+    "skills_covered": [
+      "Business Analysis"
+    ],
+    "format": "video",
+    "level": "beginner",
+    "bahasa": "English",
+    "url": "https://www.youtube.com/watch?v=UBVzucVpG7k",
+    "tanggal_scrape": "2026-05-13"
+  },
+  {
+    "id": "crs_0162",
+    "title": "Business Analyst Training for Beginners | Business Analysis Tutorial | Invensis Learning",
+    "platform": "YouTube",
+    "provider": "Invensis Learning",
+    "price": 0,
+    "duration_weeks": 1,
+    "skills_covered": [
+      "Business Analysis"
+    ],
+    "format": "video",
+    "level": "beginner",
+    "bahasa": "English",
+    "url": "https://www.youtube.com/watch?v=Kye_heYF6bs",
+    "tanggal_scrape": "2026-05-13"
+  },
+  {
+    "id": "crs_0163",
+    "title": "DevOps CI/CD Explained in 100 Seconds",
+    "platform": "YouTube",
+    "provider": "Fireship",
+    "price": 0,
+    "duration_weeks": 1,
+    "skills_covered": [
+      "CI/CD",
+      "Docker",
+      "Linux"
+    ],
+    "format": "video",
+    "level": "beginner",
+    "bahasa": "English",
+    "url": "https://www.youtube.com/watch?v=scEDHsr3APg",
+    "tanggal_scrape": "2026-05-13"
+  },
+  {
+    "id": "crs_0164",
+    "title": "CI/CD Full Course | CI/CD Tutorial | Continuous Integration And Continuous Delivery | Simplilearn",
+    "platform": "YouTube",
+    "provider": "Simplilearn",
+    "price": 0,
+    "duration_weeks": 1,
+    "skills_covered": [
+      "CI/CD"
+    ],
+    "format": "video",
+    "level": "beginner",
+    "bahasa": "English",
+    "url": "https://www.youtube.com/watch?v=h9K1NnqwUvE",
+    "tanggal_scrape": "2026-05-13"
+  },
+  {
+    "id": "crs_0165",
+    "title": "GitLab CI CD Tutorial for Beginners [Crash Course]",
+    "platform": "YouTube",
+    "provider": "TechWorld with Nana",
+    "price": 0,
+    "duration_weeks": 1,
+    "skills_covered": [
+      "CI/CD",
+      "Git",
+      "GitHub"
+    ],
+    "format": "video",
+    "level": "beginner",
+    "bahasa": "English",
+    "url": "https://www.youtube.com/watch?v=qP8kir2GUgo",
+    "tanggal_scrape": "2026-05-13"
+  },
+  {
+    "id": "crs_0166",
+    "title": "HTML & CSS Full Course - Beginner to Pro",
+    "platform": "YouTube",
+    "provider": "SuperSimpleDev",
+    "price": 0,
+    "duration_weeks": 1,
+    "skills_covered": [
+      "CSS",
+      "HTML"
+    ],
+    "format": "video",
+    "level": "beginner",
+    "bahasa": "English",
+    "url": "https://www.youtube.com/watch?v=G3e-cpL7ofc",
+    "tanggal_scrape": "2026-05-13"
+  },
+  {
+    "id": "crs_0167",
+    "title": "Learn CSS in 1 hour 🎨",
+    "platform": "YouTube",
+    "provider": "Bro Code",
+    "price": 0,
+    "duration_weeks": 1,
+    "skills_covered": [
+      "CSS"
+    ],
+    "format": "video",
+    "level": "beginner",
+    "bahasa": "English",
+    "url": "https://www.youtube.com/watch?v=wRNinF7YQqQ",
+    "tanggal_scrape": "2026-05-13"
+  },
+  {
+    "id": "crs_0168",
+    "title": "CSS Tutorial – Full Course for Beginners",
+    "platform": "YouTube",
+    "provider": "freeCodeCamp.org",
+    "price": 0,
+    "duration_weeks": 1,
+    "skills_covered": [
+      "CSS"
+    ],
+    "format": "video",
+    "level": "beginner",
+    "bahasa": "English",
+    "url": "https://www.youtube.com/watch?v=OXGznpKZ_sA",
+    "tanggal_scrape": "2026-05-13"
+  },
+  {
+    "id": "crs_0169",
+    "title": "Cloud Computing Full Course | Cloud Computing Tutorial For Beginners | Cloud Computing | Simplilearn",
+    "platform": "YouTube",
+    "provider": "Simplilearn",
+    "price": 0,
+    "duration_weeks": 1,
+    "skills_covered": [
+      "AWS",
+      "Cloud Computing",
+      "GCP"
+    ],
+    "format": "video",
+    "level": "beginner",
+    "bahasa": "English",
+    "url": "https://www.youtube.com/watch?v=EN4fEbcFZ_E",
+    "tanggal_scrape": "2026-05-13"
+  },
+  {
+    "id": "crs_0170",
+    "title": "Cloud Computing For Beginners | What is Cloud Computing | Cloud Computing Explained | Simplilearn",
+    "platform": "YouTube",
+    "provider": "Simplilearn",
+    "price": 0,
+    "duration_weeks": 1,
+    "skills_covered": [
+      "AWS",
+      "Cloud Computing",
+      "GCP"
+    ],
+    "format": "video",
+    "level": "beginner",
+    "bahasa": "English",
+    "url": "https://www.youtube.com/watch?v=RWgW-CgdIk0",
+    "tanggal_scrape": "2026-05-13"
+  },
+  {
+    "id": "crs_0171",
+    "title": "Cloud Computing Explained: The Most Important Concepts To Know",
+    "platform": "YouTube",
+    "provider": "Be A Better Dev",
+    "price": 0,
+    "duration_weeks": 1,
+    "skills_covered": [
+      "AWS",
+      "Cloud Computing",
+      "GCP"
+    ],
+    "format": "video",
+    "level": "beginner",
+    "bahasa": "English",
+    "url": "https://www.youtube.com/watch?v=ZaA0kNm18pE",
+    "tanggal_scrape": "2026-05-13"
+  },
+  {
+    "id": "crs_0172",
+    "title": "5 tips to improve your critical thinking - Samantha Agoos",
+    "platform": "YouTube",
+    "provider": "TED-Ed",
+    "price": 0,
+    "duration_weeks": 1,
+    "skills_covered": [
+      "Critical Thinking"
+    ],
+    "format": "video",
+    "level": "beginner",
+    "bahasa": "English",
+    "url": "https://www.youtube.com/watch?v=dItUGF8GdTw",
+    "tanggal_scrape": "2026-05-13"
+  },
+  {
+    "id": "crs_0173",
+    "title": "CRITICAL THINKING - Fundamentals: Introduction to Critical Thinking [HD]",
+    "platform": "YouTube",
+    "provider": "Wireless Philosophy",
+    "price": 0,
+    "duration_weeks": 1,
+    "skills_covered": [
+      "Critical Thinking"
+    ],
+    "format": "video",
+    "level": "beginner",
+    "bahasa": "English",
+    "url": "https://www.youtube.com/watch?v=Cum3k-Wglfw",
+    "tanggal_scrape": "2026-05-13"
+  },
+  {
+    "id": "crs_0174",
+    "title": "Critical Thinking: The Beginners Guide (Audiobook)",
+    "platform": "YouTube",
+    "provider": "Critical Thinking Secrets",
+    "price": 0,
+    "duration_weeks": 1,
+    "skills_covered": [
+      "Critical Thinking"
+    ],
+    "format": "video",
+    "level": "beginner",
+    "bahasa": "English",
+    "url": "https://www.youtube.com/watch?v=scZBrv8SHS0",
+    "tanggal_scrape": "2026-05-13"
+  },
+  {
+    "id": "crs_0175",
+    "title": "Excel for Data Analytics - Full Course for Beginners",
+    "platform": "YouTube",
+    "provider": "Luke Barousse",
+    "price": 0,
+    "duration_weeks": 1,
+    "skills_covered": [
+      "Data Analysis",
+      "Excel"
+    ],
+    "format": "video",
+    "level": "beginner",
+    "bahasa": "English",
+    "url": "https://www.youtube.com/watch?v=pCJ15nGFgVg",
+    "tanggal_scrape": "2026-05-13"
+  },
+  {
+    "id": "crs_0176",
+    "title": "Data Analysis with Python - Full Course for Beginners (Numpy, Pandas, Matplotlib, Seaborn)",
+    "platform": "YouTube",
+    "provider": "freeCodeCamp.org",
+    "price": 0,
+    "duration_weeks": 1,
+    "skills_covered": [
+      "Data Analysis",
+      "Pandas",
+      "Python"
+    ],
+    "format": "video",
+    "level": "beginner",
+    "bahasa": "English",
+    "url": "https://www.youtube.com/watch?v=r-uOLxNrNk8",
+    "tanggal_scrape": "2026-05-13"
+  },
+  {
+    "id": "crs_0177",
+    "title": "What Is Data Analytics? - An Introduction (Full Guide)",
+    "platform": "YouTube",
+    "provider": "CareerFoundry",
+    "price": 0,
+    "duration_weeks": 1,
+    "skills_covered": [
+      "Data Analysis"
+    ],
+    "format": "video",
+    "level": "beginner",
+    "bahasa": "English",
+    "url": "https://www.youtube.com/watch?v=yZvFH7B6gKI",
+    "tanggal_scrape": "2026-05-13"
+  },
+  {
+    "id": "crs_0178",
+    "title": "What is Data Modelling? Beginner's Guide to Data Models and Data Modelling",
+    "platform": "YouTube",
+    "provider": "The Data and AI Guy",
+    "price": 0,
+    "duration_weeks": 1,
+    "skills_covered": [
+      "Data Modeling"
+    ],
+    "format": "video",
+    "level": "beginner",
+    "bahasa": "English",
+    "url": "https://www.youtube.com/watch?v=CUR6rKrIEGc",
+    "tanggal_scrape": "2026-05-13"
+  },
+  {
+    "id": "crs_0179",
+    "title": "Data Modeling for Power BI [Full Course] 📊",
+    "platform": "YouTube",
+    "provider": "Pragmatic Works",
+    "price": 0,
+    "duration_weeks": 1,
+    "skills_covered": [
+      "Data Modeling",
+      "Data Visualization",
+      "Power BI"
+    ],
+    "format": "video",
+    "level": "beginner",
+    "bahasa": "English",
+    "url": "https://www.youtube.com/watch?v=MrLnibFTtbA",
+    "tanggal_scrape": "2026-05-13"
+  },
+  {
+    "id": "crs_0180",
+    "title": "Power BI Data Modeling Crash Course Learn Fast and Build Smarter Models! Full Course",
+    "platform": "YouTube",
+    "provider": "Pragmatic Works",
+    "price": 0,
+    "duration_weeks": 1,
+    "skills_covered": [
+      "Data Modeling",
+      "Data Visualization",
+      "Power BI"
+    ],
+    "format": "video",
+    "level": "beginner",
+    "bahasa": "English",
+    "url": "https://www.youtube.com/watch?v=air7T8wCYkU",
+    "tanggal_scrape": "2026-05-13"
+  },
+  {
+    "id": "crs_0181",
+    "title": "Data Visualization Tutorial For Beginners | Big Data Analytics Tutorial | Simplilearn",
+    "platform": "YouTube",
+    "provider": "Simplilearn",
+    "price": 0,
+    "duration_weeks": 1,
+    "skills_covered": [
+      "Data Visualization",
+      "Hadoop",
+      "Python",
+      "Spark"
+    ],
+    "format": "video",
+    "level": "beginner",
+    "bahasa": "English",
+    "url": "https://www.youtube.com/watch?v=MiiANxRHSv4",
+    "tanggal_scrape": "2026-05-13"
+  },
+  {
+    "id": "crs_0182",
+    "title": "Data Visualization with D3 – Full Course for Beginners",
+    "platform": "YouTube",
+    "provider": "freeCodeCamp.org",
+    "price": 0,
+    "duration_weeks": 1,
+    "skills_covered": [
+      "Data Visualization"
+    ],
+    "format": "video",
+    "level": "beginner",
+    "bahasa": "English",
+    "url": "https://www.youtube.com/watch?v=xkBheRZTkaw",
+    "tanggal_scrape": "2026-05-13"
+  },
+  {
+    "id": "crs_0183",
+    "title": "Data Visualization Crash Course | Consulting Best Practices",
+    "platform": "YouTube",
+    "provider": "Analyst Academy",
+    "price": 0,
+    "duration_weeks": 1,
+    "skills_covered": [
+      "Data Visualization"
+    ],
+    "format": "video",
+    "level": "beginner",
+    "bahasa": "English",
+    "url": "https://www.youtube.com/watch?v=ZUeWXNK-9yA",
+    "tanggal_scrape": "2026-05-13"
+  },
+  {
+    "id": "crs_0184",
+    "title": "Deep Learning Crash Course for Beginners",
+    "platform": "YouTube",
+    "provider": "freeCodeCamp.org",
+    "price": 0,
+    "duration_weeks": 1,
+    "skills_covered": [
+      "Deep Learning",
+      "PyTorch",
+      "Python",
+      "TensorFlow"
+    ],
+    "format": "video",
+    "level": "beginner",
+    "bahasa": "English",
+    "url": "https://www.youtube.com/watch?v=VyWAvY2CF9c",
+    "tanggal_scrape": "2026-05-13"
+  },
+  {
+    "id": "crs_0185",
+    "title": "Deep Learning | What is Deep Learning? | Deep Learning Tutorial For Beginners | 2026 | Simplilearn",
+    "platform": "YouTube",
+    "provider": "Simplilearn",
+    "price": 0,
+    "duration_weeks": 1,
+    "skills_covered": [
+      "Deep Learning",
+      "PyTorch",
+      "Python",
+      "TensorFlow"
+    ],
+    "format": "video",
+    "level": "beginner",
+    "bahasa": "English",
+    "url": "https://www.youtube.com/watch?v=6M5VXKLf4D4",
+    "tanggal_scrape": "2026-05-13"
+  },
+  {
+    "id": "crs_0186",
+    "title": "PyTorch for Deep Learning & Machine Learning – Full Course",
+    "platform": "YouTube",
+    "provider": "freeCodeCamp.org",
+    "price": 0,
+    "duration_weeks": 1,
+    "skills_covered": [
+      "Deep Learning",
+      "Machine Learning",
+      "PyTorch",
+      "Python",
+      "Statistics",
+      "TensorFlow"
+    ],
+    "format": "video",
+    "level": "beginner",
+    "bahasa": "English",
+    "url": "https://www.youtube.com/watch?v=V_xro1bcAuA",
+    "tanggal_scrape": "2026-05-13"
+  },
+  {
+    "id": "crs_0187",
+    "title": "Docker Tutorial for Beginners [FULL COURSE in 3 Hours]",
+    "platform": "YouTube",
+    "provider": "TechWorld with Nana",
+    "price": 0,
+    "duration_weeks": 1,
+    "skills_covered": [
+      "CI/CD",
+      "Docker"
+    ],
+    "format": "video",
+    "level": "beginner",
+    "bahasa": "English",
+    "url": "https://www.youtube.com/watch?v=3c-iBn73dDE",
+    "tanggal_scrape": "2026-05-13"
+  },
+  {
+    "id": "crs_0188",
+    "title": "The Only Docker Tutorial You Need To Get Started",
+    "platform": "YouTube",
+    "provider": "The Coding Sloth",
+    "price": 0,
+    "duration_weeks": 1,
+    "skills_covered": [
+      "CI/CD",
+      "Docker"
+    ],
+    "format": "video",
+    "level": "beginner",
+    "bahasa": "English",
+    "url": "https://www.youtube.com/watch?v=DQdB7wFEygo",
+    "tanggal_scrape": "2026-05-13"
+  },
+  {
+    "id": "crs_0189",
+    "title": "Complete Docker Course - From BEGINNER to PRO! (Learn Containers)",
+    "platform": "YouTube",
+    "provider": "DevOps Directive",
+    "price": 0,
+    "duration_weeks": 1,
+    "skills_covered": [
+      "CI/CD",
+      "Docker"
+    ],
+    "format": "video",
+    "level": "beginner",
+    "bahasa": "English",
+    "url": "https://www.youtube.com/watch?v=RqTEHSBrYFw",
+    "tanggal_scrape": "2026-05-13"
+  },
+  {
+    "id": "crs_0190",
+    "title": "ETL Full Course 2026 [FREE] | Extract Transform And Load | ETL Tutorial For Beginners | Simplilearn",
+    "platform": "YouTube",
+    "provider": "Simplilearn",
+    "price": 0,
+    "duration_weeks": 1,
+    "skills_covered": [
+      "ETL"
+    ],
+    "format": "video",
+    "level": "beginner",
+    "bahasa": "English",
+    "url": "https://www.youtube.com/watch?v=D18PQG7Ae34",
+    "tanggal_scrape": "2026-05-13"
+  },
+  {
+    "id": "crs_0191",
+    "title": "What is ETL (Extract, Transform, Load)?",
+    "platform": "YouTube",
+    "provider": "IBM Technology",
+    "price": 0,
+    "duration_weeks": 1,
+    "skills_covered": [
+      "ETL"
+    ],
+    "format": "video",
+    "level": "beginner",
+    "bahasa": "English",
+    "url": "https://www.youtube.com/watch?v=OW5OgsLpDCQ",
+    "tanggal_scrape": "2026-05-13"
+  },
+  {
+    "id": "crs_0192",
+    "title": "Excel for Beginners - The Complete Course",
+    "platform": "YouTube",
+    "provider": "Technology for Teachers and Students",
+    "price": 0,
+    "duration_weeks": 1,
+    "skills_covered": [
+      "Excel"
+    ],
+    "format": "video",
+    "level": "beginner",
+    "bahasa": "English",
+    "url": "https://www.youtube.com/watch?v=wbJcJCkBcMg",
+    "tanggal_scrape": "2026-05-13"
+  },
+  {
+    "id": "crs_0193",
+    "title": "Microsoft Excel Tutorial for Beginners - Full Course",
+    "platform": "YouTube",
+    "provider": "freeCodeCamp.org",
+    "price": 0,
+    "duration_weeks": 1,
+    "skills_covered": [
+      "Excel"
+    ],
+    "format": "video",
+    "level": "beginner",
+    "bahasa": "English",
+    "url": "https://www.youtube.com/watch?v=Vl0H-qTclOg",
+    "tanggal_scrape": "2026-05-13"
+  },
+  {
+    "id": "crs_0194",
+    "title": "Figma Tutorial for Beginners (13-min crash course!)",
+    "platform": "YouTube",
+    "provider": "Flux Academy",
+    "price": 0,
+    "duration_weeks": 1,
+    "skills_covered": [
+      "Figma"
+    ],
+    "format": "video",
+    "level": "beginner",
+    "bahasa": "English",
+    "url": "https://www.youtube.com/watch?v=jQ1sfKIl50E",
+    "tanggal_scrape": "2026-05-13"
+  },
+  {
+    "id": "crs_0195",
+    "title": "Free Figma UX Design UI Essentials Course | 2025",
+    "platform": "YouTube",
+    "provider": "Bring Your Own Laptop",
+    "price": 0,
+    "duration_weeks": 1,
+    "skills_covered": [
+      "Figma",
+      "Usability Testing",
+      "User Research"
+    ],
+    "format": "video",
+    "level": "beginner",
+    "bahasa": "English",
+    "url": "https://www.youtube.com/watch?v=QJBP2uy8LcU",
+    "tanggal_scrape": "2026-05-13"
+  },
+  {
+    "id": "crs_0196",
+    "title": "Free Figma Crash Course for Beginners 2026 | UI/UX Design",
+    "platform": "YouTube",
+    "provider": "DesignWithArash",
+    "price": 0,
+    "duration_weeks": 1,
+    "skills_covered": [
+      "Figma",
+      "Usability Testing",
+      "User Research"
+    ],
+    "format": "video",
+    "level": "beginner",
+    "bahasa": "English",
+    "url": "https://www.youtube.com/watch?v=1SNZRCVNizg",
+    "tanggal_scrape": "2026-05-13"
+  },
+  {
+    "id": "crs_0197",
+    "title": "Flutter Basic Training - 12 Minute Bootcamp",
+    "platform": "YouTube",
+    "provider": "Fireship",
+    "price": 0,
+    "duration_weeks": 1,
+    "skills_covered": [
+      "Flutter"
+    ],
+    "format": "video",
+    "level": "beginner",
+    "bahasa": "English",
+    "url": "https://www.youtube.com/watch?v=1xipg02Wu8s",
+    "tanggal_scrape": "2026-05-13"
+  },
+  {
+    "id": "crs_0198",
+    "title": "Flutter Basics by a REAL Project",
+    "platform": "YouTube",
+    "provider": "Flutter Guys",
+    "price": 0,
+    "duration_weeks": 1,
+    "skills_covered": [
+      "Flutter"
+    ],
+    "format": "video",
+    "level": "beginner",
+    "bahasa": "English",
+    "url": "https://www.youtube.com/watch?v=D4nhaszNW4o",
+    "tanggal_scrape": "2026-05-13"
+  },
+  {
+    "id": "crs_0199",
+    "title": "The Ultimate Flutter Tutorial for Beginners - 2025 Full Course",
+    "platform": "YouTube",
+    "provider": "Flutter Mapp",
+    "price": 0,
+    "duration_weeks": 1,
+    "skills_covered": [
+      "Flutter"
+    ],
+    "format": "video",
+    "level": "beginner",
+    "bahasa": "English",
+    "url": "https://www.youtube.com/watch?v=3kaGC_DrUnw",
+    "tanggal_scrape": "2026-05-13"
+  },
+  {
+    "id": "crs_0200",
+    "title": "The Complete Frontend Developer Roadmap",
+    "platform": "YouTube",
+    "provider": "Programming with Mosh",
+    "price": 0,
+    "duration_weeks": 1,
+    "skills_covered": [
+      "Front-End Architecture",
+      "Roadmap"
+    ],
+    "format": "video",
+    "level": "beginner",
+    "bahasa": "English",
+    "url": "https://www.youtube.com/watch?v=Tef1e9FiSR0",
+    "tanggal_scrape": "2026-05-13"
+  },
+  {
+    "id": "crs_0201",
+    "title": "Every Frontend Architecture Pattern Explained in 23 Minutes",
+    "platform": "YouTube",
+    "provider": "theSeniorDev",
+    "price": 0,
+    "duration_weeks": 1,
+    "skills_covered": [
+      "Front-End Architecture"
+    ],
+    "format": "video",
+    "level": "beginner",
+    "bahasa": "English",
+    "url": "https://www.youtube.com/watch?v=9-r0RuX0pqk",
+    "tanggal_scrape": "2026-05-13"
+  },
+  {
+    "id": "crs_0202",
+    "title": "Everything You NEED to Know About WEB APP Architecture",
+    "platform": "YouTube",
+    "provider": "ForrestKnight",
+    "price": 0,
+    "duration_weeks": 1,
+    "skills_covered": [
+      "Front-End Architecture"
+    ],
+    "format": "video",
+    "level": "beginner",
+    "bahasa": "English",
+    "url": "https://www.youtube.com/watch?v=sDlCSIDwpDs",
+    "tanggal_scrape": "2026-05-13"
+  },
+  {
+    "id": "crs_0203",
+    "title": "Google Cloud Platform Full Course | GCP Tutorial | Google Cloud Training | Edureka",
+    "platform": "YouTube",
+    "provider": "edureka!",
+    "price": 0,
+    "duration_weeks": 1,
+    "skills_covered": [
+      "AWS",
+      "Cloud Computing",
+      "GCP"
+    ],
+    "format": "video",
+    "level": "beginner",
+    "bahasa": "English",
+    "url": "https://www.youtube.com/watch?v=IUU6OR8yHCc",
+    "tanggal_scrape": "2026-05-13"
+  },
+  {
+    "id": "crs_0204",
+    "title": "Google Cloud Platform in 10 mins | GCP for beginners | Google Cloud Platform (GCP) tutorials",
+    "platform": "YouTube",
+    "provider": "IT-Made-Easy",
+    "price": 0,
+    "duration_weeks": 1,
+    "skills_covered": [
+      "AWS",
+      "Cloud Computing",
+      "GCP"
+    ],
+    "format": "video",
+    "level": "beginner",
+    "bahasa": "English",
+    "url": "https://www.youtube.com/watch?v=JX56WlESFaU",
+    "tanggal_scrape": "2026-05-13"
+  },
+  {
+    "id": "crs_0205",
+    "title": "Google Cloud Platform Full Course 2026 | GCP Full Course For Beginners | GCP | Simplilearn",
+    "platform": "YouTube",
+    "provider": "Simplilearn",
+    "price": 0,
+    "duration_weeks": 1,
+    "skills_covered": [
+      "AWS",
+      "Cloud Computing",
+      "GCP"
+    ],
+    "format": "video",
+    "level": "beginner",
+    "bahasa": "English",
+    "url": "https://www.youtube.com/watch?v=4dNSAIwXO5M",
+    "tanggal_scrape": "2026-05-13"
+  },
+  {
+    "id": "crs_0206",
+    "title": "Learn GO Fast: Full Tutorial",
+    "platform": "YouTube",
+    "provider": "Alex Mux",
+    "price": 0,
+    "duration_weeks": 1,
+    "skills_covered": [
+      "Go / Golang"
+    ],
+    "format": "video",
+    "level": "beginner",
+    "bahasa": "English",
+    "url": "https://www.youtube.com/watch?v=8uiZC0l4Ajw",
+    "tanggal_scrape": "2026-05-13"
+  },
+  {
+    "id": "crs_0207",
+    "title": "Golang Tutorial for Beginners | Full Go Course",
+    "platform": "YouTube",
+    "provider": "TechWorld with Nana",
+    "price": 0,
+    "duration_weeks": 1,
+    "skills_covered": [
+      "Go / Golang",
+      "Golang"
+    ],
+    "format": "video",
+    "level": "beginner",
+    "bahasa": "English",
+    "url": "https://www.youtube.com/watch?v=yyUHQIec83I",
+    "tanggal_scrape": "2026-05-13"
+  },
+  {
+    "id": "crs_0208",
+    "title": "Go Programming - Full Course",
+    "platform": "YouTube",
+    "provider": "Tech With Tim",
+    "price": 0,
+    "duration_weeks": 1,
+    "skills_covered": [
+      "Go / Golang"
+    ],
+    "format": "video",
+    "level": "beginner",
+    "bahasa": "English",
+    "url": "https://www.youtube.com/watch?v=V-lI7AmusGs",
+    "tanggal_scrape": "2026-05-13"
+  },
+  {
+    "id": "crs_0209",
+    "title": "Google Analytics 4 tutorial for beginners (2025) || GA4 tutorial for beginners || GA4 course",
+    "platform": "YouTube",
+    "provider": "Analytics Mania - Google Analytics & Tag Manager",
+    "price": 0,
+    "duration_weeks": 1,
+    "skills_covered": [
+      "Google Analytics"
+    ],
+    "format": "video",
+    "level": "beginner",
+    "bahasa": "English",
+    "url": "https://www.youtube.com/watch?v=mKu6FI53BxE",
+    "tanggal_scrape": "2026-05-13"
+  },
+  {
+    "id": "crs_0210",
+    "title": "What is Google Analytics? | Explained for Beginners!",
+    "platform": "YouTube",
+    "provider": "Create a Pro Website",
+    "price": 0,
+    "duration_weeks": 1,
+    "skills_covered": [
+      "Google Analytics"
+    ],
+    "format": "video",
+    "level": "beginner",
+    "bahasa": "English",
+    "url": "https://www.youtube.com/watch?v=ny2rBxwvxBY",
+    "tanggal_scrape": "2026-05-13"
+  },
+  {
+    "id": "crs_0211",
+    "title": "Google Analytics 4 tutorial for beginners (2026 update) || GA4 tutorial for beginners || GA4 course",
+    "platform": "YouTube",
+    "provider": "Analytics Mania - Google Analytics & Tag Manager",
+    "price": 0,
+    "duration_weeks": 1,
+    "skills_covered": [
+      "Google Analytics"
+    ],
+    "format": "video",
+    "level": "beginner",
+    "bahasa": "English",
+    "url": "https://www.youtube.com/watch?v=-Y-RQtYLpHM",
+    "tanggal_scrape": "2026-05-13"
+  },
+  {
+    "id": "crs_0212",
+    "title": "GraphQL Course for Beginners",
+    "platform": "YouTube",
+    "provider": "freeCodeCamp.org",
+    "price": 0,
+    "duration_weeks": 1,
+    "skills_covered": [
+      "GraphQL"
+    ],
+    "format": "video",
+    "level": "beginner",
+    "bahasa": "English",
+    "url": "https://www.youtube.com/watch?v=5199E50O7SI",
+    "tanggal_scrape": "2026-05-13"
+  },
+  {
+    "id": "crs_0213",
+    "title": "Learn GraphQL in 7 Minutes For Beginners",
+    "platform": "YouTube",
+    "provider": "PedroTech",
+    "price": 0,
+    "duration_weeks": 1,
+    "skills_covered": [
+      "GraphQL"
+    ],
+    "format": "video",
+    "level": "beginner",
+    "bahasa": "English",
+    "url": "https://www.youtube.com/watch?v=Zg4XIpnLWQg",
+    "tanggal_scrape": "2026-05-13"
+  },
+  {
+    "id": "crs_0214",
+    "title": "GraphQL Full Course from Beginner to Pro",
+    "platform": "YouTube",
+    "provider": "Warren Day",
+    "price": 0,
+    "duration_weeks": 1,
+    "skills_covered": [
+      "GraphQL"
+    ],
+    "format": "video",
+    "level": "beginner",
+    "bahasa": "English",
+    "url": "https://www.youtube.com/watch?v=N78yJmkWjSU",
+    "tanggal_scrape": "2026-05-13"
+  },
+  {
+    "id": "crs_0215",
+    "title": "HTML Tutorial for Beginners: HTML Crash Course",
+    "platform": "YouTube",
+    "provider": "Programming with Mosh",
+    "price": 0,
+    "duration_weeks": 1,
+    "skills_covered": [
+      "HTML"
+    ],
+    "format": "video",
+    "level": "beginner",
+    "bahasa": "English",
+    "url": "https://www.youtube.com/watch?v=qz0aGYrrlhU",
+    "tanggal_scrape": "2026-05-13"
+  },
+  {
+    "id": "crs_0216",
+    "title": "Learn HTML in 1 hour 🌎",
+    "platform": "YouTube",
+    "provider": "Bro Code",
+    "price": 0,
+    "duration_weeks": 1,
+    "skills_covered": [
+      "HTML"
+    ],
+    "format": "video",
+    "level": "beginner",
+    "bahasa": "English",
+    "url": "https://www.youtube.com/watch?v=HD13eq_Pmp8",
+    "tanggal_scrape": "2026-05-13"
+  },
+  {
+    "id": "crs_0217",
+    "title": "Hadoop In 5 Minutes | What Is Hadoop? | Introduction To Hadoop | Hadoop Explained |Simplilearn",
+    "platform": "YouTube",
+    "provider": "Simplilearn",
+    "price": 0,
+    "duration_weeks": 1,
+    "skills_covered": [
+      "Hadoop",
+      "Java",
+      "Python"
+    ],
+    "format": "video",
+    "level": "beginner",
+    "bahasa": "English",
+    "url": "https://www.youtube.com/watch?v=aReuLtY0YMI",
+    "tanggal_scrape": "2026-05-13"
+  },
+  {
+    "id": "crs_0218",
+    "title": "Big Data & Hadoop Full Course - Learn Hadoop In 10 Hours | Hadoop Tutorial For Beginners | Edureka",
+    "platform": "YouTube",
+    "provider": "edureka!",
+    "price": 0,
+    "duration_weeks": 1,
+    "skills_covered": [
+      "Hadoop",
+      "Java",
+      "Python",
+      "Spark"
+    ],
+    "format": "video",
+    "level": "beginner",
+    "bahasa": "English",
+    "url": "https://www.youtube.com/watch?v=1vbXmCrkT3Y",
+    "tanggal_scrape": "2026-05-13"
+  },
+  {
+    "id": "crs_0219",
+    "title": "Hadoop Training | Hadoop Training For Beginners | Hadoop Architecture | Hadoop Tutorial |Simplilearn",
+    "platform": "YouTube",
+    "provider": "Simplilearn",
+    "price": 0,
+    "duration_weeks": 1,
+    "skills_covered": [
+      "Hadoop",
+      "Java",
+      "Python"
+    ],
+    "format": "video",
+    "level": "beginner",
+    "bahasa": "English",
+    "url": "https://www.youtube.com/watch?v=d1vw4k3IuVY",
+    "tanggal_scrape": "2026-05-13"
+  },
+  {
+    "id": "crs_0220",
+    "title": "Jira for Beginners (FREE COURSE!)",
+    "platform": "YouTube",
+    "provider": "Alvin the PM - Become a Certified Project Manager",
+    "price": 0,
+    "duration_weeks": 1,
+    "skills_covered": [
+      "JIRA"
+    ],
+    "format": "video",
+    "level": "beginner",
+    "bahasa": "English",
+    "url": "https://www.youtube.com/watch?v=NDVSMlVYxm8",
+    "tanggal_scrape": "2026-05-13"
+  },
+  {
+    "id": "crs_0221",
+    "title": "Jira Tutorial for Beginners — Learn Jira in 20 Minutes",
+    "platform": "YouTube",
+    "provider": "Kevin Stratvert",
+    "price": 0,
+    "duration_weeks": 1,
+    "skills_covered": [
+      "JIRA"
+    ],
+    "format": "video",
+    "level": "beginner",
+    "bahasa": "English",
+    "url": "https://www.youtube.com/watch?v=GPOWZSxEslU",
+    "tanggal_scrape": "2026-05-13"
+  },
+  {
+    "id": "crs_0222",
+    "title": "Jira Full Course Tutorial",
+    "platform": "YouTube",
+    "provider": "Learn Skills Daily",
+    "price": 0,
+    "duration_weeks": 1,
+    "skills_covered": [
+      "JIRA"
+    ],
+    "format": "video",
+    "level": "beginner",
+    "bahasa": "English",
+    "url": "https://www.youtube.com/watch?v=wfx8MFrffjo",
+    "tanggal_scrape": "2026-05-13"
+  },
+  {
+    "id": "crs_0223",
+    "title": "Java Full Course for Beginners",
+    "platform": "YouTube",
+    "provider": "Programming with Mosh",
+    "price": 0,
+    "duration_weeks": 1,
+    "skills_covered": [
+      "Java"
+    ],
+    "format": "video",
+    "level": "beginner",
+    "bahasa": "English",
+    "url": "https://www.youtube.com/watch?v=eIrMbAQSU34",
+    "tanggal_scrape": "2026-05-13"
+  },
+  {
+    "id": "crs_0224",
+    "title": "Learn Java in 14 Minutes (seriously)",
+    "platform": "YouTube",
+    "provider": "Alex Lee",
+    "price": 0,
+    "duration_weeks": 1,
+    "skills_covered": [
+      "Java"
+    ],
+    "format": "video",
+    "level": "beginner",
+    "bahasa": "English",
+    "url": "https://www.youtube.com/watch?v=RRubcjpTkks",
+    "tanggal_scrape": "2026-05-13"
+  },
+  {
+    "id": "crs_0225",
+    "title": "Java Full Course for free ☕",
+    "platform": "YouTube",
+    "provider": "Bro Code",
+    "price": 0,
+    "duration_weeks": 1,
+    "skills_covered": [
+      "Java"
+    ],
+    "format": "video",
+    "level": "beginner",
+    "bahasa": "English",
+    "url": "https://www.youtube.com/watch?v=xTtL8E4LzTQ",
+    "tanggal_scrape": "2026-05-13"
+  },
+  {
+    "id": "crs_0226",
+    "title": "Jenkins Full Course | Jenkins Tutorial For Beginners | Jenkins Tutorial | Simplilearn",
+    "platform": "YouTube",
+    "provider": "Simplilearn",
+    "price": 0,
+    "duration_weeks": 1,
+    "skills_covered": [
+      "Jenkins"
+    ],
+    "format": "video",
+    "level": "beginner",
+    "bahasa": "English",
+    "url": "https://www.youtube.com/watch?v=FX322RVNGj4",
+    "tanggal_scrape": "2026-05-13"
+  },
+  {
+    "id": "crs_0227",
+    "title": "Learn Jenkins! Complete Jenkins Course - Zero to Hero",
+    "platform": "YouTube",
+    "provider": "DevOps Journey",
+    "price": 0,
+    "duration_weeks": 1,
+    "skills_covered": [
+      "Jenkins"
+    ],
+    "format": "video",
+    "level": "beginner",
+    "bahasa": "English",
+    "url": "https://www.youtube.com/watch?v=6YZvp2GwT0A",
+    "tanggal_scrape": "2026-05-13"
+  },
+  {
+    "id": "crs_0228",
+    "title": "What Is Jenkins? | What Is Jenkins And How It Works? | Jenkins Tutorial For Beginners | Simplilearn",
+    "platform": "YouTube",
+    "provider": "Simplilearn",
+    "price": 0,
+    "duration_weeks": 1,
+    "skills_covered": [
+      "Jenkins"
+    ],
+    "format": "video",
+    "level": "beginner",
+    "bahasa": "English",
+    "url": "https://www.youtube.com/watch?v=LFDrDnKPOTg",
+    "tanggal_scrape": "2026-05-13"
+  },
+  {
+    "id": "crs_0229",
+    "title": "What are KPIs and Metrics? | Data Fundamental for Beginners",
+    "platform": "YouTube",
+    "provider": "Alex The Analyst",
+    "price": 0,
+    "duration_weeks": 1,
+    "skills_covered": [
+      "KPI"
+    ],
+    "format": "video",
+    "level": "beginner",
+    "bahasa": "English",
+    "url": "https://www.youtube.com/watch?v=ItZlTixh6Bs",
+    "tanggal_scrape": "2026-05-13"
+  },
+  {
+    "id": "crs_0230",
+    "title": "What is a KPI? [KPI MEANING + KPI EXAMPLES]",
+    "platform": "YouTube",
+    "provider": "Adriana Girdler",
+    "price": 0,
+    "duration_weeks": 1,
+    "skills_covered": [
+      "KPI"
+    ],
+    "format": "video",
+    "level": "beginner",
+    "bahasa": "English",
+    "url": "https://www.youtube.com/watch?v=gUU_J6m1Heo",
+    "tanggal_scrape": "2026-05-13"
+  },
+  {
+    "id": "crs_0231",
+    "title": "Product Manager KPIs And Metrics | Introduction To KPI | Product Management Tutorial |Simplilearn",
+    "platform": "YouTube",
+    "provider": "Simplilearn",
+    "price": 0,
+    "duration_weeks": 1,
+    "skills_covered": [
+      "KPI",
+      "Product Management"
+    ],
+    "format": "video",
+    "level": "beginner",
+    "bahasa": "English",
+    "url": "https://www.youtube.com/watch?v=iN_jeOAzoso",
+    "tanggal_scrape": "2026-05-13"
+  },
+  {
+    "id": "crs_0232",
+    "title": "Full 2025 Kotlin Crash Course For Beginners",
+    "platform": "YouTube",
+    "provider": "Philipp Lackner",
+    "price": 0,
+    "duration_weeks": 1,
+    "skills_covered": [
+      "Kotlin"
+    ],
+    "format": "video",
+    "level": "beginner",
+    "bahasa": "English",
+    "url": "https://www.youtube.com/watch?v=dzUc9vrsldM",
+    "tanggal_scrape": "2026-05-13"
+  },
+  {
+    "id": "crs_0233",
+    "title": "Learn Kotlin Programming – Full Course for Beginners",
+    "platform": "YouTube",
+    "provider": "freeCodeCamp.org",
+    "price": 0,
+    "duration_weeks": 1,
+    "skills_covered": [
+      "Kotlin"
+    ],
+    "format": "video",
+    "level": "beginner",
+    "bahasa": "English",
+    "url": "https://www.youtube.com/watch?v=EExSSotojVI",
+    "tanggal_scrape": "2026-05-13"
+  },
+  {
+    "id": "crs_0234",
+    "title": "Kotlin Course - Tutorial for Beginners",
+    "platform": "YouTube",
+    "provider": "freeCodeCamp.org",
+    "price": 0,
+    "duration_weeks": 1,
+    "skills_covered": [
+      "Kotlin"
+    ],
+    "format": "video",
+    "level": "beginner",
+    "bahasa": "English",
+    "url": "https://www.youtube.com/watch?v=F9UC9DY-vIU",
+    "tanggal_scrape": "2026-05-13"
+  },
+  {
+    "id": "crs_0235",
+    "title": "Kubernetes Tutorial for Beginners [FULL COURSE in 4 Hours]",
+    "platform": "YouTube",
+    "provider": "TechWorld with Nana",
+    "price": 0,
+    "duration_weeks": 1,
+    "skills_covered": [
+      "Docker",
+      "Kubernetes"
+    ],
+    "format": "video",
+    "level": "beginner",
+    "bahasa": "English",
+    "url": "https://www.youtube.com/watch?v=X48VuDVv0do",
+    "tanggal_scrape": "2026-05-13"
+  },
+  {
+    "id": "crs_0236",
+    "title": "Kubernetes Crash Course for Absolute Beginners [NEW]",
+    "platform": "YouTube",
+    "provider": "TechWorld with Nana",
+    "price": 0,
+    "duration_weeks": 1,
+    "skills_covered": [
+      "Docker",
+      "Kubernetes"
+    ],
+    "format": "video",
+    "level": "beginner",
+    "bahasa": "English",
+    "url": "https://www.youtube.com/watch?v=s_o8dwzRlu4",
+    "tanggal_scrape": "2026-05-13"
+  },
+  {
+    "id": "crs_0237",
+    "title": "Kubernetes Zero to Hero: The Complete Beginner’s Guide (2025 Edition)",
+    "platform": "YouTube",
+    "provider": "Alta3 Research",
+    "price": 0,
+    "duration_weeks": 1,
+    "skills_covered": [
+      "Docker",
+      "Kubernetes"
+    ],
+    "format": "video",
+    "level": "beginner",
+    "bahasa": "English",
+    "url": "https://www.youtube.com/watch?v=MTHGoGUFpvE",
+    "tanggal_scrape": "2026-05-13"
+  },
+  {
+    "id": "crs_0238",
+    "title": "Learn Looker Studio in (46 Minutes) [Beginner Course]",
+    "platform": "YouTube",
+    "provider": "MeasureSchool",
+    "price": 0,
+    "duration_weeks": 1,
+    "skills_covered": [
+      "Looker"
+    ],
+    "format": "video",
+    "level": "beginner",
+    "bahasa": "English",
+    "url": "https://www.youtube.com/watch?v=-LNc1IvrC20",
+    "tanggal_scrape": "2026-05-13"
+  },
+  {
+    "id": "crs_0239",
+    "title": "Looker Studio Tutorial For Beginners",
+    "platform": "YouTube",
+    "provider": "Loves Data",
+    "price": 0,
+    "duration_weeks": 1,
+    "skills_covered": [
+      "Looker"
+    ],
+    "format": "video",
+    "level": "beginner",
+    "bahasa": "English",
+    "url": "https://www.youtube.com/watch?v=Coe_f79Xc2o",
+    "tanggal_scrape": "2026-05-13"
+  },
+  {
+    "id": "crs_0240",
+    "title": "Looker Studio Full Course",
+    "platform": "YouTube",
+    "provider": "XYZ Lab",
+    "price": 0,
+    "duration_weeks": 1,
+    "skills_covered": [
+      "Looker"
+    ],
+    "format": "video",
+    "level": "beginner",
+    "bahasa": "English",
+    "url": "https://www.youtube.com/watch?v=PN3SXJrNn4Y",
+    "tanggal_scrape": "2026-05-13"
+  },
+  {
+    "id": "crs_0241",
+    "title": ".NET Microservices – Full Course for Beginners",
+    "platform": "YouTube",
+    "provider": "freeCodeCamp.org",
+    "price": 0,
+    "duration_weeks": 1,
+    "skills_covered": [
+      "Microservices"
+    ],
+    "format": "video",
+    "level": "beginner",
+    "bahasa": "English",
+    "url": "https://www.youtube.com/watch?v=CqCDOosvZIk",
+    "tanggal_scrape": "2026-05-13"
+  },
+  {
+    "id": "crs_0242",
+    "title": "Microservices Explained in 5 Minutes",
+    "platform": "YouTube",
+    "provider": "5 Minutes Tech",
+    "price": 0,
+    "duration_weeks": 1,
+    "skills_covered": [
+      "Microservices"
+    ],
+    "format": "video",
+    "level": "beginner",
+    "bahasa": "English",
+    "url": "https://www.youtube.com/watch?v=lL_j7ilk7rc",
+    "tanggal_scrape": "2026-05-13"
+  },
+  {
+    "id": "crs_0243",
+    "title": "What Are Microservices Really All About? (And When Not To Use It)",
+    "platform": "YouTube",
+    "provider": "ByteByteGo",
+    "price": 0,
+    "duration_weeks": 1,
+    "skills_covered": [
+      "Microservices"
+    ],
+    "format": "video",
+    "level": "beginner",
+    "bahasa": "English",
+    "url": "https://www.youtube.com/watch?v=lTAcCNbJ7KE",
+    "tanggal_scrape": "2026-05-13"
+  },
+  {
+    "id": "crs_0244",
+    "title": "SQL Explained in 100 Seconds",
+    "platform": "YouTube",
+    "provider": "Fireship",
+    "price": 0,
+    "duration_weeks": 1,
+    "skills_covered": [
+      "Microsoft SQL Server",
+      "MySQL",
+      "PostgreSQL",
+      "SQL"
+    ],
+    "format": "video",
+    "level": "beginner",
+    "bahasa": "English",
+    "url": "https://www.youtube.com/watch?v=zsjvFFKOm3c",
+    "tanggal_scrape": "2026-05-13"
+  },
+  {
+    "id": "crs_0245",
+    "title": "SQL Tutorial for Beginners",
+    "platform": "YouTube",
+    "provider": "Kevin Stratvert",
+    "price": 0,
+    "duration_weeks": 1,
+    "skills_covered": [
+      "Microsoft SQL Server",
+      "MySQL",
+      "PostgreSQL",
+      "SQL"
+    ],
+    "format": "video",
+    "level": "beginner",
+    "bahasa": "English",
+    "url": "https://www.youtube.com/watch?v=h0nxCDiD-zg",
+    "tanggal_scrape": "2026-05-13"
+  },
+  {
+    "id": "crs_0246",
+    "title": "SQL Tutorial for Beginners with SQL Server | Full Course | 2024",
+    "platform": "YouTube",
+    "provider": "Frank Liu",
+    "price": 0,
+    "duration_weeks": 1,
+    "skills_covered": [
+      "Microsoft SQL Server",
+      "MySQL",
+      "PostgreSQL",
+      "SQL"
+    ],
+    "format": "video",
+    "level": "beginner",
+    "bahasa": "English",
+    "url": "https://www.youtube.com/watch?v=voTZUMw23pg",
+    "tanggal_scrape": "2026-05-13"
+  },
+  {
+    "id": "crs_0247",
+    "title": "Learn MongoDB in 1 hour 🍃",
+    "platform": "YouTube",
+    "provider": "Bro Code",
+    "price": 0,
+    "duration_weeks": 1,
+    "skills_covered": [
+      "MongoDB"
+    ],
+    "format": "video",
+    "level": "beginner",
+    "bahasa": "English",
+    "url": "https://www.youtube.com/watch?v=c2M-rlkkT5o",
+    "tanggal_scrape": "2026-05-13"
+  },
+  {
+    "id": "crs_0248",
+    "title": "MongoDB in 100 Seconds",
+    "platform": "YouTube",
+    "provider": "Fireship",
+    "price": 0,
+    "duration_weeks": 1,
+    "skills_covered": [
+      "MongoDB"
+    ],
+    "format": "video",
+    "level": "beginner",
+    "bahasa": "English",
+    "url": "https://www.youtube.com/watch?v=-bt_y4Loofg",
+    "tanggal_scrape": "2026-05-13"
+  },
+  {
+    "id": "crs_0249",
+    "title": "MongoDB Crash Course",
+    "platform": "YouTube",
+    "provider": "Web Dev Simplified",
+    "price": 0,
+    "duration_weeks": 1,
+    "skills_covered": [
+      "MongoDB"
+    ],
+    "format": "video",
+    "level": "beginner",
+    "bahasa": "English",
+    "url": "https://www.youtube.com/watch?v=ofme2o29ngU",
+    "tanggal_scrape": "2026-05-13"
+  },
+  {
+    "id": "crs_0250",
+    "title": "SQL Course for Beginners [Full Course]",
+    "platform": "YouTube",
+    "provider": "Programming with Mosh",
+    "price": 0,
+    "duration_weeks": 1,
+    "skills_covered": [
+      "MySQL",
+      "PostgreSQL",
+      "SQL"
+    ],
+    "format": "video",
+    "level": "beginner",
+    "bahasa": "English",
+    "url": "https://www.youtube.com/watch?v=7S_tz1z_5bA",
+    "tanggal_scrape": "2026-05-13"
+  },
+  {
+    "id": "crs_0251",
+    "title": "MySQL - The Basics // Learn SQL in 23 Easy Steps",
+    "platform": "YouTube",
+    "provider": "Fireship",
+    "price": 0,
+    "duration_weeks": 1,
+    "skills_covered": [
+      "MySQL",
+      "PostgreSQL",
+      "SQL"
+    ],
+    "format": "video",
+    "level": "beginner",
+    "bahasa": "English",
+    "url": "https://www.youtube.com/watch?v=Cz3WcZLRaWc",
+    "tanggal_scrape": "2026-05-13"
+  },
+  {
+    "id": "crs_0252",
+    "title": "SQL Full Course for free 🐬",
+    "platform": "YouTube",
+    "provider": "Bro Code",
+    "price": 0,
+    "duration_weeks": 1,
+    "skills_covered": [
+      "MySQL",
+      "PostgreSQL",
+      "SQL"
+    ],
+    "format": "video",
+    "level": "beginner",
+    "bahasa": "English",
+    "url": "https://www.youtube.com/watch?v=5OdVJbNCSso",
+    "tanggal_scrape": "2026-05-13"
+  },
+  {
+    "id": "crs_0253",
+    "title": "Learn NextJS in 7 Minutes",
+    "platform": "YouTube",
+    "provider": "PedroTech",
+    "price": 0,
+    "duration_weeks": 1,
+    "skills_covered": [
+      "Next.js"
+    ],
+    "format": "video",
+    "level": "beginner",
+    "bahasa": "English",
+    "url": "https://www.youtube.com/watch?v=xnOwOBYaA3w",
+    "tanggal_scrape": "2026-05-13"
+  },
+  {
+    "id": "crs_0254",
+    "title": "Next.js in 100 Seconds // Plus Full Beginner's Tutorial",
+    "platform": "YouTube",
+    "provider": "Fireship",
+    "price": 0,
+    "duration_weeks": 1,
+    "skills_covered": [
+      "Next.js"
+    ],
+    "format": "video",
+    "level": "beginner",
+    "bahasa": "English",
+    "url": "https://www.youtube.com/watch?v=Sklc_fQBmcs",
+    "tanggal_scrape": "2026-05-13"
+  },
+  {
+    "id": "crs_0255",
+    "title": "Next js Tutorial for Beginners | Nextjs 13 (App Router) with TypeScript",
+    "platform": "YouTube",
+    "provider": "Programming with Mosh",
+    "price": 0,
+    "duration_weeks": 1,
+    "skills_covered": [
+      "Next.js",
+      "TypeScript"
+    ],
+    "format": "video",
+    "level": "beginner",
+    "bahasa": "English",
+    "url": "https://www.youtube.com/watch?v=ZVnjOPwW4ZA",
+    "tanggal_scrape": "2026-05-13"
+  },
+  {
+    "id": "crs_0256",
+    "title": "Node.js Ultimate Beginner’s Guide in 7 Easy Steps",
+    "platform": "YouTube",
+    "provider": "Fireship",
+    "price": 0,
+    "duration_weeks": 1,
+    "skills_covered": [
+      "Node.js"
+    ],
+    "format": "video",
+    "level": "beginner",
+    "bahasa": "English",
+    "url": "https://www.youtube.com/watch?v=ENrzD9HAZK4",
+    "tanggal_scrape": "2026-05-13"
+  },
+  {
+    "id": "crs_0257",
+    "title": "Node.js Tutorial for Beginners: Learn Node in 1 Hour",
+    "platform": "YouTube",
+    "provider": "Programming with Mosh",
+    "price": 0,
+    "duration_weeks": 1,
+    "skills_covered": [
+      "Node.js"
+    ],
+    "format": "video",
+    "level": "beginner",
+    "bahasa": "English",
+    "url": "https://www.youtube.com/watch?v=TlB_eWDSMt4",
+    "tanggal_scrape": "2026-05-13"
+  },
+  {
+    "id": "crs_0258",
+    "title": "Node.js Full Course for Beginners | Complete All-in-One Tutorial | 7 Hours",
+    "platform": "YouTube",
+    "provider": "Dave Gray",
+    "price": 0,
+    "duration_weeks": 1,
+    "skills_covered": [
+      "Node.js"
+    ],
+    "format": "video",
+    "level": "beginner",
+    "bahasa": "English",
+    "url": "https://www.youtube.com/watch?v=f2EqECiTBL8",
+    "tanggal_scrape": "2026-05-13"
+  },
+  {
+    "id": "crs_0259",
+    "title": "Build Better Apps with AI Using This One Simple Document (PRD Guide)",
+    "platform": "YouTube",
+    "provider": "Jordan Urbs",
+    "price": 0,
+    "duration_weeks": 1,
+    "skills_covered": [
+      "PRD"
+    ],
+    "format": "video",
+    "level": "beginner",
+    "bahasa": "English",
+    "url": "https://www.youtube.com/watch?v=MZjW7mlRgdw",
+    "tanggal_scrape": "2026-05-13"
+  },
+  {
+    "id": "crs_0260",
+    "title": "How to write a PRD? | Walkthrough of PRD Template Example",
+    "platform": "YouTube",
+    "provider": "Travel Adventures",
+    "price": 0,
+    "duration_weeks": 1,
+    "skills_covered": [
+      "PRD"
+    ],
+    "format": "video",
+    "level": "beginner",
+    "bahasa": "English",
+    "url": "https://www.youtube.com/watch?v=ewfneGyjhaY",
+    "tanggal_scrape": "2026-05-13"
+  },
+  {
+    "id": "crs_0261",
+    "title": "How to Write a Product Requirements Document - Create PRD | Free Notion Template",
+    "platform": "YouTube",
+    "provider": "HelloPM",
+    "price": 0,
+    "duration_weeks": 1,
+    "skills_covered": [
+      "PRD"
+    ],
+    "format": "video",
+    "level": "beginner",
+    "bahasa": "English",
+    "url": "https://www.youtube.com/watch?v=JJzODsXsCt0",
+    "tanggal_scrape": "2026-05-13"
+  },
+  {
+    "id": "crs_0262",
+    "title": "Learn Pandas in 1 hour! 🐼",
+    "platform": "YouTube",
+    "provider": "Bro Code",
+    "price": 0,
+    "duration_weeks": 1,
+    "skills_covered": [
+      "Pandas"
+    ],
+    "format": "video",
+    "level": "beginner",
+    "bahasa": "English",
+    "url": "https://www.youtube.com/watch?v=VXtjG_GzO7Q",
+    "tanggal_scrape": "2026-05-13"
+  },
+  {
+    "id": "crs_0263",
+    "title": "Pandas Full Course (2025) | Python Pandas Tutorial For Beginners | Python Pandas Course |Intellipaat",
+    "platform": "YouTube",
+    "provider": "Intellipaat",
+    "price": 0,
+    "duration_weeks": 1,
+    "skills_covered": [
+      "Pandas",
+      "Python"
+    ],
+    "format": "video",
+    "level": "beginner",
+    "bahasa": "English",
+    "url": "https://www.youtube.com/watch?v=vtgDGrUiUKk",
+    "tanggal_scrape": "2026-05-13"
+  },
+  {
+    "id": "crs_0264",
+    "title": "Pandas & Python for Data Analysis by Example – Full Course for Beginners",
+    "platform": "YouTube",
+    "provider": "freeCodeCamp.org",
+    "price": 0,
+    "duration_weeks": 1,
+    "skills_covered": [
+      "Data Analysis",
+      "Pandas",
+      "Python"
+    ],
+    "format": "video",
+    "level": "beginner",
+    "bahasa": "English",
+    "url": "https://www.youtube.com/watch?v=gtjxAH8uaP0",
+    "tanggal_scrape": "2026-05-13"
+  },
+  {
+    "id": "crs_0265",
+    "title": "Learn PostgreSQL Tutorial - Full Course for Beginners",
+    "platform": "YouTube",
+    "provider": "freeCodeCamp.org",
+    "price": 0,
+    "duration_weeks": 1,
+    "skills_covered": [
+      "MySQL",
+      "PostgreSQL",
+      "SQL"
+    ],
+    "format": "video",
+    "level": "beginner",
+    "bahasa": "English",
+    "url": "https://www.youtube.com/watch?v=qw--VYLpxG4",
+    "tanggal_scrape": "2026-05-13"
+  },
+  {
+    "id": "crs_0266",
+    "title": "PostgreSQL in 100 Seconds",
+    "platform": "YouTube",
+    "provider": "Fireship",
+    "price": 0,
+    "duration_weeks": 1,
+    "skills_covered": [
+      "MySQL",
+      "PostgreSQL",
+      "SQL"
+    ],
+    "format": "video",
+    "level": "beginner",
+    "bahasa": "English",
+    "url": "https://www.youtube.com/watch?v=n2Fluyr3lbc",
+    "tanggal_scrape": "2026-05-13"
+  },
+  {
+    "id": "crs_0267",
+    "title": "PostgreSQL Tutorial Full Course 2022",
+    "platform": "YouTube",
+    "provider": "Derek Banas",
+    "price": 0,
+    "duration_weeks": 1,
+    "skills_covered": [
+      "MySQL",
+      "PostgreSQL",
+      "SQL"
+    ],
+    "format": "video",
+    "level": "beginner",
+    "bahasa": "English",
+    "url": "https://www.youtube.com/watch?v=85pG_pDkITY",
+    "tanggal_scrape": "2026-05-13"
+  },
+  {
+    "id": "crs_0268",
+    "title": "Power BI for Data Analytics - Full Course for Beginners",
+    "platform": "YouTube",
+    "provider": "Luke Barousse",
+    "price": 0,
+    "duration_weeks": 1,
+    "skills_covered": [
+      "Data Visualization",
+      "Power BI"
+    ],
+    "format": "video",
+    "level": "beginner",
+    "bahasa": "English",
+    "url": "https://www.youtube.com/watch?v=FwjaHCVNBWA",
+    "tanggal_scrape": "2026-05-13"
+  },
+  {
+    "id": "crs_0269",
+    "title": "Power BI Tutorial for Beginners",
+    "platform": "YouTube",
+    "provider": "Kevin Stratvert",
+    "price": 0,
+    "duration_weeks": 1,
+    "skills_covered": [
+      "Data Visualization",
+      "Power BI"
+    ],
+    "format": "video",
+    "level": "beginner",
+    "bahasa": "English",
+    "url": "https://www.youtube.com/watch?v=VaOhNqNtGGE",
+    "tanggal_scrape": "2026-05-13"
+  },
+  {
+    "id": "crs_0270",
+    "title": "Learn Power BI in Under 3 Hours | Formatting, Visualizations, Dashboards + Full Project",
+    "platform": "YouTube",
+    "provider": "Alex The Analyst",
+    "price": 0,
+    "duration_weeks": 1,
+    "skills_covered": [
+      "Data Visualization",
+      "Power BI"
+    ],
+    "format": "video",
+    "level": "beginner",
+    "bahasa": "English",
+    "url": "https://www.youtube.com/watch?v=I0vQ_VLZTWg",
+    "tanggal_scrape": "2026-05-13"
+  },
+  {
+    "id": "crs_0271",
+    "title": "Problem-Solving for Developers - A Beginner's Guide",
+    "platform": "YouTube",
+    "provider": "Fireship",
+    "price": 0,
+    "duration_weeks": 1,
+    "skills_covered": [
+      "Problem Solving"
+    ],
+    "format": "video",
+    "level": "beginner",
+    "bahasa": "English",
+    "url": "https://www.youtube.com/watch?v=UFc-RPbq8kg",
+    "tanggal_scrape": "2026-05-13"
+  },
+  {
+    "id": "crs_0272",
+    "title": "Algorithms and Data Structures Tutorial - Full Course for Beginners",
+    "platform": "YouTube",
+    "provider": "freeCodeCamp.org",
+    "price": 0,
+    "duration_weeks": 1,
+    "skills_covered": [
+      "Problem Solving"
+    ],
+    "format": "video",
+    "level": "beginner",
+    "bahasa": "English",
+    "url": "https://www.youtube.com/watch?v=8hly31xKli0",
+    "tanggal_scrape": "2026-05-13"
+  },
+  {
+    "id": "crs_0273",
+    "title": "Dynamic Programming - Learn to Solve Algorithmic Problems & Coding Challenges",
+    "platform": "YouTube",
+    "provider": "freeCodeCamp.org",
+    "price": 0,
+    "duration_weeks": 1,
+    "skills_covered": [
+      "Problem Solving"
+    ],
+    "format": "video",
+    "level": "beginner",
+    "bahasa": "English",
+    "url": "https://www.youtube.com/watch?v=oBt53YbR9Kk",
+    "tanggal_scrape": "2026-05-13"
+  },
+  {
+    "id": "crs_0274",
+    "title": "Business Process Mapping 101 (Step By Step Guide)",
+    "platform": "YouTube",
+    "provider": "Toni Debelic | OpsKings",
+    "price": 0,
+    "duration_weeks": 1,
+    "skills_covered": [
+      "Process Mapping"
+    ],
+    "format": "video",
+    "level": "beginner",
+    "bahasa": "English",
+    "url": "https://www.youtube.com/watch?v=zGB9SScvoQU",
+    "tanggal_scrape": "2026-05-13"
+  },
+  {
+    "id": "crs_0275",
+    "title": "Process Mapping in 5 Minutes (Simple)",
+    "platform": "YouTube",
+    "provider": "Toni Debelic | OpsKings",
+    "price": 0,
+    "duration_weeks": 1,
+    "skills_covered": [
+      "Process Mapping"
+    ],
+    "format": "video",
+    "level": "beginner",
+    "bahasa": "English",
+    "url": "https://www.youtube.com/watch?v=7Xh6g1sW2KY",
+    "tanggal_scrape": "2026-05-13"
+  },
+  {
+    "id": "crs_0276",
+    "title": "How to Create a Simple Process Map (With Examples)",
+    "platform": "YouTube",
+    "provider": "Adriana Girdler",
+    "price": 0,
+    "duration_weeks": 1,
+    "skills_covered": [
+      "Process Mapping"
+    ],
+    "format": "video",
+    "level": "beginner",
+    "bahasa": "English",
+    "url": "https://www.youtube.com/watch?v=nRqrXl3SzIA",
+    "tanggal_scrape": "2026-05-13"
+  },
+  {
+    "id": "crs_0277",
+    "title": "Product Management 101: Everything You Need to Know (Full Course)",
+    "platform": "YouTube",
+    "provider": "Explained Hub",
+    "price": 0,
+    "duration_weeks": 1,
+    "skills_covered": [
+      "Product Management"
+    ],
+    "format": "video",
+    "level": "beginner",
+    "bahasa": "English",
+    "url": "https://www.youtube.com/watch?v=5nAeyqNuZYU",
+    "tanggal_scrape": "2026-05-13"
+  },
+  {
+    "id": "crs_0278",
+    "title": "What I *actually* do as a Product Manager (in 2023)",
+    "platform": "YouTube",
+    "provider": "Chloe Shih",
+    "price": 0,
+    "duration_weeks": 1,
+    "skills_covered": [
+      "Product Management"
+    ],
+    "format": "video",
+    "level": "beginner",
+    "bahasa": "English",
+    "url": "https://www.youtube.com/watch?v=Dnh0jP-GA0o",
+    "tanggal_scrape": "2026-05-13"
+  },
+  {
+    "id": "crs_0279",
+    "title": "How I became a product manager with NO experience in 4 months",
+    "platform": "YouTube",
+    "provider": "Tina Louise Chen",
+    "price": 0,
+    "duration_weeks": 1,
+    "skills_covered": [
+      "Product Management"
+    ],
+    "format": "video",
+    "level": "beginner",
+    "bahasa": "English",
+    "url": "https://www.youtube.com/watch?v=eddzyiblzFg",
+    "tanggal_scrape": "2026-05-13"
+  },
+  {
+    "id": "crs_0280",
+    "title": "Project Management Full Course In 8 Hours | Project Management Training | Simplilearn",
+    "platform": "YouTube",
+    "provider": "Simplilearn",
+    "price": 0,
+    "duration_weeks": 1,
+    "skills_covered": [
+      "Project Management"
+    ],
+    "format": "video",
+    "level": "beginner",
+    "bahasa": "English",
+    "url": "https://www.youtube.com/watch?v=uWPIsaYpY7U",
+    "tanggal_scrape": "2026-05-13"
+  },
+  {
+    "id": "crs_0281",
+    "title": "Project Management 101 | Project Management Tutorial for Beginners | Project Management Fundamentals",
+    "platform": "YouTube",
+    "provider": "Invensis Learning",
+    "price": 0,
+    "duration_weeks": 1,
+    "skills_covered": [
+      "Project Management"
+    ],
+    "format": "video",
+    "level": "beginner",
+    "bahasa": "English",
+    "url": "https://www.youtube.com/watch?v=cLXkOYaZ_K0",
+    "tanggal_scrape": "2026-05-13"
+  },
+  {
+    "id": "crs_0282",
+    "title": "The Complete Project Management Body of Knowledge in One Video (PMBOK 7th Edition)",
+    "platform": "YouTube",
+    "provider": "David McLachlan",
+    "price": 0,
+    "duration_weeks": 1,
+    "skills_covered": [
+      "Project Management"
+    ],
+    "format": "video",
+    "level": "beginner",
+    "bahasa": "English",
+    "url": "https://www.youtube.com/watch?v=2gmCr40uT4U",
+    "tanggal_scrape": "2026-05-13"
+  },
+  {
+    "id": "crs_0283",
+    "title": "Figma for Edu: Prototyping 101, new basics",
+    "platform": "YouTube",
+    "provider": "Figma",
+    "price": 0,
+    "duration_weeks": 1,
+    "skills_covered": [
+      "Figma",
+      "Prototyping"
+    ],
+    "format": "video",
+    "level": "beginner",
+    "bahasa": "English",
+    "url": "https://www.youtube.com/watch?v=UUsysuFmVrA",
+    "tanggal_scrape": "2026-05-13"
+  },
+  {
+    "id": "crs_0284",
+    "title": "The CORRECT (and lazy) way to prototype | Figma Tutorial",
+    "platform": "YouTube",
+    "provider": "Mizko",
+    "price": 0,
+    "duration_weeks": 1,
+    "skills_covered": [
+      "Figma",
+      "Prototyping"
+    ],
+    "format": "video",
+    "level": "beginner",
+    "bahasa": "English",
+    "url": "https://www.youtube.com/watch?v=L22lDu3QX2c",
+    "tanggal_scrape": "2026-05-13"
+  },
+  {
+    "id": "crs_0285",
+    "title": "Figma Prototyping in 20 minutes | How to prototype in Figma - a beginners guide | Figma 2025",
+    "platform": "YouTube",
+    "provider": "TD Sunshine",
+    "price": 0,
+    "duration_weeks": 1,
+    "skills_covered": [
+      "Figma",
+      "Prototyping"
+    ],
+    "format": "video",
+    "level": "beginner",
+    "bahasa": "English",
+    "url": "https://www.youtube.com/watch?v=k1iwiHJrAWI",
+    "tanggal_scrape": "2026-05-13"
+  },
+  {
+    "id": "crs_0286",
+    "title": "PyTorch in 100 Seconds",
+    "platform": "YouTube",
+    "provider": "Fireship",
+    "price": 0,
+    "duration_weeks": 1,
+    "skills_covered": [
+      "Deep Learning",
+      "PyTorch",
+      "Python"
+    ],
+    "format": "video",
+    "level": "beginner",
+    "bahasa": "English",
+    "url": "https://www.youtube.com/watch?v=ORMx45xqWkA",
+    "tanggal_scrape": "2026-05-13"
+  },
+  {
+    "id": "crs_0287",
+    "title": "PyTorch 101 Crash Course For Beginners in 2026 | Daniel Bourke",
+    "platform": "YouTube",
+    "provider": "Zero To Mastery",
+    "price": 0,
+    "duration_weeks": 1,
+    "skills_covered": [
+      "Deep Learning",
+      "PyTorch",
+      "Python"
+    ],
+    "format": "video",
+    "level": "beginner",
+    "bahasa": "English",
+    "url": "https://www.youtube.com/watch?v=LyJtbe__2i0",
+    "tanggal_scrape": "2026-05-13"
+  },
+  {
+    "id": "crs_0288",
+    "title": "Python for Beginners - Learn Coding with Python in 1 Hour",
+    "platform": "YouTube",
+    "provider": "Programming with Mosh",
+    "price": 0,
+    "duration_weeks": 1,
+    "skills_covered": [
+      "Python"
+    ],
+    "format": "video",
+    "level": "beginner",
+    "bahasa": "English",
+    "url": "https://www.youtube.com/watch?v=kqtD5dpn9C8",
+    "tanggal_scrape": "2026-05-13"
+  },
+  {
+    "id": "crs_0289",
+    "title": "Python Full Course for Beginners | Complete All-in-One Tutorial | 9 Hours",
+    "platform": "YouTube",
+    "provider": "Dave Gray",
+    "price": 0,
+    "duration_weeks": 1,
+    "skills_covered": [
+      "Python"
+    ],
+    "format": "video",
+    "level": "beginner",
+    "bahasa": "English",
+    "url": "https://www.youtube.com/watch?v=H2EJuAcrZYU",
+    "tanggal_scrape": "2026-05-13"
+  },
+  {
+    "id": "crs_0290",
+    "title": "Learn Python in Less than 10 Minutes for Beginners (Fast & Easy)",
+    "platform": "YouTube",
+    "provider": "Indently",
+    "price": 0,
+    "duration_weeks": 1,
+    "skills_covered": [
+      "Python"
+    ],
+    "format": "video",
+    "level": "beginner",
+    "bahasa": "English",
+    "url": "https://www.youtube.com/watch?v=fWjsdhR3z3c",
+    "tanggal_scrape": "2026-05-13"
+  },
+  {
+    "id": "crs_0291",
+    "title": "APIs for Beginners - How to use an API (Full Course / Tutorial)",
+    "platform": "YouTube",
+    "provider": "freeCodeCamp.org",
+    "price": 0,
+    "duration_weeks": 1,
+    "skills_covered": [
+      "REST API"
+    ],
+    "format": "video",
+    "level": "beginner",
+    "bahasa": "English",
+    "url": "https://www.youtube.com/watch?v=WXsD0ZgxjRw",
+    "tanggal_scrape": "2026-05-13"
+  },
+  {
+    "id": "crs_0292",
+    "title": "REST API Crash Course - Introduction + Full Python API Tutorial",
+    "platform": "YouTube",
+    "provider": "Caleb Curry",
+    "price": 0,
+    "duration_weeks": 1,
+    "skills_covered": [
+      "Python",
+      "REST API"
+    ],
+    "format": "video",
+    "level": "beginner",
+    "bahasa": "English",
+    "url": "https://www.youtube.com/watch?v=qbLc5a9jdXo",
+    "tanggal_scrape": "2026-05-13"
+  },
+  {
+    "id": "crs_0293",
+    "title": "What Is REST API? Examples And How To Use It: Crash Course System Design #3",
+    "platform": "YouTube",
+    "provider": "ByteByteGo",
+    "price": 0,
+    "duration_weeks": 1,
+    "skills_covered": [
+      "REST API"
+    ],
+    "format": "video",
+    "level": "beginner",
+    "bahasa": "English",
+    "url": "https://www.youtube.com/watch?v=-mN3VyJuCjM",
+    "tanggal_scrape": "2026-05-13"
+  },
+  {
+    "id": "crs_0294",
+    "title": "React Tutorial Full Course - Beginner to Pro (React 19, 2025)",
+    "platform": "YouTube",
+    "provider": "SuperSimpleDev",
+    "price": 0,
+    "duration_weeks": 1,
+    "skills_covered": [
+      "JavaScript",
+      "React",
+      "TypeScript"
+    ],
+    "format": "video",
+    "level": "beginner",
+    "bahasa": "English",
+    "url": "https://www.youtube.com/watch?v=TtPXvEcE11E",
+    "tanggal_scrape": "2026-05-13"
+  },
+  {
+    "id": "crs_0295",
+    "title": "React Tutorial for Beginners",
+    "platform": "YouTube",
+    "provider": "Programming with Mosh",
+    "price": 0,
+    "duration_weeks": 1,
+    "skills_covered": [
+      "JavaScript",
+      "React",
+      "TypeScript"
+    ],
+    "format": "video",
+    "level": "beginner",
+    "bahasa": "English",
+    "url": "https://www.youtube.com/watch?v=SqcY0GlETPk",
+    "tanggal_scrape": "2026-05-13"
+  },
+  {
+    "id": "crs_0296",
+    "title": "React Full Course for free ⚛️",
+    "platform": "YouTube",
+    "provider": "Bro Code",
+    "price": 0,
+    "duration_weeks": 1,
+    "skills_covered": [
+      "JavaScript",
+      "React",
+      "TypeScript"
+    ],
+    "format": "video",
+    "level": "beginner",
+    "bahasa": "English",
+    "url": "https://www.youtube.com/watch?v=CgkZ7MvWUAA",
+    "tanggal_scrape": "2026-05-13"
+  },
+  {
+    "id": "crs_0297",
+    "title": "React Native Course for Beginners in 2025 | Build a Full Stack React Native App",
+    "platform": "YouTube",
+    "provider": "JavaScript Mastery",
+    "price": 0,
+    "duration_weeks": 1,
+    "skills_covered": [
+      "CSS",
+      "HTML",
+      "JavaScript",
+      "Node.js",
+      "React",
+      "React Native",
+      "TypeScript"
+    ],
+    "format": "video",
+    "level": "beginner",
+    "bahasa": "English",
+    "url": "https://www.youtube.com/watch?v=f8Z9JyB2EIE",
+    "tanggal_scrape": "2026-05-13"
+  },
+  {
+    "id": "crs_0298",
+    "title": "React Native Full Course for Beginners",
+    "platform": "YouTube",
+    "provider": "freeCodeCamp.org",
+    "price": 0,
+    "duration_weeks": 1,
+    "skills_covered": [
+      "JavaScript",
+      "React",
+      "React Native",
+      "TypeScript"
+    ],
+    "format": "video",
+    "level": "beginner",
+    "bahasa": "English",
+    "url": "https://www.youtube.com/watch?v=sm5Y7Vtuihg",
+    "tanggal_scrape": "2026-05-13"
+  },
+  {
+    "id": "crs_0299",
+    "title": "React Native Crash Course 2026 - Build a Complete Mobile App",
+    "platform": "YouTube",
+    "provider": "Traversy Media",
+    "price": 0,
+    "duration_weeks": 1,
+    "skills_covered": [
+      "JavaScript",
+      "React",
+      "React Native",
+      "TypeScript"
+    ],
+    "format": "video",
+    "level": "beginner",
+    "bahasa": "English",
+    "url": "https://www.youtube.com/watch?v=XCifkDC0yXA",
+    "tanggal_scrape": "2026-05-13"
+  },
+  {
+    "id": "crs_0300",
+    "title": "The Complete Machine Learning Roadmap",
+    "platform": "YouTube",
+    "provider": "Programming with Mosh",
+    "price": 0,
+    "duration_weeks": 1,
+    "skills_covered": [
+      "Machine Learning",
+      "Python",
+      "Roadmap",
+      "Statistics",
+      "TensorFlow"
+    ],
+    "format": "video",
+    "level": "beginner",
+    "bahasa": "English",
+    "url": "https://www.youtube.com/watch?v=7IgVGSaQPaw",
+    "tanggal_scrape": "2026-05-13"
+  },
+  {
+    "id": "crs_0301",
+    "title": "The Complete Web Development Roadmap",
+    "platform": "YouTube",
+    "provider": "Programming with Mosh",
+    "price": 0,
+    "duration_weeks": 1,
+    "skills_covered": [
+      "Roadmap"
+    ],
+    "format": "video",
+    "level": "beginner",
+    "bahasa": "English",
+    "url": "https://www.youtube.com/watch?v=GxmfcnU3feo",
+    "tanggal_scrape": "2026-05-13"
+  },
+  {
+    "id": "crs_0302",
+    "title": "Web Development Roadmap for Beginners (all FREE resources!)",
+    "platform": "YouTube",
+    "provider": "Coder Coder",
+    "price": 0,
+    "duration_weeks": 1,
+    "skills_covered": [
+      "Roadmap"
+    ],
+    "format": "video",
+    "level": "beginner",
+    "bahasa": "English",
+    "url": "https://www.youtube.com/watch?v=lQrcQ3e4mkA",
+    "tanggal_scrape": "2026-05-13"
+  },
+  {
+    "id": "crs_0303",
+    "title": "SQL Tutorial - Full Database Course for Beginners",
+    "platform": "YouTube",
+    "provider": "freeCodeCamp.org",
+    "price": 0,
+    "duration_weeks": 1,
+    "skills_covered": [
+      "MySQL",
+      "PostgreSQL",
+      "SQL"
+    ],
+    "format": "video",
+    "level": "beginner",
+    "bahasa": "English",
+    "url": "https://www.youtube.com/watch?v=HXV3zeQKqGY",
+    "tanggal_scrape": "2026-05-13"
+  },
+  {
+    "id": "crs_0304",
+    "title": "Learn Basic SQL in 15 Minutes | Business Intelligence For Beginners | SQL Tutorial For Beginners 1/3",
+    "platform": "YouTube",
+    "provider": "Adam Finer - Learn BI",
+    "price": 0,
+    "duration_weeks": 1,
+    "skills_covered": [
+      "Business Analysis",
+      "Data Visualization",
+      "MySQL",
+      "PostgreSQL",
+      "SQL"
+    ],
+    "format": "video",
+    "level": "beginner",
+    "bahasa": "English",
+    "url": "https://www.youtube.com/watch?v=kbKty5ZVKMY",
+    "tanggal_scrape": "2026-05-13"
+  },
+  {
+    "id": "crs_0305",
+    "title": "The Scrum Guide: FULL COURSE",
+    "platform": "YouTube",
+    "provider": "David McLachlan",
+    "price": 0,
+    "duration_weeks": 1,
+    "skills_covered": [
+      "Scrum"
+    ],
+    "format": "video",
+    "level": "beginner",
+    "bahasa": "English",
+    "url": "https://www.youtube.com/watch?v=s3y95I79D_Q",
+    "tanggal_scrape": "2026-05-13"
+  },
+  {
+    "id": "crs_0306",
+    "title": "Scrum in 20 mins... (with examples)",
+    "platform": "YouTube",
+    "provider": "Codex Community",
+    "price": 0,
+    "duration_weeks": 1,
+    "skills_covered": [
+      "Scrum"
+    ],
+    "format": "video",
+    "level": "beginner",
+    "bahasa": "English",
+    "url": "https://www.youtube.com/watch?v=SWDhGSZNF9M",
+    "tanggal_scrape": "2026-05-13"
+  },
+  {
+    "id": "crs_0307",
+    "title": "Scrum Master Full Course | Scrum Master Certifications Training | Scrum Master Tutorial |Simplilearn",
+    "platform": "YouTube",
+    "provider": "Simplilearn",
+    "price": 0,
+    "duration_weeks": 1,
+    "skills_covered": [
+      "Scrum"
+    ],
+    "format": "video",
+    "level": "beginner",
+    "bahasa": "English",
+    "url": "https://www.youtube.com/watch?v=SyIN_YMfoQs",
+    "tanggal_scrape": "2026-05-13"
+  },
+  {
+    "id": "crs_0308",
+    "title": "The ULTIMATE Course to Draw ANYTHING from Imagination [FULL GUIDE for BEGINNERS]",
+    "platform": "YouTube",
+    "provider": "Artwod",
+    "price": 0,
+    "duration_weeks": 1,
+    "skills_covered": [
+      "Sketch"
+    ],
+    "format": "video",
+    "level": "beginner",
+    "bahasa": "English",
+    "url": "https://www.youtube.com/watch?v=pVePCjlBHOY",
+    "tanggal_scrape": "2026-05-13"
+  },
+  {
+    "id": "crs_0309",
+    "title": "Part 1: Learn to Draw | Getting Started",
+    "platform": "YouTube",
+    "provider": "Concepts App",
+    "price": 0,
+    "duration_weeks": 1,
+    "skills_covered": [
+      "Sketch"
+    ],
+    "format": "video",
+    "level": "beginner",
+    "bahasa": "English",
+    "url": "https://www.youtube.com/watch?v=TOZxfVp_fSc",
+    "tanggal_scrape": "2026-05-13"
+  },
+  {
+    "id": "crs_0310",
+    "title": "Free Drawing Course for Beginners (Creative Development Tutorial)",
+    "platform": "YouTube",
+    "provider": "Skillademia",
+    "price": 0,
+    "duration_weeks": 1,
+    "skills_covered": [
+      "Sketch"
+    ],
+    "format": "video",
+    "level": "beginner",
+    "bahasa": "English",
+    "url": "https://www.youtube.com/watch?v=b_prr66ZFC8",
+    "tanggal_scrape": "2026-05-13"
+  },
+  {
+    "id": "crs_0311",
+    "title": "Spark Full Course | Spark Tutorial For Beginners | Learn Apache Spark | Simplilearn",
+    "platform": "YouTube",
+    "provider": "Simplilearn",
+    "price": 0,
+    "duration_weeks": 1,
+    "skills_covered": [
+      "Spark"
+    ],
+    "format": "video",
+    "level": "beginner",
+    "bahasa": "English",
+    "url": "https://www.youtube.com/watch?v=S2MUhGA3lEw",
+    "tanggal_scrape": "2026-05-13"
+  },
+  {
+    "id": "crs_0312",
+    "title": "Apache Spark Full Course | Apache Spark Tutorial For Beginners | Learn Spark In 7 Hours |Simplilearn",
+    "platform": "YouTube",
+    "provider": "Simplilearn",
+    "price": 0,
+    "duration_weeks": 1,
+    "skills_covered": [
+      "Spark"
+    ],
+    "format": "video",
+    "level": "beginner",
+    "bahasa": "English",
+    "url": "https://www.youtube.com/watch?v=vqEF9F7pH40",
+    "tanggal_scrape": "2026-05-13"
+  },
+  {
+    "id": "crs_0313",
+    "title": "Apache Spark - The Ultimate Guide [From ZERO To PRO]",
+    "platform": "YouTube",
+    "provider": "Ansh Lamba",
+    "price": 0,
+    "duration_weeks": 1,
+    "skills_covered": [
+      "Spark"
+    ],
+    "format": "video",
+    "level": "beginner",
+    "bahasa": "English",
+    "url": "https://www.youtube.com/watch?v=FNJze2Ea780",
+    "tanggal_scrape": "2026-05-13"
+  },
+  {
+    "id": "crs_0314",
+    "title": "What is Stakeholder Management? Project Management in Under 5",
+    "platform": "YouTube",
+    "provider": "Online PM Courses - Mike Clayton",
+    "price": 0,
+    "duration_weeks": 1,
+    "skills_covered": [
+      "Project Management",
+      "Stakeholder Management"
+    ],
+    "format": "video",
+    "level": "beginner",
+    "bahasa": "English",
+    "url": "https://www.youtube.com/watch?v=-tNHplQ_-hw",
+    "tanggal_scrape": "2026-05-13"
+  },
+  {
+    "id": "crs_0315",
+    "title": "Communicating and Working with Stakeholders | Google Project Management Certificate",
+    "platform": "YouTube",
+    "provider": "Google Career Certificates",
+    "price": 0,
+    "duration_weeks": 1,
+    "skills_covered": [
+      "Project Management",
+      "Stakeholder Management"
+    ],
+    "format": "video",
+    "level": "beginner",
+    "bahasa": "English",
+    "url": "https://www.youtube.com/watch?v=jz7tPVDwb50",
+    "tanggal_scrape": "2026-05-13"
+  },
+  {
+    "id": "crs_0316",
+    "title": "Mastering the Art of Stakeholder Management",
+    "platform": "YouTube",
+    "provider": "Scrum.org",
+    "price": 0,
+    "duration_weeks": 1,
+    "skills_covered": [
+      "Stakeholder Management"
+    ],
+    "format": "video",
+    "level": "beginner",
+    "bahasa": "English",
+    "url": "https://www.youtube.com/watch?v=MRr4jvEALsU",
+    "tanggal_scrape": "2026-05-13"
+  },
+  {
+    "id": "crs_0317",
+    "title": "Statistics - A Full University Course on Data Science Basics",
+    "platform": "YouTube",
+    "provider": "freeCodeCamp.org",
+    "price": 0,
+    "duration_weeks": 1,
+    "skills_covered": [
+      "Data Visualization",
+      "Machine Learning",
+      "Python",
+      "Statistics"
+    ],
+    "format": "video",
+    "level": "beginner",
+    "bahasa": "English",
+    "url": "https://www.youtube.com/watch?v=xxpc-HPKN28",
+    "tanggal_scrape": "2026-05-13"
+  },
+  {
+    "id": "crs_0318",
+    "title": "What Is Statistics: Crash Course Statistics #1",
+    "platform": "YouTube",
+    "provider": "CrashCourse",
+    "price": 0,
+    "duration_weeks": 1,
+    "skills_covered": [
+      "Statistics"
+    ],
+    "format": "video",
+    "level": "beginner",
+    "bahasa": "English",
+    "url": "https://www.youtube.com/watch?v=sxQaBpKfDRk",
+    "tanggal_scrape": "2026-05-13"
+  },
+  {
+    "id": "crs_0319",
+    "title": "Statistics and Probability Full Course || Statistics For Data Science",
+    "platform": "YouTube",
+    "provider": "Geek's Lesson",
+    "price": 0,
+    "duration_weeks": 1,
+    "skills_covered": [
+      "Data Visualization",
+      "Machine Learning",
+      "Python",
+      "Statistics"
+    ],
+    "format": "video",
+    "level": "beginner",
+    "bahasa": "English",
+    "url": "https://www.youtube.com/watch?v=sbbYntt5CJk",
+    "tanggal_scrape": "2026-05-13"
+  },
+  {
+    "id": "crs_0320",
+    "title": "Swift Programming Tutorial – Full Course for Beginners",
+    "platform": "YouTube",
+    "provider": "freeCodeCamp.org",
+    "price": 0,
+    "duration_weeks": 1,
+    "skills_covered": [
+      "Swift"
+    ],
+    "format": "video",
+    "level": "beginner",
+    "bahasa": "English",
+    "url": "https://www.youtube.com/watch?v=8Xg7E9shq0U",
+    "tanggal_scrape": "2026-05-13"
+  },
+  {
+    "id": "crs_0321",
+    "title": "Swift in 100 Seconds",
+    "platform": "YouTube",
+    "provider": "Fireship",
+    "price": 0,
+    "duration_weeks": 1,
+    "skills_covered": [
+      "Swift"
+    ],
+    "format": "video",
+    "level": "beginner",
+    "bahasa": "English",
+    "url": "https://www.youtube.com/watch?v=nAchMctX4YA",
+    "tanggal_scrape": "2026-05-13"
+  },
+  {
+    "id": "crs_0322",
+    "title": "Learn the Essentials of Swift in one hour",
+    "platform": "YouTube",
+    "provider": "Paul Hudson",
+    "price": 0,
+    "duration_weeks": 1,
+    "skills_covered": [
+      "Swift"
+    ],
+    "format": "video",
+    "level": "beginner",
+    "bahasa": "English",
+    "url": "https://www.youtube.com/watch?v=n5X_V81OYnQ",
+    "tanggal_scrape": "2026-05-13"
+  },
+  {
+    "id": "crs_0323",
+    "title": "Tableau Full Course - Learn Tableau in 6 Hours | Tableau Training for Beginners | Edureka",
+    "platform": "YouTube",
+    "provider": "edureka!",
+    "price": 0,
+    "duration_weeks": 1,
+    "skills_covered": [
+      "Data Visualization",
+      "Tableau"
+    ],
+    "format": "video",
+    "level": "beginner",
+    "bahasa": "English",
+    "url": "https://www.youtube.com/watch?v=aHaOIvR00So",
+    "tanggal_scrape": "2026-05-13"
+  },
+  {
+    "id": "crs_0324",
+    "title": "Stop watching endless tutorials (This is how to learn Tableau fast in 7 MINUTES)",
+    "platform": "YouTube",
+    "provider": "Mo Chen",
+    "price": 0,
+    "duration_weeks": 1,
+    "skills_covered": [
+      "Data Visualization",
+      "Tableau"
+    ],
+    "format": "video",
+    "level": "beginner",
+    "bahasa": "English",
+    "url": "https://www.youtube.com/watch?v=n_mVK49hXB0",
+    "tanggal_scrape": "2026-05-13"
+  },
+  {
+    "id": "crs_0325",
+    "title": "Learn Tableau in Under 2 hours | Dashboards, Relationships, Visualizations + Mini Project",
+    "platform": "YouTube",
+    "provider": "Alex The Analyst",
+    "price": 0,
+    "duration_weeks": 1,
+    "skills_covered": [
+      "Data Visualization",
+      "Tableau"
+    ],
+    "format": "video",
+    "level": "beginner",
+    "bahasa": "English",
+    "url": "https://www.youtube.com/watch?v=j8FSP8XuFyk",
+    "tanggal_scrape": "2026-05-13"
+  },
+  {
+    "id": "crs_0326",
+    "title": "Complete Terraform Course - From BEGINNER to PRO! (Learn Infrastructure as Code)",
+    "platform": "YouTube",
+    "provider": "DevOps Directive",
+    "price": 0,
+    "duration_weeks": 1,
+    "skills_covered": [
+      "Terraform"
+    ],
+    "format": "video",
+    "level": "beginner",
+    "bahasa": "English",
+    "url": "https://www.youtube.com/watch?v=7xngnjfIlK4",
+    "tanggal_scrape": "2026-05-13"
+  },
+  {
+    "id": "crs_0327",
+    "title": "Terraform explained in 15 mins | Terraform Tutorial for Beginners",
+    "platform": "YouTube",
+    "provider": "TechWorld with Nana",
+    "price": 0,
+    "duration_weeks": 1,
+    "skills_covered": [
+      "Terraform"
+    ],
+    "format": "video",
+    "level": "beginner",
+    "bahasa": "English",
+    "url": "https://www.youtube.com/watch?v=l5k1ai_GBDE",
+    "tanggal_scrape": "2026-05-13"
+  },
+  {
+    "id": "crs_0328",
+    "title": "Terraform in 100 Seconds",
+    "platform": "YouTube",
+    "provider": "Fireship",
+    "price": 0,
+    "duration_weeks": 1,
+    "skills_covered": [
+      "Terraform"
+    ],
+    "format": "video",
+    "level": "beginner",
+    "bahasa": "English",
+    "url": "https://www.youtube.com/watch?v=tomUWcQ0P3k",
+    "tanggal_scrape": "2026-05-13"
+  },
+  {
+    "id": "crs_0329",
+    "title": "TypeScript Tutorial for Beginners",
+    "platform": "YouTube",
+    "provider": "Programming with Mosh",
+    "price": 0,
+    "duration_weeks": 1,
+    "skills_covered": [
+      "TypeScript"
+    ],
+    "format": "video",
+    "level": "beginner",
+    "bahasa": "English",
+    "url": "https://www.youtube.com/watch?v=d56mG7DezGs",
+    "tanggal_scrape": "2026-05-13"
+  },
+  {
+    "id": "crs_0330",
+    "title": "Learn TypeScript - Full Course for Beginners",
+    "platform": "YouTube",
+    "provider": "freeCodeCamp.org",
+    "price": 0,
+    "duration_weeks": 1,
+    "skills_covered": [
+      "TypeScript"
+    ],
+    "format": "video",
+    "level": "beginner",
+    "bahasa": "English",
+    "url": "https://www.youtube.com/watch?v=SpwzRDUQ1GI",
+    "tanggal_scrape": "2026-05-13"
+  },
+  {
+    "id": "crs_0331",
+    "title": "Learn TypeScript – Full Tutorial",
+    "platform": "YouTube",
+    "provider": "freeCodeCamp.org",
+    "price": 0,
+    "duration_weeks": 1,
+    "skills_covered": [
+      "TypeScript"
+    ],
+    "format": "video",
+    "level": "beginner",
+    "bahasa": "English",
+    "url": "https://www.youtube.com/watch?v=30LWjhZzg50",
+    "tanggal_scrape": "2026-05-13"
+  },
+  {
+    "id": "crs_0332",
+    "title": "Usability Testing Tips and Examples | Google UX Design Certificate",
+    "platform": "YouTube",
+    "provider": "Google Career Certificates",
+    "price": 0,
+    "duration_weeks": 1,
+    "skills_covered": [
+      "Figma",
+      "Usability Testing",
+      "User Research"
+    ],
+    "format": "video",
+    "level": "beginner",
+    "bahasa": "English",
+    "url": "https://www.youtube.com/watch?v=nYCJTea1AUQ",
+    "tanggal_scrape": "2026-05-13"
+  },
+  {
+    "id": "crs_0333",
+    "title": "Introducing a Participant to a Usability Test: A Demonstration",
+    "platform": "YouTube",
+    "provider": "NNgroup",
+    "price": 0,
+    "duration_weeks": 1,
+    "skills_covered": [
+      "Usability Testing"
+    ],
+    "format": "video",
+    "level": "beginner",
+    "bahasa": "English",
+    "url": "https://www.youtube.com/watch?v=bcfqmx2hnUQ",
+    "tanggal_scrape": "2026-05-13"
+  },
+  {
+    "id": "crs_0334",
+    "title": "Easy Usability testing guide with example (Remote & in person) UX User research",
+    "platform": "YouTube",
+    "provider": "UX Tshili",
+    "price": 0,
+    "duration_weeks": 1,
+    "skills_covered": [
+      "Figma",
+      "Usability Testing",
+      "User Research"
+    ],
+    "format": "video",
+    "level": "beginner",
+    "bahasa": "English",
+    "url": "https://www.youtube.com/watch?v=EYUL0N1Fjhg",
+    "tanggal_scrape": "2026-05-13"
+  },
+  {
+    "id": "crs_0335",
+    "title": "User Flow Diagram Basics",
+    "platform": "YouTube",
+    "provider": "Jesse Showalter",
+    "price": 0,
+    "duration_weeks": 1,
+    "skills_covered": [
+      "User Flow"
+    ],
+    "format": "video",
+    "level": "beginner",
+    "bahasa": "English",
+    "url": "https://www.youtube.com/watch?v=cvYhuowazh0",
+    "tanggal_scrape": "2026-05-13"
+  },
+  {
+    "id": "crs_0336",
+    "title": "How to Make a User Flow Diagram with Example",
+    "platform": "YouTube",
+    "provider": "Nomademy",
+    "price": 0,
+    "duration_weeks": 1,
+    "skills_covered": [
+      "User Flow"
+    ],
+    "format": "video",
+    "level": "beginner",
+    "bahasa": "English",
+    "url": "https://www.youtube.com/watch?v=DNBIcBdKnQo",
+    "tanggal_scrape": "2026-05-13"
+  },
+  {
+    "id": "crs_0337",
+    "title": "UX User Flows Explained",
+    "platform": "YouTube",
+    "provider": "Malewicz",
+    "price": 0,
+    "duration_weeks": 1,
+    "skills_covered": [
+      "Figma",
+      "Usability Testing",
+      "User Flow",
+      "User Research"
+    ],
+    "format": "video",
+    "level": "beginner",
+    "bahasa": "English",
+    "url": "https://www.youtube.com/watch?v=Zt2GmDOEHM0",
+    "tanggal_scrape": "2026-05-13"
+  },
+  {
+    "id": "crs_0338",
+    "title": "User Research Full Course 2026 [FREE] | User Research UX Design Tutorial For Beginners | Simplilearn",
+    "platform": "YouTube",
+    "provider": "Simplilearn",
+    "price": 0,
+    "duration_weeks": 1,
+    "skills_covered": [
+      "Figma",
+      "Usability Testing",
+      "User Research"
+    ],
+    "format": "video",
+    "level": "beginner",
+    "bahasa": "English",
+    "url": "https://www.youtube.com/watch?v=xkXaPOb9Qxo",
+    "tanggal_scrape": "2026-05-13"
+  },
+  {
+    "id": "crs_0339",
+    "title": "Step-by-step user research guide I use at Google as a UX designer",
+    "platform": "YouTube",
+    "provider": "Justeen15",
+    "price": 0,
+    "duration_weeks": 1,
+    "skills_covered": [
+      "Figma",
+      "Usability Testing",
+      "User Research"
+    ],
+    "format": "video",
+    "level": "beginner",
+    "bahasa": "English",
+    "url": "https://www.youtube.com/watch?v=TRaNiRZqXwY",
+    "tanggal_scrape": "2026-05-13"
+  },
+  {
+    "id": "crs_0340",
+    "title": "10 Years of UX Research Experience in 4.5 hours - Ultimate Crash Course",
+    "platform": "YouTube",
+    "provider": "Kevin Liang | Zero to UX",
+    "price": 0,
+    "duration_weeks": 1,
+    "skills_covered": [
+      "Figma",
+      "Usability Testing",
+      "User Research"
+    ],
+    "format": "video",
+    "level": "beginner",
+    "bahasa": "English",
+    "url": "https://www.youtube.com/watch?v=R7urbI0iqb0",
+    "tanggal_scrape": "2026-05-13"
+  },
+  {
+    "id": "crs_0341",
+    "title": "Vue.js Explained in 100 Seconds",
+    "platform": "YouTube",
+    "provider": "Fireship",
+    "price": 0,
+    "duration_weeks": 1,
+    "skills_covered": [
+      "Vue"
+    ],
+    "format": "video",
+    "level": "beginner",
+    "bahasa": "English",
+    "url": "https://www.youtube.com/watch?v=nhBVL41-_Cw",
+    "tanggal_scrape": "2026-05-13"
+  },
+  {
+    "id": "crs_0342",
+    "title": "Learn Vue.js – Tutorial for Beginners",
+    "platform": "YouTube",
+    "provider": "freeCodeCamp.org",
+    "price": 0,
+    "duration_weeks": 1,
+    "skills_covered": [
+      "Vue"
+    ],
+    "format": "video",
+    "level": "beginner",
+    "bahasa": "English",
+    "url": "https://www.youtube.com/watch?v=Kt2E8nblvXU",
+    "tanggal_scrape": "2026-05-13"
+  },
+  {
+    "id": "crs_0343",
+    "title": "Vue.js Course for Beginners",
+    "platform": "YouTube",
+    "provider": "freeCodeCamp.org",
+    "price": 0,
+    "duration_weeks": 1,
+    "skills_covered": [
+      "Vue"
+    ],
+    "format": "video",
+    "level": "beginner",
+    "bahasa": "English",
+    "url": "https://www.youtube.com/watch?v=FXpIoQ_rT_c",
+    "tanggal_scrape": "2026-05-13"
+  },
+  {
+    "id": "crs_0344",
+    "title": "UI / UX Design Tutorial – Wireframe, Mockup & Design in Figma",
+    "platform": "YouTube",
+    "provider": "freeCodeCamp.org",
+    "price": 0,
+    "duration_weeks": 1,
+    "skills_covered": [
+      "Figma",
+      "Usability Testing",
+      "User Research",
+      "Wireframe"
+    ],
+    "format": "video",
+    "level": "beginner",
+    "bahasa": "English",
+    "url": "https://www.youtube.com/watch?v=c9Wg6Cb_YlU",
+    "tanggal_scrape": "2026-05-13"
+  },
+  {
+    "id": "crs_0345",
+    "title": "Figma Wireframe Tutorial for Beginners",
+    "platform": "YouTube",
+    "provider": "Aliena Cai",
+    "price": 0,
+    "duration_weeks": 1,
+    "skills_covered": [
+      "Figma",
+      "Wireframe"
+    ],
+    "format": "video",
+    "level": "beginner",
+    "bahasa": "English",
+    "url": "https://www.youtube.com/watch?v=iyrEStiTZh0",
+    "tanggal_scrape": "2026-05-13"
+  },
+  {
+    "id": "crs_0346",
+    "title": "How to Wireframe in Figma in 2026",
+    "platform": "YouTube",
+    "provider": "Codex Community",
+    "price": 0,
+    "duration_weeks": 1,
+    "skills_covered": [
+      "Figma",
+      "Wireframe"
+    ],
+    "format": "video",
+    "level": "beginner",
+    "bahasa": "English",
+    "url": "https://www.youtube.com/watch?v=qWIdforZ9x0",
+    "tanggal_scrape": "2026-05-13"
+  },
+  {
+    "id": "crs_0347",
+    "title": "Xcode 15 Tutorial for Beginners (2024)",
+    "platform": "YouTube",
+    "provider": "CodeWithChris",
+    "price": 0,
+    "duration_weeks": 1,
+    "skills_covered": [
+      "Xcode"
+    ],
+    "format": "video",
+    "level": "beginner",
+    "bahasa": "English",
+    "url": "https://www.youtube.com/watch?v=8Xcq4yRQ0pU",
+    "tanggal_scrape": "2026-05-13"
+  },
+  {
+    "id": "crs_0348",
+    "title": "How to Make an App - Lesson 1 (Xcode 16 Updated)",
+    "platform": "YouTube",
+    "provider": "CodeWithChris",
+    "price": 0,
+    "duration_weeks": 1,
+    "skills_covered": [
+      "Xcode"
+    ],
+    "format": "video",
+    "level": "beginner",
+    "bahasa": "English",
+    "url": "https://www.youtube.com/watch?v=xkgaIm7QxK0",
+    "tanggal_scrape": "2026-05-13"
+  },
+  {
+    "id": "crs_0349",
+    "title": "How to Make an App (Xcode 26) FULL TUTORIAL",
+    "platform": "YouTube",
+    "provider": "CodeWithChris",
+    "price": 0,
+    "duration_weeks": 1,
+    "skills_covered": [
+      "Xcode"
+    ],
+    "format": "video",
+    "level": "beginner",
+    "bahasa": "English",
+    "url": "https://www.youtube.com/watch?v=oRc4lLmvHyE",
+    "tanggal_scrape": "2026-05-13"
+  }
+]

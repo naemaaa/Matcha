@@ -1,0 +1,19 @@
+--- JOB OPPORTUNITY: iOS DEVELOPER (AI INTEGRATION) ---
+COMPANY: Visionary Mobile Studio
+LEVEL: Junior / Entry Level
+MODE: Full-time - Yogyakarta/Remote
+
+DESCRIPTION:
+Membangun aplikasi iOS generasi berikutnya yang memanfaatkan kecerdasan buatan langsung di perangkat (On-device AI).
+
+KEY RESPONSIBILITIES:
+- Mengembangkan UI aplikasi menggunakan Swift dan SwiftUI dengan standar Apple Developer Academy.
+- Mengintegrasikan model Machine Learning (CoreML) ke dalam aplikasi mobile.
+- Mengelola lifecycle aplikasi mulai dari prototyping hingga App Store deployment.
+- Memastikan sinkronisasi data antara aplikasi mobile dan sistem cloud backend lancar (mencegah deadlock/lack of sync).
+
+TECHNICAL REQUIREMENTS:
+- Penguasaan bahasa pemrograman Swift.
+- Memahami integrasi API eksternal ke dalam ekosistem mobile.
+- Memiliki portfolio proyek mobile yang mengintegrasikan fitur cerdas (AI/ML).
+- Sertifikasi BNSP Mobile Developer sangat disukai.

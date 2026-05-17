@@ -1,0 +1,15 @@
+--- SKILLS REFERENCE: INDUSTRY STANDARD 2026 ---
+[DATA SCIENCE DOMAIN]
+- Algoritma Utama: Random Forest, XGBoost, LightGBM, Transformer (IndoBERT).
+- Tuning: Bayesian Optimization, GridSearch, Optuna.
+- Library: Scikit-learn, PyTorch, HuggingFace.
+
+[BPMN & SYSTEMS DOMAIN]
+- Task Types: Script Task (Internal logic), Service Task (External API Call), User Task (Manual Intervention).
+- Error Handling: Deadlock prevention, Lack of Synchronization auditing, Boundary Events.
+- Framework: Process-FMEA, Innovation Lifecycle, Value Proposition Canvas.
+
+[MOBILE DOMAIN]
+- Language: Swift, SwiftUI.
+- AI Integration: CoreML, Vision Framework, Natural Language Framework.
+- Tools: Xcode, Instruments (untuk profiling), Git Version Control.

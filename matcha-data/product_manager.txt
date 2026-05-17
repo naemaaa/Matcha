@@ -1,0 +1,19 @@
+--- JOB OPPORTUNITY: TECHNICAL PRODUCT MANAGER (AI TOOLS) ---
+COMPANY: InnovateAI Systems
+LEVEL: Middle
+MODE: Jakarta (On-site)
+
+DESCRIPTION:
+Mencari Technical Product Manager untuk mengelola lifecycle pengembangan produk berbasis AI, memastikan keselarasan antara visi bisnis dan eksekusi teknis engineering.
+
+KEY RESPONSIBILITIES:
+- Mendefinisikan roadmap produk berdasarkan analisis pasar kerja real-time dan kebutuhan pengguna.
+- Menyusun dokumentasi spesifikasi teknis dan User Stories yang jelas untuk tim AI Engineer dan Mobile Developer.
+- Mengelola task decomposition dan prioritas backlog menggunakan metodologi Agile.
+- Melakukan koordinasi antar tim untuk memastikan integrasi fitur AI ke dalam aplikasi berjalan lancar (mencegah lack of sync).
+
+TECHNICAL REQUIREMENTS:
+- Lulusan Sistem Informasi atau Teknik Informatika.
+- Memahami konsep Business Model Innovation dan analisis Business Process Modeling Notation (BPMN).
+- Memiliki kemampuan komunikasi teknis yang sangat baik.
+- Pengalaman dalam mengelola proyek perangkat lunak berbasis AI/ML.

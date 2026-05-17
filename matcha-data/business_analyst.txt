@@ -1,0 +1,19 @@
+--- JOB OPPORTUNITY: BUSINESS PROCESS & OPTIMIZATION ANALYST ---
+COMPANY: Global Logistics Solutions
+LEVEL: Associate
+MODE: Full-time - Surabaya
+
+DESCRIPTION:
+Menganalisis dan mendesain ulang proses bisnis perusahaan untuk mencapai efisiensi maksimal melalui otomatisasi.
+
+KEY RESPONSIBILITIES:
+- Memodelkan proses bisnis menggunakan standar BPMN 2.0.
+- Melakukan evaluasi risiko proses menggunakan metode Process-FMEA.
+- Mengidentifikasi celah antara proses manual saat ini dengan target otomatisasi (Gap Analysis).
+- Mendesain alur kerja Script Tasks untuk logika internal sistem dan Service Tasks untuk integrasi pihak ketiga.
+
+TECHNICAL REQUIREMENTS:
+- Lulusan Sistem Informasi atau Teknik Industri.
+- Mahir menggunakan tools modeling (seperti Camunda atau Bizagi).
+- Memahami konsep Business Model Innovation untuk Social Enterprise.
+- Kemampuan dokumentasi teknis yang kuat.

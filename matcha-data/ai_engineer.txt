@@ -1,0 +1,19 @@
+--- JOB OPPORTUNITY: AI ENGINEER (FINTECH SPECIALIST) ---
+COMPANY: SecurePay Digital Indonesia
+LEVEL: Associate / Junior
+MODE: Hybrid - Jakarta
+
+DESCRIPTION:
+Kami mencari AI Engineer untuk mengintegrasikan model Machine Learning ke dalam sistem deteksi fraud real-time. Fokus utama adalah mengolah data transaksi besar dengan latensi rendah.
+
+KEY RESPONSIBILITIES:
+- Melakukan fine-tuning model Transformer untuk klasifikasi teks transaksi.
+- Mengimplementasikan sentiment analysis pada feedback customer menggunakan library IndoBERT.
+- Mengoptimalkan hyperparameter pada algoritma XGBoost dan Random Forest untuk meningkatkan akurasi deteksi anomali.
+- Berkolaborasi dengan tim backend untuk deployment model melalui API (Service Tasks).
+
+TECHNICAL REQUIREMENTS:
+- Mahir Python & SQL.
+- Berpengalaman dengan MLflow untuk tracking eksperimen model.
+- Memahami konsep MLOps dan CI/CD untuk model AI.
+- Memiliki sertifikasi BNSP Associate Data Scientist menjadi nilai tambah.

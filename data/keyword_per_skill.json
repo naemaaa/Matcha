@@ -1,0 +1,1702 @@
+[
+  {
+    "skill": "A/B Testing",
+    "keywords": [
+      {
+        "platform": "YT",
+        "query": "what is A/B Testing explained for beginners",
+        "estimasi_durasi_menit": 30
+      },
+      {
+        "platform": "Web",
+        "query": "A/B Testing framework guide Product School",
+        "tipe": "artikel"
+      },
+      {
+        "platform": "Course",
+        "query": "Coursera Google Project Management A/B Testing audit gratis",
+        "tipe": "kursus"
+      }
+    ]
+  },
+  {
+    "skill": "AWS",
+    "keywords": [
+      {
+        "platform": "YT",
+        "query": "AWS tutorial for beginners full course",
+        "estimasi_durasi_menit": 120
+      },
+      {
+        "platform": "Web",
+        "query": "getting started with AWS architecture guide",
+        "tipe": "artikel"
+      },
+      {
+        "platform": "Course",
+        "query": "Coursera AWS fundamentals audit gratis",
+        "tipe": "kursus"
+      }
+    ]
+  },
+  {
+    "skill": "Adobe XD",
+    "keywords": [
+      {
+        "platform": "YT",
+        "query": "Adobe XD UI/UX crash course for beginners",
+        "estimasi_durasi_menit": 120
+      },
+      {
+        "platform": "Web",
+        "query": "Adobe XD best practices UX Collective",
+        "tipe": "artikel"
+      },
+      {
+        "platform": "Course",
+        "query": "Coursera Google UX Design Adobe XD audit gratis",
+        "tipe": "kursus"
+      }
+    ]
+  },
+  {
+    "skill": "Agile",
+    "keywords": [
+      {
+        "platform": "YT",
+        "query": "what is Agile explained for beginners",
+        "estimasi_durasi_menit": 30
+      },
+      {
+        "platform": "Web",
+        "query": "Agile framework guide Product School",
+        "tipe": "artikel"
+      },
+      {
+        "platform": "Course",
+        "query": "Coursera Google Project Management Agile audit gratis",
+        "tipe": "kursus"
+      }
+    ]
+  },
+  {
+    "skill": "Android",
+    "keywords": [
+      {
+        "platform": "YT",
+        "query": "Android full course beginner freeCodeCamp",
+        "estimasi_durasi_menit": 120
+      },
+      {
+        "platform": "Web",
+        "query": "Android step by step tutorial dev.to",
+        "tipe": "artikel"
+      },
+      {
+        "platform": "Course",
+        "query": "Coursera Android beginner course audit gratis",
+        "tipe": "kursus"
+      }
+    ]
+  },
+  {
+    "skill": "Angular",
+    "keywords": [
+      {
+        "platform": "YT",
+        "query": "Angular full course beginner freeCodeCamp",
+        "estimasi_durasi_menit": 120
+      },
+      {
+        "platform": "Web",
+        "query": "Angular step by step tutorial dev.to",
+        "tipe": "artikel"
+      },
+      {
+        "platform": "Course",
+        "query": "Coursera Angular beginner course audit gratis",
+        "tipe": "kursus"
+      }
+    ]
+  },
+  {
+    "skill": "Ansible",
+    "keywords": [
+      {
+        "platform": "YT",
+        "query": "Ansible tutorial for beginners full course",
+        "estimasi_durasi_menit": 120
+      },
+      {
+        "platform": "Web",
+        "query": "getting started with Ansible architecture guide",
+        "tipe": "artikel"
+      },
+      {
+        "platform": "Course",
+        "query": "Coursera Ansible fundamentals audit gratis",
+        "tipe": "kursus"
+      }
+    ]
+  },
+  {
+    "skill": "Artificial Intelligence",
+    "keywords": [
+      {
+        "platform": "YT",
+        "query": "Artificial Intelligence full course beginner freeCodeCamp",
+        "estimasi_durasi_menit": 120
+      },
+      {
+        "platform": "Web",
+        "query": "Artificial Intelligence complete guide towards data science",
+        "tipe": "artikel"
+      },
+      {
+        "platform": "Course",
+        "query": "Coursera Google Data Analytics Artificial Intelligence audit gratis",
+        "tipe": "kursus"
+      }
+    ]
+  },
+  {
+    "skill": "Azure",
+    "keywords": [
+      {
+        "platform": "YT",
+        "query": "Azure tutorial for beginners full course",
+        "estimasi_durasi_menit": 120
+      },
+      {
+        "platform": "Web",
+        "query": "getting started with Azure architecture guide",
+        "tipe": "artikel"
+      },
+      {
+        "platform": "Course",
+        "query": "Coursera Azure fundamentals audit gratis",
+        "tipe": "kursus"
+      }
+    ]
+  },
+  {
+    "skill": "Business Analysis",
+    "keywords": [
+      {
+        "platform": "YT",
+        "query": "what is Business Analysis explained for beginners",
+        "estimasi_durasi_menit": 30
+      },
+      {
+        "platform": "Web",
+        "query": "Business Analysis framework guide Product School",
+        "tipe": "artikel"
+      },
+      {
+        "platform": "Course",
+        "query": "Coursera Google Project Management Business Analysis audit gratis",
+        "tipe": "kursus"
+      }
+    ]
+  },
+  {
+    "skill": "CI/CD",
+    "keywords": [
+      {
+        "platform": "YT",
+        "query": "CI/CD tutorial for beginners full course",
+        "estimasi_durasi_menit": 120
+      },
+      {
+        "platform": "Web",
+        "query": "getting started with CI/CD architecture guide",
+        "tipe": "artikel"
+      },
+      {
+        "platform": "Course",
+        "query": "Coursera CI/CD fundamentals audit gratis",
+        "tipe": "kursus"
+      }
+    ]
+  },
+  {
+    "skill": "CSS",
+    "keywords": [
+      {
+        "platform": "YT",
+        "query": "CSS tutorial for beginners full course",
+        "estimasi_durasi_menit": 120
+      },
+      {
+        "platform": "Web",
+        "query": "learn CSS best practices step by step",
+        "tipe": "artikel"
+      },
+      {
+        "platform": "Course",
+        "query": "Coursera CSS beginner course audit gratis",
+        "tipe": "kursus"
+      }
+    ]
+  },
+  {
+    "skill": "Cloud Computing",
+    "keywords": [
+      {
+        "platform": "YT",
+        "query": "Cloud Computing tutorial for beginners full course",
+        "estimasi_durasi_menit": 120
+      },
+      {
+        "platform": "Web",
+        "query": "getting started with Cloud Computing architecture guide",
+        "tipe": "artikel"
+      },
+      {
+        "platform": "Course",
+        "query": "Coursera Cloud Computing fundamentals audit gratis",
+        "tipe": "kursus"
+      }
+    ]
+  },
+  {
+    "skill": "Communication",
+    "keywords": [
+      {
+        "platform": "YT",
+        "query": "how to improve Communication TED talk",
+        "estimasi_durasi_menit": 30
+      },
+      {
+        "platform": "Web",
+        "query": "developing Communication at work Harvard Business Review",
+        "tipe": "artikel"
+      },
+      {
+        "platform": "Course",
+        "query": "Coursera Communication beginner course audit gratis",
+        "tipe": "kursus"
+      }
+    ]
+  },
+  {
+    "skill": "Critical Thinking",
+    "keywords": [
+      {
+        "platform": "YT",
+        "query": "how to improve Critical Thinking TED talk",
+        "estimasi_durasi_menit": 30
+      },
+      {
+        "platform": "Web",
+        "query": "developing Critical Thinking at work Harvard Business Review",
+        "tipe": "artikel"
+      },
+      {
+        "platform": "Course",
+        "query": "Coursera Critical Thinking beginner course audit gratis",
+        "tipe": "kursus"
+      }
+    ]
+  },
+  {
+    "skill": "Data Analysis",
+    "keywords": [
+      {
+        "platform": "YT",
+        "query": "Data Analysis full course beginner freeCodeCamp",
+        "estimasi_durasi_menit": 120
+      },
+      {
+        "platform": "Web",
+        "query": "Data Analysis complete guide towards data science",
+        "tipe": "artikel"
+      },
+      {
+        "platform": "Course",
+        "query": "Coursera Google Data Analytics Data Analysis audit gratis",
+        "tipe": "kursus"
+      }
+    ]
+  },
+  {
+    "skill": "Data Modeling",
+    "keywords": [
+      {
+        "platform": "YT",
+        "query": "Data Modeling full course beginner freeCodeCamp",
+        "estimasi_durasi_menit": 120
+      },
+      {
+        "platform": "Web",
+        "query": "Data Modeling complete guide towards data science",
+        "tipe": "artikel"
+      },
+      {
+        "platform": "Course",
+        "query": "Coursera Google Data Analytics Data Modeling audit gratis",
+        "tipe": "kursus"
+      }
+    ]
+  },
+  {
+    "skill": "Data Visualization",
+    "keywords": [
+      {
+        "platform": "YT",
+        "query": "Data Visualization full course beginner freeCodeCamp",
+        "estimasi_durasi_menit": 120
+      },
+      {
+        "platform": "Web",
+        "query": "Data Visualization complete guide towards data science",
+        "tipe": "artikel"
+      },
+      {
+        "platform": "Course",
+        "query": "Coursera Google Data Analytics Data Visualization audit gratis",
+        "tipe": "kursus"
+      }
+    ]
+  },
+  {
+    "skill": "Deep Learning",
+    "keywords": [
+      {
+        "platform": "YT",
+        "query": "Deep Learning full course beginner freeCodeCamp",
+        "estimasi_durasi_menit": 120
+      },
+      {
+        "platform": "Web",
+        "query": "Deep Learning complete guide towards data science",
+        "tipe": "artikel"
+      },
+      {
+        "platform": "Course",
+        "query": "Coursera Google Data Analytics Deep Learning audit gratis",
+        "tipe": "kursus"
+      }
+    ]
+  },
+  {
+    "skill": "Docker",
+    "keywords": [
+      {
+        "platform": "YT",
+        "query": "Docker tutorial for beginners full course",
+        "estimasi_durasi_menit": 120
+      },
+      {
+        "platform": "Web",
+        "query": "getting started with Docker architecture guide",
+        "tipe": "artikel"
+      },
+      {
+        "platform": "Course",
+        "query": "Coursera Docker fundamentals audit gratis",
+        "tipe": "kursus"
+      }
+    ]
+  },
+  {
+    "skill": "ETL",
+    "keywords": [
+      {
+        "platform": "YT",
+        "query": "ETL full course beginner freeCodeCamp",
+        "estimasi_durasi_menit": 120
+      },
+      {
+        "platform": "Web",
+        "query": "ETL complete guide towards data science",
+        "tipe": "artikel"
+      },
+      {
+        "platform": "Course",
+        "query": "Coursera Google Data Analytics ETL audit gratis",
+        "tipe": "kursus"
+      }
+    ]
+  },
+  {
+    "skill": "Excel",
+    "keywords": [
+      {
+        "platform": "YT",
+        "query": "Excel tutorial for beginners full course",
+        "estimasi_durasi_menit": 120
+      },
+      {
+        "platform": "Web",
+        "query": "learn Excel best practices step by step",
+        "tipe": "artikel"
+      },
+      {
+        "platform": "Course",
+        "query": "Coursera Excel beginner course audit gratis",
+        "tipe": "kursus"
+      }
+    ]
+  },
+  {
+    "skill": "Figma",
+    "keywords": [
+      {
+        "platform": "YT",
+        "query": "Figma UI/UX crash course for beginners",
+        "estimasi_durasi_menit": 120
+      },
+      {
+        "platform": "Web",
+        "query": "Figma best practices UX Collective",
+        "tipe": "artikel"
+      },
+      {
+        "platform": "Course",
+        "query": "Coursera Google UX Design Figma audit gratis",
+        "tipe": "kursus"
+      }
+    ]
+  },
+  {
+    "skill": "Flutter",
+    "keywords": [
+      {
+        "platform": "YT",
+        "query": "Flutter full course beginner freeCodeCamp",
+        "estimasi_durasi_menit": 120
+      },
+      {
+        "platform": "Web",
+        "query": "Flutter step by step tutorial dev.to",
+        "tipe": "artikel"
+      },
+      {
+        "platform": "Course",
+        "query": "Coursera Flutter beginner course audit gratis",
+        "tipe": "kursus"
+      }
+    ]
+  },
+  {
+    "skill": "Front-End Architecture",
+    "keywords": [
+      {
+        "platform": "YT",
+        "query": "Front-End Architecture UI/UX crash course for beginners",
+        "estimasi_durasi_menit": 120
+      },
+      {
+        "platform": "Web",
+        "query": "Front-End Architecture best practices UX Collective",
+        "tipe": "artikel"
+      },
+      {
+        "platform": "Course",
+        "query": "Coursera Google UX Design Front-End Architecture audit gratis",
+        "tipe": "kursus"
+      }
+    ]
+  },
+  {
+    "skill": "GCP",
+    "keywords": [
+      {
+        "platform": "YT",
+        "query": "GCP tutorial for beginners full course",
+        "estimasi_durasi_menit": 120
+      },
+      {
+        "platform": "Web",
+        "query": "getting started with GCP architecture guide",
+        "tipe": "artikel"
+      },
+      {
+        "platform": "Course",
+        "query": "Coursera GCP fundamentals audit gratis",
+        "tipe": "kursus"
+      }
+    ]
+  },
+  {
+    "skill": "GIT",
+    "keywords": [
+      {
+        "platform": "YT",
+        "query": "GIT tutorial for beginners full course",
+        "estimasi_durasi_menit": 120
+      },
+      {
+        "platform": "Web",
+        "query": "getting started with GIT architecture guide",
+        "tipe": "artikel"
+      },
+      {
+        "platform": "Course",
+        "query": "Coursera GIT fundamentals audit gratis",
+        "tipe": "kursus"
+      }
+    ]
+  },
+  {
+    "skill": "Git",
+    "keywords": [
+      {
+        "platform": "YT",
+        "query": "Git tutorial for beginners full course",
+        "estimasi_durasi_menit": 120
+      },
+      {
+        "platform": "Web",
+        "query": "getting started with Git architecture guide",
+        "tipe": "artikel"
+      },
+      {
+        "platform": "Course",
+        "query": "Coursera Git fundamentals audit gratis",
+        "tipe": "kursus"
+      }
+    ]
+  },
+  {
+    "skill": "GitHub",
+    "keywords": [
+      {
+        "platform": "YT",
+        "query": "GitHub tutorial for beginners full course",
+        "estimasi_durasi_menit": 120
+      },
+      {
+        "platform": "Web",
+        "query": "getting started with GitHub architecture guide",
+        "tipe": "artikel"
+      },
+      {
+        "platform": "Course",
+        "query": "Coursera GitHub fundamentals audit gratis",
+        "tipe": "kursus"
+      }
+    ]
+  },
+  {
+    "skill": "Go / Golang",
+    "keywords": [
+      {
+        "platform": "YT",
+        "query": "Go / Golang full course beginner freeCodeCamp",
+        "estimasi_durasi_menit": 120
+      },
+      {
+        "platform": "Web",
+        "query": "Go / Golang step by step tutorial dev.to",
+        "tipe": "artikel"
+      },
+      {
+        "platform": "Course",
+        "query": "Coursera Go / Golang beginner course audit gratis",
+        "tipe": "kursus"
+      }
+    ]
+  },
+  {
+    "skill": "Golang",
+    "keywords": [
+      {
+        "platform": "YT",
+        "query": "Golang full course beginner freeCodeCamp",
+        "estimasi_durasi_menit": 120
+      },
+      {
+        "platform": "Web",
+        "query": "Golang step by step tutorial dev.to",
+        "tipe": "artikel"
+      },
+      {
+        "platform": "Course",
+        "query": "Coursera Golang beginner course audit gratis",
+        "tipe": "kursus"
+      }
+    ]
+  },
+  {
+    "skill": "Google Analytics",
+    "keywords": [
+      {
+        "platform": "YT",
+        "query": "what is Google Analytics explained for beginners",
+        "estimasi_durasi_menit": 30
+      },
+      {
+        "platform": "Web",
+        "query": "Google Analytics framework guide Product School",
+        "tipe": "artikel"
+      },
+      {
+        "platform": "Course",
+        "query": "Coursera Google Project Management Google Analytics audit gratis",
+        "tipe": "kursus"
+      }
+    ]
+  },
+  {
+    "skill": "GraphQL",
+    "keywords": [
+      {
+        "platform": "YT",
+        "query": "GraphQL tutorial for beginners full course",
+        "estimasi_durasi_menit": 120
+      },
+      {
+        "platform": "Web",
+        "query": "getting started with GraphQL architecture guide",
+        "tipe": "artikel"
+      },
+      {
+        "platform": "Course",
+        "query": "Coursera GraphQL fundamentals audit gratis",
+        "tipe": "kursus"
+      }
+    ]
+  },
+  {
+    "skill": "HTML",
+    "keywords": [
+      {
+        "platform": "YT",
+        "query": "HTML tutorial for beginners full course",
+        "estimasi_durasi_menit": 120
+      },
+      {
+        "platform": "Web",
+        "query": "learn HTML best practices step by step",
+        "tipe": "artikel"
+      },
+      {
+        "platform": "Course",
+        "query": "Coursera HTML beginner course audit gratis",
+        "tipe": "kursus"
+      }
+    ]
+  },
+  {
+    "skill": "Hadoop",
+    "keywords": [
+      {
+        "platform": "YT",
+        "query": "Hadoop full course beginner freeCodeCamp",
+        "estimasi_durasi_menit": 120
+      },
+      {
+        "platform": "Web",
+        "query": "Hadoop complete guide towards data science",
+        "tipe": "artikel"
+      },
+      {
+        "platform": "Course",
+        "query": "Coursera Google Data Analytics Hadoop audit gratis",
+        "tipe": "kursus"
+      }
+    ]
+  },
+  {
+    "skill": "JIRA",
+    "keywords": [
+      {
+        "platform": "YT",
+        "query": "what is JIRA explained for beginners",
+        "estimasi_durasi_menit": 30
+      },
+      {
+        "platform": "Web",
+        "query": "JIRA framework guide Product School",
+        "tipe": "artikel"
+      },
+      {
+        "platform": "Course",
+        "query": "Coursera Google Project Management JIRA audit gratis",
+        "tipe": "kursus"
+      }
+    ]
+  },
+  {
+    "skill": "Java",
+    "keywords": [
+      {
+        "platform": "YT",
+        "query": "Java full course beginner freeCodeCamp",
+        "estimasi_durasi_menit": 120
+      },
+      {
+        "platform": "Web",
+        "query": "Java step by step tutorial dev.to",
+        "tipe": "artikel"
+      },
+      {
+        "platform": "Course",
+        "query": "Coursera Java beginner course audit gratis",
+        "tipe": "kursus"
+      }
+    ]
+  },
+  {
+    "skill": "JavaScript",
+    "keywords": [
+      {
+        "platform": "YT",
+        "query": "JavaScript full course beginner freeCodeCamp",
+        "estimasi_durasi_menit": 120
+      },
+      {
+        "platform": "Web",
+        "query": "JavaScript step by step tutorial dev.to",
+        "tipe": "artikel"
+      },
+      {
+        "platform": "Course",
+        "query": "Coursera JavaScript beginner course audit gratis",
+        "tipe": "kursus"
+      }
+    ]
+  },
+  {
+    "skill": "Jenkins",
+    "keywords": [
+      {
+        "platform": "YT",
+        "query": "Jenkins tutorial for beginners full course",
+        "estimasi_durasi_menit": 120
+      },
+      {
+        "platform": "Web",
+        "query": "getting started with Jenkins architecture guide",
+        "tipe": "artikel"
+      },
+      {
+        "platform": "Course",
+        "query": "Coursera Jenkins fundamentals audit gratis",
+        "tipe": "kursus"
+      }
+    ]
+  },
+  {
+    "skill": "KPI",
+    "keywords": [
+      {
+        "platform": "YT",
+        "query": "what is KPI explained for beginners",
+        "estimasi_durasi_menit": 30
+      },
+      {
+        "platform": "Web",
+        "query": "KPI framework guide Product School",
+        "tipe": "artikel"
+      },
+      {
+        "platform": "Course",
+        "query": "Coursera Google Project Management KPI audit gratis",
+        "tipe": "kursus"
+      }
+    ]
+  },
+  {
+    "skill": "Kotlin",
+    "keywords": [
+      {
+        "platform": "YT",
+        "query": "Kotlin full course beginner freeCodeCamp",
+        "estimasi_durasi_menit": 120
+      },
+      {
+        "platform": "Web",
+        "query": "Kotlin step by step tutorial dev.to",
+        "tipe": "artikel"
+      },
+      {
+        "platform": "Course",
+        "query": "Coursera Kotlin beginner course audit gratis",
+        "tipe": "kursus"
+      }
+    ]
+  },
+  {
+    "skill": "Kubernetes",
+    "keywords": [
+      {
+        "platform": "YT",
+        "query": "Kubernetes tutorial for beginners full course",
+        "estimasi_durasi_menit": 120
+      },
+      {
+        "platform": "Web",
+        "query": "getting started with Kubernetes architecture guide",
+        "tipe": "artikel"
+      },
+      {
+        "platform": "Course",
+        "query": "Coursera Kubernetes fundamentals audit gratis",
+        "tipe": "kursus"
+      }
+    ]
+  },
+  {
+    "skill": "Linux",
+    "keywords": [
+      {
+        "platform": "YT",
+        "query": "Linux tutorial for beginners full course",
+        "estimasi_durasi_menit": 120
+      },
+      {
+        "platform": "Web",
+        "query": "getting started with Linux architecture guide",
+        "tipe": "artikel"
+      },
+      {
+        "platform": "Course",
+        "query": "Coursera Linux fundamentals audit gratis",
+        "tipe": "kursus"
+      }
+    ]
+  },
+  {
+    "skill": "Looker",
+    "keywords": [
+      {
+        "platform": "YT",
+        "query": "Looker full course beginner freeCodeCamp",
+        "estimasi_durasi_menit": 120
+      },
+      {
+        "platform": "Web",
+        "query": "Looker complete guide towards data science",
+        "tipe": "artikel"
+      },
+      {
+        "platform": "Course",
+        "query": "Coursera Google Data Analytics Looker audit gratis",
+        "tipe": "kursus"
+      }
+    ]
+  },
+  {
+    "skill": "Machine Learning",
+    "keywords": [
+      {
+        "platform": "YT",
+        "query": "Machine Learning full course beginner freeCodeCamp",
+        "estimasi_durasi_menit": 120
+      },
+      {
+        "platform": "Web",
+        "query": "Machine Learning complete guide towards data science",
+        "tipe": "artikel"
+      },
+      {
+        "platform": "Course",
+        "query": "Coursera Google Data Analytics Machine Learning audit gratis",
+        "tipe": "kursus"
+      }
+    ]
+  },
+  {
+    "skill": "Microservices",
+    "keywords": [
+      {
+        "platform": "YT",
+        "query": "Microservices tutorial for beginners full course",
+        "estimasi_durasi_menit": 120
+      },
+      {
+        "platform": "Web",
+        "query": "getting started with Microservices architecture guide",
+        "tipe": "artikel"
+      },
+      {
+        "platform": "Course",
+        "query": "Coursera Microservices fundamentals audit gratis",
+        "tipe": "kursus"
+      }
+    ]
+  },
+  {
+    "skill": "Microsoft SQL Server",
+    "keywords": [
+      {
+        "platform": "YT",
+        "query": "Microsoft SQL Server full course beginner freeCodeCamp",
+        "estimasi_durasi_menit": 120
+      },
+      {
+        "platform": "Web",
+        "query": "Microsoft SQL Server complete guide towards data science",
+        "tipe": "artikel"
+      },
+      {
+        "platform": "Course",
+        "query": "Coursera Google Data Analytics Microsoft SQL Server audit gratis",
+        "tipe": "kursus"
+      }
+    ]
+  },
+  {
+    "skill": "MongoDB",
+    "keywords": [
+      {
+        "platform": "YT",
+        "query": "MongoDB full course beginner freeCodeCamp",
+        "estimasi_durasi_menit": 120
+      },
+      {
+        "platform": "Web",
+        "query": "MongoDB complete guide towards data science",
+        "tipe": "artikel"
+      },
+      {
+        "platform": "Course",
+        "query": "Coursera Google Data Analytics MongoDB audit gratis",
+        "tipe": "kursus"
+      }
+    ]
+  },
+  {
+    "skill": "MySQL",
+    "keywords": [
+      {
+        "platform": "YT",
+        "query": "MySQL full course beginner freeCodeCamp",
+        "estimasi_durasi_menit": 120
+      },
+      {
+        "platform": "Web",
+        "query": "MySQL complete guide towards data science",
+        "tipe": "artikel"
+      },
+      {
+        "platform": "Course",
+        "query": "Coursera Google Data Analytics MySQL audit gratis",
+        "tipe": "kursus"
+      }
+    ]
+  },
+  {
+    "skill": "Next.js",
+    "keywords": [
+      {
+        "platform": "YT",
+        "query": "Next.js full course beginner freeCodeCamp",
+        "estimasi_durasi_menit": 120
+      },
+      {
+        "platform": "Web",
+        "query": "Next.js step by step tutorial dev.to",
+        "tipe": "artikel"
+      },
+      {
+        "platform": "Course",
+        "query": "Coursera Next.js beginner course audit gratis",
+        "tipe": "kursus"
+      }
+    ]
+  },
+  {
+    "skill": "Node.js",
+    "keywords": [
+      {
+        "platform": "YT",
+        "query": "Node.js full course beginner freeCodeCamp",
+        "estimasi_durasi_menit": 120
+      },
+      {
+        "platform": "Web",
+        "query": "Node.js step by step tutorial dev.to",
+        "tipe": "artikel"
+      },
+      {
+        "platform": "Course",
+        "query": "Coursera Node.js beginner course audit gratis",
+        "tipe": "kursus"
+      }
+    ]
+  },
+  {
+    "skill": "PRD",
+    "keywords": [
+      {
+        "platform": "YT",
+        "query": "what is PRD explained for beginners",
+        "estimasi_durasi_menit": 30
+      },
+      {
+        "platform": "Web",
+        "query": "PRD framework guide Product School",
+        "tipe": "artikel"
+      },
+      {
+        "platform": "Course",
+        "query": "Coursera Google Project Management PRD audit gratis",
+        "tipe": "kursus"
+      }
+    ]
+  },
+  {
+    "skill": "Pandas",
+    "keywords": [
+      {
+        "platform": "YT",
+        "query": "Pandas full course beginner freeCodeCamp",
+        "estimasi_durasi_menit": 120
+      },
+      {
+        "platform": "Web",
+        "query": "Pandas complete guide towards data science",
+        "tipe": "artikel"
+      },
+      {
+        "platform": "Course",
+        "query": "Coursera Google Data Analytics Pandas audit gratis",
+        "tipe": "kursus"
+      }
+    ]
+  },
+  {
+    "skill": "PostgreSQL",
+    "keywords": [
+      {
+        "platform": "YT",
+        "query": "PostgreSQL full course beginner freeCodeCamp",
+        "estimasi_durasi_menit": 120
+      },
+      {
+        "platform": "Web",
+        "query": "PostgreSQL complete guide towards data science",
+        "tipe": "artikel"
+      },
+      {
+        "platform": "Course",
+        "query": "Coursera Google Data Analytics PostgreSQL audit gratis",
+        "tipe": "kursus"
+      }
+    ]
+  },
+  {
+    "skill": "Power BI",
+    "keywords": [
+      {
+        "platform": "YT",
+        "query": "Power BI full course beginner freeCodeCamp",
+        "estimasi_durasi_menit": 120
+      },
+      {
+        "platform": "Web",
+        "query": "Power BI complete guide towards data science",
+        "tipe": "artikel"
+      },
+      {
+        "platform": "Course",
+        "query": "Coursera Google Data Analytics Power BI audit gratis",
+        "tipe": "kursus"
+      }
+    ]
+  },
+  {
+    "skill": "Problem Solving",
+    "keywords": [
+      {
+        "platform": "YT",
+        "query": "how to improve Problem Solving TED talk",
+        "estimasi_durasi_menit": 30
+      },
+      {
+        "platform": "Web",
+        "query": "developing Problem Solving at work Harvard Business Review",
+        "tipe": "artikel"
+      },
+      {
+        "platform": "Course",
+        "query": "Coursera Problem Solving beginner course audit gratis",
+        "tipe": "kursus"
+      }
+    ]
+  },
+  {
+    "skill": "Process Mapping",
+    "keywords": [
+      {
+        "platform": "YT",
+        "query": "what is Process Mapping explained for beginners",
+        "estimasi_durasi_menit": 30
+      },
+      {
+        "platform": "Web",
+        "query": "Process Mapping framework guide Product School",
+        "tipe": "artikel"
+      },
+      {
+        "platform": "Course",
+        "query": "Coursera Google Project Management Process Mapping audit gratis",
+        "tipe": "kursus"
+      }
+    ]
+  },
+  {
+    "skill": "Product Management",
+    "keywords": [
+      {
+        "platform": "YT",
+        "query": "what is Product Management explained for beginners",
+        "estimasi_durasi_menit": 30
+      },
+      {
+        "platform": "Web",
+        "query": "Product Management framework guide Product School",
+        "tipe": "artikel"
+      },
+      {
+        "platform": "Course",
+        "query": "Coursera Google Project Management Product Management audit gratis",
+        "tipe": "kursus"
+      }
+    ]
+  },
+  {
+    "skill": "Project Management",
+    "keywords": [
+      {
+        "platform": "YT",
+        "query": "what is Project Management explained for beginners",
+        "estimasi_durasi_menit": 30
+      },
+      {
+        "platform": "Web",
+        "query": "Project Management framework guide Product School",
+        "tipe": "artikel"
+      },
+      {
+        "platform": "Course",
+        "query": "Coursera Google Project Management Project Management audit gratis",
+        "tipe": "kursus"
+      }
+    ]
+  },
+  {
+    "skill": "Prototyping",
+    "keywords": [
+      {
+        "platform": "YT",
+        "query": "Prototyping UI/UX crash course for beginners",
+        "estimasi_durasi_menit": 120
+      },
+      {
+        "platform": "Web",
+        "query": "Prototyping best practices UX Collective",
+        "tipe": "artikel"
+      },
+      {
+        "platform": "Course",
+        "query": "Coursera Google UX Design Prototyping audit gratis",
+        "tipe": "kursus"
+      }
+    ]
+  },
+  {
+    "skill": "PyTorch",
+    "keywords": [
+      {
+        "platform": "YT",
+        "query": "PyTorch full course beginner freeCodeCamp",
+        "estimasi_durasi_menit": 120
+      },
+      {
+        "platform": "Web",
+        "query": "PyTorch complete guide towards data science",
+        "tipe": "artikel"
+      },
+      {
+        "platform": "Course",
+        "query": "Coursera Google Data Analytics PyTorch audit gratis",
+        "tipe": "kursus"
+      }
+    ]
+  },
+  {
+    "skill": "Python",
+    "keywords": [
+      {
+        "platform": "YT",
+        "query": "Python full course beginner freeCodeCamp",
+        "estimasi_durasi_menit": 120
+      },
+      {
+        "platform": "Web",
+        "query": "Python step by step tutorial dev.to",
+        "tipe": "artikel"
+      },
+      {
+        "platform": "Course",
+        "query": "Coursera Python beginner course audit gratis",
+        "tipe": "kursus"
+      }
+    ]
+  },
+  {
+    "skill": "R",
+    "keywords": [
+      {
+        "platform": "YT",
+        "query": "R tutorial for beginners full course",
+        "estimasi_durasi_menit": 120
+      },
+      {
+        "platform": "Web",
+        "query": "learn R best practices step by step",
+        "tipe": "artikel"
+      },
+      {
+        "platform": "Course",
+        "query": "Coursera R beginner course audit gratis",
+        "tipe": "kursus"
+      }
+    ]
+  },
+  {
+    "skill": "REST API",
+    "keywords": [
+      {
+        "platform": "YT",
+        "query": "REST API tutorial for beginners full course",
+        "estimasi_durasi_menit": 120
+      },
+      {
+        "platform": "Web",
+        "query": "getting started with REST API architecture guide",
+        "tipe": "artikel"
+      },
+      {
+        "platform": "Course",
+        "query": "Coursera REST API fundamentals audit gratis",
+        "tipe": "kursus"
+      }
+    ]
+  },
+  {
+    "skill": "React",
+    "keywords": [
+      {
+        "platform": "YT",
+        "query": "React full course beginner freeCodeCamp",
+        "estimasi_durasi_menit": 120
+      },
+      {
+        "platform": "Web",
+        "query": "React step by step tutorial dev.to",
+        "tipe": "artikel"
+      },
+      {
+        "platform": "Course",
+        "query": "Coursera React beginner course audit gratis",
+        "tipe": "kursus"
+      }
+    ]
+  },
+  {
+    "skill": "React Native",
+    "keywords": [
+      {
+        "platform": "YT",
+        "query": "React Native full course beginner freeCodeCamp",
+        "estimasi_durasi_menit": 120
+      },
+      {
+        "platform": "Web",
+        "query": "React Native step by step tutorial dev.to",
+        "tipe": "artikel"
+      },
+      {
+        "platform": "Course",
+        "query": "Coursera React Native beginner course audit gratis",
+        "tipe": "kursus"
+      }
+    ]
+  },
+  {
+    "skill": "Roadmap",
+    "keywords": [
+      {
+        "platform": "YT",
+        "query": "what is Roadmap explained for beginners",
+        "estimasi_durasi_menit": 30
+      },
+      {
+        "platform": "Web",
+        "query": "Roadmap framework guide Product School",
+        "tipe": "artikel"
+      },
+      {
+        "platform": "Course",
+        "query": "Coursera Google Project Management Roadmap audit gratis",
+        "tipe": "kursus"
+      }
+    ]
+  },
+  {
+    "skill": "SQL",
+    "keywords": [
+      {
+        "platform": "YT",
+        "query": "SQL full course beginner freeCodeCamp",
+        "estimasi_durasi_menit": 120
+      },
+      {
+        "platform": "Web",
+        "query": "SQL complete guide towards data science",
+        "tipe": "artikel"
+      },
+      {
+        "platform": "Course",
+        "query": "Coursera Google Data Analytics SQL audit gratis",
+        "tipe": "kursus"
+      }
+    ]
+  },
+  {
+    "skill": "Scrum",
+    "keywords": [
+      {
+        "platform": "YT",
+        "query": "what is Scrum explained for beginners",
+        "estimasi_durasi_menit": 30
+      },
+      {
+        "platform": "Web",
+        "query": "Scrum framework guide Product School",
+        "tipe": "artikel"
+      },
+      {
+        "platform": "Course",
+        "query": "Coursera Google Project Management Scrum audit gratis",
+        "tipe": "kursus"
+      }
+    ]
+  },
+  {
+    "skill": "Sketch",
+    "keywords": [
+      {
+        "platform": "YT",
+        "query": "Sketch UI/UX crash course for beginners",
+        "estimasi_durasi_menit": 120
+      },
+      {
+        "platform": "Web",
+        "query": "Sketch best practices UX Collective",
+        "tipe": "artikel"
+      },
+      {
+        "platform": "Course",
+        "query": "Coursera Google UX Design Sketch audit gratis",
+        "tipe": "kursus"
+      }
+    ]
+  },
+  {
+    "skill": "Spark",
+    "keywords": [
+      {
+        "platform": "YT",
+        "query": "Spark full course beginner freeCodeCamp",
+        "estimasi_durasi_menit": 120
+      },
+      {
+        "platform": "Web",
+        "query": "Spark complete guide towards data science",
+        "tipe": "artikel"
+      },
+      {
+        "platform": "Course",
+        "query": "Coursera Google Data Analytics Spark audit gratis",
+        "tipe": "kursus"
+      }
+    ]
+  },
+  {
+    "skill": "Stakeholder Management",
+    "keywords": [
+      {
+        "platform": "YT",
+        "query": "what is Stakeholder Management explained for beginners",
+        "estimasi_durasi_menit": 30
+      },
+      {
+        "platform": "Web",
+        "query": "Stakeholder Management framework guide Product School",
+        "tipe": "artikel"
+      },
+      {
+        "platform": "Course",
+        "query": "Coursera Google Project Management Stakeholder Management audit gratis",
+        "tipe": "kursus"
+      }
+    ]
+  },
+  {
+    "skill": "Statistics",
+    "keywords": [
+      {
+        "platform": "YT",
+        "query": "Statistics full course beginner freeCodeCamp",
+        "estimasi_durasi_menit": 120
+      },
+      {
+        "platform": "Web",
+        "query": "Statistics complete guide towards data science",
+        "tipe": "artikel"
+      },
+      {
+        "platform": "Course",
+        "query": "Coursera Google Data Analytics Statistics audit gratis",
+        "tipe": "kursus"
+      }
+    ]
+  },
+  {
+    "skill": "Swift",
+    "keywords": [
+      {
+        "platform": "YT",
+        "query": "Swift full course beginner freeCodeCamp",
+        "estimasi_durasi_menit": 120
+      },
+      {
+        "platform": "Web",
+        "query": "Swift step by step tutorial dev.to",
+        "tipe": "artikel"
+      },
+      {
+        "platform": "Course",
+        "query": "Coursera Swift beginner course audit gratis",
+        "tipe": "kursus"
+      }
+    ]
+  },
+  {
+    "skill": "Tableau",
+    "keywords": [
+      {
+        "platform": "YT",
+        "query": "Tableau full course beginner freeCodeCamp",
+        "estimasi_durasi_menit": 120
+      },
+      {
+        "platform": "Web",
+        "query": "Tableau complete guide towards data science",
+        "tipe": "artikel"
+      },
+      {
+        "platform": "Course",
+        "query": "Coursera Google Data Analytics Tableau audit gratis",
+        "tipe": "kursus"
+      }
+    ]
+  },
+  {
+    "skill": "TensorFlow",
+    "keywords": [
+      {
+        "platform": "YT",
+        "query": "TensorFlow full course beginner freeCodeCamp",
+        "estimasi_durasi_menit": 120
+      },
+      {
+        "platform": "Web",
+        "query": "TensorFlow complete guide towards data science",
+        "tipe": "artikel"
+      },
+      {
+        "platform": "Course",
+        "query": "Coursera Google Data Analytics TensorFlow audit gratis",
+        "tipe": "kursus"
+      }
+    ]
+  },
+  {
+    "skill": "Terraform",
+    "keywords": [
+      {
+        "platform": "YT",
+        "query": "Terraform tutorial for beginners full course",
+        "estimasi_durasi_menit": 120
+      },
+      {
+        "platform": "Web",
+        "query": "getting started with Terraform architecture guide",
+        "tipe": "artikel"
+      },
+      {
+        "platform": "Course",
+        "query": "Coursera Terraform fundamentals audit gratis",
+        "tipe": "kursus"
+      }
+    ]
+  },
+  {
+    "skill": "TypeScript",
+    "keywords": [
+      {
+        "platform": "YT",
+        "query": "TypeScript full course beginner freeCodeCamp",
+        "estimasi_durasi_menit": 120
+      },
+      {
+        "platform": "Web",
+        "query": "TypeScript step by step tutorial dev.to",
+        "tipe": "artikel"
+      },
+      {
+        "platform": "Course",
+        "query": "Coursera TypeScript beginner course audit gratis",
+        "tipe": "kursus"
+      }
+    ]
+  },
+  {
+    "skill": "Usability Testing",
+    "keywords": [
+      {
+        "platform": "YT",
+        "query": "Usability Testing UI/UX crash course for beginners",
+        "estimasi_durasi_menit": 120
+      },
+      {
+        "platform": "Web",
+        "query": "Usability Testing best practices UX Collective",
+        "tipe": "artikel"
+      },
+      {
+        "platform": "Course",
+        "query": "Coursera Google UX Design Usability Testing audit gratis",
+        "tipe": "kursus"
+      }
+    ]
+  },
+  {
+    "skill": "User Flow",
+    "keywords": [
+      {
+        "platform": "YT",
+        "query": "User Flow UI/UX crash course for beginners",
+        "estimasi_durasi_menit": 120
+      },
+      {
+        "platform": "Web",
+        "query": "User Flow best practices UX Collective",
+        "tipe": "artikel"
+      },
+      {
+        "platform": "Course",
+        "query": "Coursera Google UX Design User Flow audit gratis",
+        "tipe": "kursus"
+      }
+    ]
+  },
+  {
+    "skill": "User Research",
+    "keywords": [
+      {
+        "platform": "YT",
+        "query": "User Research UI/UX crash course for beginners",
+        "estimasi_durasi_menit": 120
+      },
+      {
+        "platform": "Web",
+        "query": "User Research best practices UX Collective",
+        "tipe": "artikel"
+      },
+      {
+        "platform": "Course",
+        "query": "Coursera Google UX Design User Research audit gratis",
+        "tipe": "kursus"
+      }
+    ]
+  },
+  {
+    "skill": "Vue",
+    "keywords": [
+      {
+        "platform": "YT",
+        "query": "Vue full course beginner freeCodeCamp",
+        "estimasi_durasi_menit": 120
+      },
+      {
+        "platform": "Web",
+        "query": "Vue step by step tutorial dev.to",
+        "tipe": "artikel"
+      },
+      {
+        "platform": "Course",
+        "query": "Coursera Vue beginner course audit gratis",
+        "tipe": "kursus"
+      }
+    ]
+  },
+  {
+    "skill": "Wireframe",
+    "keywords": [
+      {
+        "platform": "YT",
+        "query": "Wireframe UI/UX crash course for beginners",
+        "estimasi_durasi_menit": 120
+      },
+      {
+        "platform": "Web",
+        "query": "Wireframe best practices UX Collective",
+        "tipe": "artikel"
+      },
+      {
+        "platform": "Course",
+        "query": "Coursera Google UX Design Wireframe audit gratis",
+        "tipe": "kursus"
+      }
+    ]
+  },
+  {
+    "skill": "Xcode",
+    "keywords": [
+      {
+        "platform": "YT",
+        "query": "Xcode full course beginner freeCodeCamp",
+        "estimasi_durasi_menit": 120
+      },
+      {
+        "platform": "Web",
+        "query": "Xcode step by step tutorial dev.to",
+        "tipe": "artikel"
+      },
+      {
+        "platform": "Course",
+        "query": "Coursera Xcode beginner course audit gratis",
+        "tipe": "kursus"
+      }
+    ]
+  },
+  {
+    "skill": "iOS",
+    "keywords": [
+      {
+        "platform": "YT",
+        "query": "iOS full course beginner freeCodeCamp",
+        "estimasi_durasi_menit": 120
+      },
+      {
+        "platform": "Web",
+        "query": "iOS step by step tutorial dev.to",
+        "tipe": "artikel"
+      },
+      {
+        "platform": "Course",
+        "query": "Coursera iOS beginner course audit gratis",
+        "tipe": "kursus"
+      }
+    ]
+  }
+]

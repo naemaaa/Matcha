@@ -1,0 +1,18 @@
+--- JOB OPPORTUNITY: AI CURRICULUM & LEARNING DEVELOPER ---
+COMPANY: EduTech Forward
+LEVEL: Junior / Associate
+MODE: Remote
+
+DESCRIPTION:
+Bertanggung jawab merancang materi pembelajaran dan roadmap pengembangan skill bagi individu yang ingin melakukan transisi karier ke bidang kecerdasan buatan.
+
+KEY RESPONSIBILITIES:
+- Mengidentifikasi skill gap antara kurikulum akademik tradisional dengan kebutuhan industri AI saat ini.
+- Menyusun learning path 90 hari yang mencakup materi Python, Machine Learning, dan MLOps.
+- Memanfaatkan data real-time job market untuk memperbarui konten edukasi secara berkala.
+- Membantu mahasiswa dalam mengoptimalkan resume dan portofolio teknis mereka.
+
+TECHNICAL REQUIREMENTS:
+- Memiliki latar belakang pendidikan di bidang IT atau Pendidikan Teknologi.
+- Memahami konsep dasar Artificial Intelligence dan ekosistem pengembangannya.
+- Kemampuan menyusun materi teknis menjadi konten yang mudah dicerna.

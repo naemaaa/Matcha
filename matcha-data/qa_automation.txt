@@ -1,0 +1,19 @@
+--- JOB OPPORTUNITY: QA AUTOMATION ENGINEER (AI SPECIALIST) ---
+COMPANY: AutoTest Technologies
+LEVEL: Junior / Associate
+MODE: Hybrid - Bandung
+
+DESCRIPTION:
+Berfokus pada pengembangan skrip pengujian otomatis untuk memastikan kualitas dan keandalan sistem aplikasi mobile serta akurasi output model AI.
+
+KEY RESPONSIBILITIES:
+- Membangun framework pengujian otomatis untuk aplikasi iOS menggunakan Swift dan alat testing terkait.
+- Melakukan audit pada alur kerja sistem untuk mendeteksi potensi error seperti deadlock atau ketidaksinkronan data.
+- Merancang pengujian khusus untuk memvalidasi performa model Machine Learning sebelum deployment.
+- Berkolaborasi dengan tim DevOps untuk integrasi pengujian ke dalam pipeline CI/CD.
+
+TECHNICAL REQUIREMENTS:
+- Pemahaman tentang siklus hidup pengembangan perangkat lunak (SDLC).
+- Kemampuan dasar pemrograman Python dan Swift.
+- Detail-oriented dan memiliki kemampuan analisis logika yang kuat.
+- Sertifikasi di bidang QA atau Testing merupakan nilai tambah.

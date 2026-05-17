@@ -1,0 +1,18 @@
+--- JOB OPPORTUNITY: JUNIOR MLOPS ENGINEER ---
+COMPANY: DataScale AI Tech
+LEVEL: Junior
+MODE: Remote
+
+DESCRIPTION:
+Fokus pada standarisasi dan otomatisasi siklus hidup model Machine Learning dari eksperimen hingga produksi.
+
+KEY RESPONSIBILITIES:
+- Membangun pipeline otomatis untuk pelatihan model (Automated Training Pipeline).
+- Mengelola versi model dan dataset menggunakan MLflow.
+- Melakukan monitoring performa model secara real-time setelah di-deploy.
+- Memastikan skalabilitas model saat menerima trafik tinggi.
+
+TECHNICAL REQUIREMENTS:
+- Pemahaman mendalam tentang Docker dan sistem container.
+- Pengalaman dengan Python dan framework ML (Scikit-Learn, XGBoost).
+- Memahami cara menangani error "lack of synchronization" pada sistem terdistribusi.

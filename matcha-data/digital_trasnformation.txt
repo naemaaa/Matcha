@@ -1,0 +1,19 @@
+--- JOB OPPORTUNITY: DIGITAL TRANSFORMATION LEAD (SOCIAL ENTERPRISE) ---
+COMPANY: SocialImpact Hub Indonesia
+LEVEL: Middle / Senior
+MODE: Hybrid - Yogyakarta
+
+DESCRIPTION:
+Memimpin inisiatif transformasi digital untuk meningkatkan dampak sosial perusahaan melalui implementasi teknologi AI dan optimasi proses bisnis.
+
+KEY RESPONSIBILITIES:
+- Melakukan evaluasi dan rekomendasi perbaikan proses bisnis menggunakan integrasi Process-FMEA.
+- Merancang inovasi model bisnis yang berkelanjutan untuk organisasi nirlaba atau sosial enterprise.
+- Memantau implementasi sistem otomatisasi internal (Script Tasks) dan integrasi sistem eksternal (Service Tasks).
+- Mengelola strategi perubahan organisasi untuk memastikan adopsi teknologi digital berjalan efektif.
+
+TECHNICAL REQUIREMENTS:
+- Pengalaman dalam manajemen proyek transformasi digital atau konsultasi bisnis.
+- Keahlian dalam Business Process Management (BPM) dan pemodelan BPMN.
+- Memahami dinamika Social Enterprise dan Business Model Innovation.
+- Kemampuan kepemimpinan dan manajemen stakeholder yang kuat.

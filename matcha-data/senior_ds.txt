@@ -1,0 +1,19 @@
+--- JOB OPPORTUNITY: SENIOR DATA SCIENTIST ---
+COMPANY: TechGrowth Solutions
+LEVEL: Middle / Senior
+MODE: Remote / Full-time
+
+DESCRIPTION:
+Kami mencari Data Scientist yang berpengalaman untuk memimpin inisiatif analitik tingkat lanjut dan pengembangan model prediktif yang kompleks guna mendukung keputusan strategis bisnis.
+
+KEY RESPONSIBILITIES:
+- Merancang dan mengimplementasikan arsitektur model prediktif menggunakan algoritma Transformer dan Random Forest.
+- Melakukan evaluasi mendalam terhadap performa model melalui hyperparameter tuning yang ketat.
+- Membangun pipeline data yang efisien dan memastikan integritas data untuk pelatihan model Machine Learning.
+- Mempresentasikan hasil analisis data yang kompleks kepada stakeholder non-teknis dengan cara yang mudah dipahami.
+
+TECHNICAL REQUIREMENTS:
+- Pengalaman minimal 3 tahun di bidang Data Science atau Machine Learning.
+- Keahlian tinggi dalam pemrograman Python, R, dan penguasaan SQL tingkat lanjut.
+- Pemahaman mendalam tentang statistik dan metodologi penelitian data.
+- Terbiasa menggunakan MLflow untuk dokumentasi dan tracking eksperimen.

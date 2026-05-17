@@ -1,0 +1,30 @@
+--- MATCHA SKILLS TAXONOMY 2026 ---
+
+[DOMAIN: DATA SCIENCE & ARTIFICIAL INTELLIGENCE]
+- Programming: Python (Advanced), SQL (PostgreSQL/BigQuery), R.
+- Machine Learning: Random Forest, XGBoost, LightGBM, SVM, Hyperparameter Tuning.
+- Deep Learning & NLP: Transformer Models, IndoBERT, Sentiment Analysis, LLM Fine-tuning.
+- MLOps: MLflow, Model Deployment, CI/CD for ML, Version Control (Git).
+- Tools: Jupyter Notebook, Google Colab, Scopus AI, NotebookLM, Langflow.
+
+[DOMAIN: BUSINESS PROCESS MANAGEMENT]
+- Methodology: BPMN 2.0 (Business Process Modeling Notation), Process-FMEA (Failure Mode and Effects Analysis).
+- Strategy: Business Model Innovation, Social Enterprise Life Cycle Analysis, Gap Analysis.
+- Technical BPMN: Script Tasks (Internal Logic), Service Tasks (External API/System Integration), User Tasks.
+- Auditing: Deadlock Detection, Lack of Synchronization Identification.
+
+[DOMAIN: MOBILE DEVELOPMENT]
+- Ecosystem: Apple Developer Academy Standards, iOS SDK, Xcode.
+- Languages: Swift, SwiftUI.
+- AI Integration: CoreML, Vision Framework, Natural Language Framework for iOS.
+- Process: App Store Deployment, Prototyping, Mobile UI/UX Design.
+
+[DOMAIN: NON-IT & SOFT SKILLS]
+- Digital Marketing: Social Media Strategy, Content Creation, Market Research Analytics.
+- Management: Human Resources Operations, Project Management (Agile/Scrum), Event Planning.
+- Communication: Technical Documentation, Mentoring, Presentation, Stakeholder Management.
+- Operational: Operational Excellence, Lean/Kaizen, Administrative Management.
+
+[DOMAIN: QUALITY ASSURANCE & TESTING]
+- Manual & Automation: QA Automation, Unit Testing, System Integration Testing (SIT).
+- Specialized: AI Model Validation, UI/UX Auditing.
