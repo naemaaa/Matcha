@@ -1,46 +1,87 @@
-import sqlite3
-import json
-from datetime import datetime
+"""
+memory.py — Session Persistence untuk Matcha
+Menyimpan dan memuat state percakapan user menggunakan SQLite.
+"""
 
-DB_PATH = "data/matcha.db"
+import json
+import os
+import sqlite3
+from typing import Optional, Dict, Any
+
+DB_PATH = os.environ.get("MATCHA_DB_PATH", "matcha_sessions.db")
+
+
+# ─────────────────────────────────────────────
+# Init Database
+# ─────────────────────────────────────────────
 
 def init_db():
+    """Buat tabel sessions jika belum ada."""
     conn = sqlite3.connect(DB_PATH)
-    conn.execute("""
-        CREATE TABLE IF NOT EXISTS user_sessions (
+    cursor = conn.cursor()
+    cursor.execute("""
+        CREATE TABLE IF NOT EXISTS sessions (
             session_id TEXT PRIMARY KEY,
-            profile_json TEXT,
-            intent_history TEXT,
-            updated_at TEXT
+            state_json  TEXT NOT NULL,
+            updated_at  DATETIME DEFAULT CURRENT_TIMESTAMP
         )
     """)
     conn.commit()
     conn.close()
 
-def save_session(session_id: str, state: dict):
+
+# ─────────────────────────────────────────────
+# Save Session
+# ─────────────────────────────────────────────
+
+def save_session(session_id: str, state: Dict[str, Any]):
+    """
+    Simpan state agent ke database.
+    Hanya menyimpan field yang penting (bukan pesan chat — itu di session_state Streamlit).
+    """
+    fields_to_save = [
+        "user_profile",
+        "skill_gaps",
+        "detected_intent",
+        "previous_intent_history",
+        "drift_detected",
+        "cv_text",
+        "linkedin_text",
+        "job_description",
+    ]
+    payload = {k: state.get(k) for k in fields_to_save}
+
     conn = sqlite3.connect(DB_PATH)
-    conn.execute("""
-        INSERT OR REPLACE INTO user_sessions
-        VALUES (?, ?, ?, ?)
-    """, (
-        session_id,
-        json.dumps(state.get("user_profile"), ensure_ascii=False),
-        json.dumps(state.get("previous_intent_history", []), ensure_ascii=False),
-        datetime.now().isoformat()
-    ))
+    cursor = conn.cursor()
+    cursor.execute("""
+        INSERT INTO sessions (session_id, state_json, updated_at)
+        VALUES (?, ?, CURRENT_TIMESTAMP)
+        ON CONFLICT(session_id) DO UPDATE SET
+            state_json = excluded.state_json,
+            updated_at = CURRENT_TIMESTAMP
+    """, (session_id, json.dumps(payload, ensure_ascii=False)))
     conn.commit()
     conn.close()
 
-def load_session(session_id: str) -> dict:
+
+# ─────────────────────────────────────────────
+# Load Session
+# ─────────────────────────────────────────────
+
+def load_session(session_id: str) -> Optional[Dict[str, Any]]:
+    """
+    Muat state agent dari database berdasarkan session_id.
+    Kembalikan dict kosong jika session tidak ditemukan.
+    """
     conn = sqlite3.connect(DB_PATH)
-    row = conn.execute(
-        "SELECT * FROM user_sessions WHERE session_id = ?",
+    cursor = conn.cursor()
+    cursor.execute(
+        "SELECT state_json FROM sessions WHERE session_id = ?",
         (session_id,)
-    ).fetchone()
+    )
+    row = cursor.fetchone()
     conn.close()
-    if not row:
-        return {}
-    return {
-        "user_profile": json.loads(row[1]) if row[1] else None,
-        "previous_intent_history": json.loads(row[2]) if row[2] else [],
-    }
+
+    if row:
+        return json.loads(row[0])
+    return {}

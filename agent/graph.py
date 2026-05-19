@@ -1,80 +1,82 @@
 from langgraph.graph import StateGraph, END
+
 from .state import MatchaState
 from .nodes import (
     intent_classifier_node,
     user_profiler_node,
-    skill_gap_node,
-    resource_recommender_node,
-    drift_detector_node,
+    skill_gap_analyzer_node,
     cv_reviewer_node,
-    linkedin_reviewer_node
+    linkedin_reviewer_node,
+    general_responder_node,
 )
 
-def route_after_intent(state: MatchaState) -> str:
-    intent = state.get("detected_intent", "")
-    drift = state.get("drift_detected", False)
-    
-    if drift:
-        return "user_profiler"
-    
-    intent_map = {
-        "CAREER_EXPLORATION": "user_profiler",
-        "SKILL_INQUIRY": "skill_gap",
-        "RESOURCE_REQUEST": "resource_recommender",
-        "CONSTRAINT_UPDATE": "user_profiler",
-        "PUSH_BACK": "skill_gap",
-        "CONFIRMATION": "skill_gap",
-        "CV_REVIEW": "cv_reviewer",
-        "LINKEDIN_REVIEW": "linkedin_reviewer"
+
+# ─────────────────────────────────────────────
+# Router: tentukan node berikutnya setelah profiler
+# ─────────────────────────────────────────────
+
+def route_after_profiler(state: MatchaState) -> str:
+    """
+    Routing logic setelah User Profiler selesai.
+    Keputusan berdasarkan detected_intent.
+    """
+    intent = state.get("detected_intent", "CAREER_EXPLORATION")
+
+    routing_map = {
+        "CAREER_EXPLORATION": "skill_gap_analyzer",
+        "SKILL_INQUIRY":      "skill_gap_analyzer",
+        "RESOURCE_REQUEST":   "skill_gap_analyzer",
+        "CV_REVIEW":          "cv_reviewer",
+        "LINKEDIN_REVIEW":    "linkedin_reviewer",
+        "PUSH_BACK":          "general_responder",
+        "CONFIRMATION":       "general_responder",
+        "CONSTRAINT_UPDATE":  "general_responder",
     }
-    return intent_map.get(intent, "user_profiler")
 
-def route_after_profile(state: MatchaState) -> str:
-    if state.get("profile_complete", False):
-        return "skill_gap"
-    return "skill_gap"
+    return routing_map.get(intent, "skill_gap_analyzer")
 
-def build_graph():
+
+# ─────────────────────────────────────────────
+# Build Graph
+# ─────────────────────────────────────────────
+
+def build_matcha_graph():
     graph = StateGraph(MatchaState)
-    
-    # Tambah nodes
-    graph.add_node("drift_detector",       drift_detector_node)
-    graph.add_node("intent_classifier",    intent_classifier_node)
-    graph.add_node("user_profiler",        user_profiler_node)
-    graph.add_node("skill_gap",            skill_gap_node)
-    graph.add_node("resource_recommender", resource_recommender_node)
-    graph.add_node("cv_reviewer", cv_reviewer_node)
-    graph.add_node("linkedin_reviewer", linkedin_reviewer_node)
+
+    # Daftarkan semua node
+    graph.add_node("intent_classifier",  intent_classifier_node)
+    graph.add_node("user_profiler",      user_profiler_node)
+    graph.add_node("skill_gap_analyzer", skill_gap_analyzer_node)
+    graph.add_node("cv_reviewer",        cv_reviewer_node)
+    graph.add_node("linkedin_reviewer",  linkedin_reviewer_node)
+    graph.add_node("general_responder",  general_responder_node)
 
     # Entry point
-    graph.set_entry_point("drift_detector")
-    
-    # Edges
-    graph.add_edge("drift_detector", "intent_classifier")
-    
-    graph.add_conditional_edges(
-        "intent_classifier",
-        route_after_intent,
-        {
-            "user_profiler":        "user_profiler",
-            "skill_gap":            "skill_gap",
-            "resource_recommender": "resource_recommender",
-            "cv_reviewer":          "cv_reviewer",
-            "linkedin_reviewer":    "linkedin_reviewer"
-        }
-    )
-    
+    graph.set_entry_point("intent_classifier")
+
+    # Edge: intent_classifier → user_profiler (selalu)
+    graph.add_edge("intent_classifier", "user_profiler")
+
+    # Edge: user_profiler → routing berdasarkan intent
     graph.add_conditional_edges(
         "user_profiler",
-        route_after_profile,
-        {"skill_gap": "skill_gap"}
+        route_after_profiler,
+        {
+            "skill_gap_analyzer": "skill_gap_analyzer",
+            "cv_reviewer":        "cv_reviewer",
+            "linkedin_reviewer":  "linkedin_reviewer",
+            "general_responder":  "general_responder",
+        },
     )
-    
-    graph.add_edge("skill_gap", END)
-    graph.add_edge("resource_recommender", END)
-    graph.add_edge("cv_reviewer", END)
-    graph.add_edge("linkedin_reviewer", END)
-    
+
+    # Semua node akhir → END
+    graph.add_edge("skill_gap_analyzer", END)
+    graph.add_edge("cv_reviewer",        END)
+    graph.add_edge("linkedin_reviewer",  END)
+    graph.add_edge("general_responder",  END)
+
     return graph.compile()
 
-matcha_graph = build_graph()
+
+# Instance siap pakai — diimport di app.py
+matcha_graph = build_matcha_graph()

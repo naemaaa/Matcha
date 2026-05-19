@@ -280,240 +280,136 @@ if "chat_history" not in st.session_state:
     st.session_state.chat_history = []
 
 # Header
+# Top navigation + Header
 st.markdown("""
-<div class="header-container">
-    <h1 class="header-title">🍵 Matcha</h1>
-    <p class="header-subtitle">Asisten Karir Adaptif — Temukan Jalur Karir Idealmu</p>
+<div style="display:flex;align-items:center;justify-content:space-between;margin-bottom:1rem;">
+    <div style="display:flex;align-items:center;gap:1rem;">
+        <div style="font-weight:800;color:var(--accent-color);font-size:1.1rem;padding:0.2rem 0.6rem;border-radius:8px;">Matcha</div>
+        <nav style="display:flex;gap:1rem;color:#555;align-items:center;">
+            <a href="#" style="text-decoration:none;color:#2D5C30;font-weight:600;">Dashboard</a>
+            <a href="#" style="text-decoration:none;color:#7A7A7A;">Career Path</a>
+            <a href="#" style="text-decoration:none;color:#7A7A7A;">Resources</a>
+        </nav>
+    </div>
+    <div style="display:flex;gap:0.6rem;align-items:center;">
+        <button style="background:transparent;border:0;color:#666;padding:0.3rem 0.6rem;border-radius:8px;">🔔</button>
+        <div style="width:36px;height:36px;border-radius:18px;background:#E8F5E9;display:flex;align-items:center;justify-content:center">M</div>
+    </div>
 </div>
 """, unsafe_allow_html=True)
 
-# Layout
-col_chat, col_info = st.columns([2, 1])
+st.markdown("""
+<div class="header-container">
+        <h1 class="header-title">🍵 Selamat Datang di Matcha</h1>
+        <p class="header-subtitle">Asisten Karir Adaptif — Temukan Jalur Karir Idealmu</p>
+</div>
+""", unsafe_allow_html=True)
 
-with col_chat:
-    # Upload section
-    st.markdown('<div class="section-header">📄 Dokumen Kamu</div>', unsafe_allow_html=True)
-    
-    upload_tabs = st.tabs(["CV", "LinkedIn"])
-    
-    with upload_tabs[0]:
-        st.markdown("**Upload CV Kamu** (opsional)")
-        uploaded_file = st.file_uploader(
-            "Pilih file CV",
-            type=["pdf", "docx"],
-            key="cv_uploader",
-            help="Upload CV untuk rekomendasi yang lebih personal"
-        )
-        
-        if uploaded_file:
-            from utils.helpers import extract_cv_text
-            cv_text = extract_cv_text(uploaded_file)
-            if cv_text:
-                st.session_state.agent_state["cv_text"] = cv_text
-                st.markdown(
-                    '<div class="status-badge-success">✓ CV berhasil diupload!</div>',
-                    unsafe_allow_html=True
-                )
-                st.caption("💡 Tanya 'review CV aku' untuk mendapatkan feedback detail")
-    
-    with upload_tabs[1]:
-        st.markdown("**Upload Profil LinkedIn Kamu** (opsional)")
-        linkedin_file = st.file_uploader(
-            "Pilih file LinkedIn PDF",
-            type=["pdf"],
-            key="linkedin_uploader",
-            help="Export PDF dari LinkedIn → Me → Save to PDF"
-        )
-        
-        if linkedin_file:
-            from utils.helpers import extract_cv_text
-            linkedin_text = extract_cv_text(linkedin_file)
-            if linkedin_text:
-                st.session_state.agent_state["linkedin_text"] = linkedin_text
-                st.markdown(
-                    '<div class="status-badge-success">✓ Profil LinkedIn berhasil diupload!</div>',
-                    unsafe_allow_html=True
-                )
-    
-    # Chat section
-    st.markdown('<div class="section-header" style="margin-top: 2rem;">💬 Chat Dengan Matcha</div>', unsafe_allow_html=True)
-    
-    # Display chat history
+# Layout: tiga kolom (kiri: dokumen/status, tengah: chat + analisis, kanan: profil)
+left_col, center_col, right_col = st.columns([1, 3, 1.2])
+
+with left_col:
+    st.markdown('<div class="info-card">', unsafe_allow_html=True)
+    st.markdown('<h3 style="margin-top:0;margin-bottom:8px;">📁 Dokumen</h3>', unsafe_allow_html=True)
+    # Show uploaded files
+    cv_text = st.session_state.agent_state.get("cv_text")
+    linkedin_text = st.session_state.agent_state.get("linkedin_text")
+    if cv_text:
+        st.markdown('<div style="padding:0.6rem;border-radius:8px;border:1px solid #E8F5E9;margin-bottom:0.6rem;">CV Utama.pdf <span style="float:right;color:#2E7D32;">✓</span></div>', unsafe_allow_html=True)
+    else:
+        st.markdown('<div style="padding:0.6rem;border-radius:8px;border:1px dashed #E0E0E0;margin-bottom:0.6rem;color:#888;">Upload CV (opsional)</div>', unsafe_allow_html=True)
+
+    if linkedin_text:
+        st.markdown('<div style="padding:0.6rem;border-radius:8px;border:1px solid #E8F5E9;margin-bottom:0.6rem;">LinkedIn Profile.pdf <span style="float:right;color:#2E7D32;">✓</span></div>', unsafe_allow_html=True)
+    else:
+        st.markdown('<div style="padding:0.6rem;border-radius:8px;border:1px dashed #E0E0E0;margin-bottom:0.6rem;color:#888;">Upload Profil LinkedIn (opsional)</div>', unsafe_allow_html=True)
+
+    st.file_uploader('Drag file ke sini atau klik Browse', type=['pdf','docx'], key='cv_uploader_small')
+    st.markdown('</div>', unsafe_allow_html=True)
+
+    st.markdown('<div class="info-card">', unsafe_allow_html=True)
+    st.markdown('<h4 style="margin:0 0 8px 0;">Status Review</h4>', unsafe_allow_html=True)
+    st.markdown('<ul style="padding-left:1rem;margin-top:0"><li>Review CV — Belum dianalisis</li><li>Review LinkedIn — Belum dianalisis</li></ul>', unsafe_allow_html=True)
+    st.markdown('</div>', unsafe_allow_html=True)
+
+with center_col:
+    # Main chat card
+    st.markdown('<div class="info-card">', unsafe_allow_html=True)
+    st.markdown('<div style="display:flex;justify-content:space-between;align-items:center;margin-bottom:0.5rem;">\n        <strong>Matcha Career Assistant</strong>\n        <div style="color:#888">Aktif</div>\n    </div>', unsafe_allow_html=True)
+
     chat_container = st.container()
     with chat_container:
-        for msg in st.session_state.chat_history:
-            with st.chat_message(msg["role"], avatar="🍵" if msg["role"] == "assistant" else "👤"):
-                st.markdown(msg["content"])
-    
+        for msg in st.session_state.chat_history[-20:]:
+            role = msg.get('role')
+            content = msg.get('content')
+            if role == 'assistant':
+                st.markdown(f"<div style='background:#F6FFF7;padding:0.8rem;border-radius:12px;margin-bottom:0.6rem;border-left:4px solid var(--secondary-color);'>{content}</div>", unsafe_allow_html=True)
+            else:
+                st.markdown(f"<div style='background:#FFFFFF;padding:0.6rem;border-radius:12px;margin-bottom:0.6rem;text-align:right;border:1px solid #EEE'>{content}</div>", unsafe_allow_html=True)
+
     # Chat input
-    if user_input := st.chat_input("Ceritakan situasimu, pertanyaanmu, atau tujuan karirmu..."):
-        with st.chat_message("user", avatar="👤"):
-            st.markdown(user_input)
-        st.session_state.chat_history.append({"role": "user", "content": user_input})
-
+    if user_input := st.chat_input('Ceritakan situasimu atau tujuan karirmu...'):
+        st.session_state.chat_history.append({'role':'user','content':user_input})
         current_state = st.session_state.agent_state
-        current_state["user_input"] = user_input
-        current_state["messages"] = st.session_state.chat_history
+        current_state['user_input'] = user_input
+        current_state['messages'] = st.session_state.chat_history
 
-        # Show loading indicator
         loading_container = st.empty()
         with loading_container:
-            st.markdown(show_loading_popup(
-                "🍵 Matcha sedang menganalisis...",
-                "Memberikan insight terbaik untuk karirmu..."
-            ), unsafe_allow_html=True)
-        
+            st.markdown(show_loading_popup('🍵 Matcha sedang menganalisis...','Memberikan insight terbaik untuk karirmu...'), unsafe_allow_html=True)
+
         result = matcha_graph.invoke(current_state)
-        loading_container.empty()  # Clear loading
+        loading_container.empty()
 
         st.session_state.agent_state = result
         save_session(st.session_state.session_id, result)
+        response = result.get('agent_response','Maaf, terjadi error. Coba lagi nanti.')
+        st.session_state.chat_history.append({'role':'assistant','content':response})
+        st.experimental_rerun()
 
-        response = result.get("agent_response", "Maaf, terjadi error. Coba lagi nanti.")
-        with st.chat_message("assistant", avatar="🍵"):
-            st.markdown(response)
-        st.session_state.chat_history.append({"role": "assistant", "content": response})
-        st.rerun()
+    st.markdown('</div>', unsafe_allow_html=True)
 
-with col_info:
-    st.markdown('<div class="section-header">👤 Profil Karir</div>', unsafe_allow_html=True)
-    
-    profile = st.session_state.agent_state.get("user_profile")
-
-    if profile:
-        profile_items = []
-        if profile.get("current_role"):
-            profile_items.append(("📍 Posisi Saat Ini", profile["current_role"]))
-        if profile.get("target_role"):
-            profile_items.append(("🎯 Target Karir", profile["target_role"]))
-        if profile.get("experience_years"):
-            profile_items.append(("📅 Pengalaman", f"{profile['experience_years']} tahun"))
-        if profile.get("hours_per_week"):
-            profile_items.append(("⏱️ Waktu/Minggu", f"{profile['hours_per_week']} jam"))
-        if profile.get("budget_idr"):
-            profile_items.append(("💰 Budget", f"Rp {profile['budget_idr']:,}"))
-        
-        for label, value in profile_items:
-            st.markdown(f"""
-            <div class="profile-metric">
-                <strong>{label}</strong><br>
-                {value}
-            </div>
-            """, unsafe_allow_html=True)
-    else:
-        st.info("🔄 Profil akan terisi seiring percakapan kita")
-
-    # Drift detection
-    if st.session_state.agent_state.get("drift_detected"):
-        st.markdown(
-            '<div class="status-badge-warning">⚠️ Perubahan tujuan terdeteksi. Profil sedang diperbarui.</div>',
-            unsafe_allow_html=True
-        )
-    
-    # Skill gaps
-    skill_gaps = st.session_state.agent_state.get("skill_gaps")
+    # Analysis / Skill gap preview
+    skill_gaps = st.session_state.agent_state.get('skill_gaps')
     if skill_gaps:
-        st.markdown('<div class="section-header" style="margin-top: 1.5rem;">🎓 Skill Gap</div>', unsafe_allow_html=True)
+        st.markdown('<div class="info-card" style="margin-top:1rem">', unsafe_allow_html=True)
+        st.markdown('<h4>Analisis Gap Ilmu</h4>', unsafe_allow_html=True)
         st.markdown(skill_gaps)
-    
-    # CV Status
-    st.markdown('<div class="section-header" style="margin-top: 1.5rem;">📝 Review Dokumen</div>', unsafe_allow_html=True)
-    
-    cv_text = st.session_state.agent_state.get("cv_text")
-    if cv_text:
-        st.markdown(
-            '<div class="status-badge-success">✓ CV Terupload</div>',
-            unsafe_allow_html=True
-        )
-        if st.button("📄 Review CV Sekarang", use_container_width=True):
-            current_state = st.session_state.agent_state
-            current_state["user_input"] = "tolong review CV aku secara detail dan berikan feedback untuk improvement"
-            current_state["messages"] = st.session_state.chat_history
+        st.markdown('</div>', unsafe_allow_html=True)
 
-            # Show loading indicator
-            loading_container = st.empty()
-            with loading_container:
-                st.markdown(show_loading_popup(
-                    "🍵 Matcha sedang review CV...",
-                    "Menganalisis pengalaman dan skill kamu..."
-                ), unsafe_allow_html=True)
-            
-            result = matcha_graph.invoke(current_state)
-            loading_container.empty()  # Clear loading
+    # Learning Path card (preview)
+    st.markdown('<div class="info-card" style="margin-top:1rem">', unsafe_allow_html=True)
+    st.markdown('<h4>Peta Jalan Belajar Terpersonalisasi</h4>', unsafe_allow_html=True)
+    st.markdown('<ol style="margin-left:1rem"><li>Minggu 1 — Advanced Interaction Design</li><li>Minggu 2 — Modern Design Systems</li><li>Minggu 3 — User Research Ethics</li></ol>', unsafe_allow_html=True)
+    st.markdown('</div>', unsafe_allow_html=True)
 
-            st.session_state.agent_state = result
-            save_session(st.session_state.session_id, result)
+with right_col:
+    st.markdown('<div class="info-card">', unsafe_allow_html=True)
+    st.markdown('<h3 style="margin-top:0;margin-bottom:8px;">👤 Profil Karir</h3>', unsafe_allow_html=True)
+    profile = st.session_state.agent_state.get('user_profile') or {}
+    st.markdown(f"<div style='margin-bottom:0.6rem'><strong>Posisi Saat Ini:</strong><br>{profile.get('current_role','-')}</div>", unsafe_allow_html=True)
+    st.markdown(f"<div style='margin-bottom:0.6rem'><strong>Target Karir:</strong><br>{profile.get('target_role','-')}</div>", unsafe_allow_html=True)
+    st.markdown(f"<div style='margin-bottom:0.6rem'><strong>Waktu/Minggu:</strong><br>{profile.get('hours_per_week','-')} jam</div>", unsafe_allow_html=True)
+    st.markdown('</div>', unsafe_allow_html=True)
 
-            response = result.get("agent_response", "")
-            st.session_state.chat_history.append({"role": "assistant", "content": response})
-            st.rerun()
-    else:
-        st.caption("📄 Belum ada CV (opsional)")
-    
-    # LinkedIn Status
-    linkedin_text = st.session_state.agent_state.get("linkedin_text")
-    if linkedin_text:
-        st.markdown(
-            '<div class="status-badge-success">✓ LinkedIn Terupload</div>',
-            unsafe_allow_html=True
-        )
-        if st.button("💼 Review LinkedIn Sekarang", use_container_width=True):
-            current_state = st.session_state.agent_state
-            current_state["user_input"] = "tolong review profil LinkedIn aku dan berikan saran untuk meningkatkan visibility"
-            current_state["messages"] = st.session_state.chat_history
-
-            # Show loading indicator
-            loading_container = st.empty()
-            with loading_container:
-                st.markdown(show_loading_popup(
-                    "🍵 Matcha sedang review LinkedIn...",
-                    "Memeriksa headline, experience, dan endorsement kamu..."
-                ), unsafe_allow_html=True)
-            
-            result = matcha_graph.invoke(current_state)
-            loading_container.empty()  # Clear loading
-
-            st.session_state.agent_state = result
-            save_session(st.session_state.session_id, result)
-
-            response = result.get("agent_response", "")
-            st.session_state.chat_history.append({"role": "assistant", "content": response})
-            st.rerun()
-    else:
-        st.caption("💼 Belum ada profil LinkedIn (opsional)")
-
-    # Job Description Analysis
-    st.markdown('<div class="section-header" style="margin-top: 1.5rem;">🔍 Analisis Job</div>', unsafe_allow_html=True)
-    
-    jd_input = st.text_area(
-        "Paste job description di sini",
-        height=150,
-        placeholder="Copy-paste job description dari Glints, LinkedIn, JobStreet, dll...",
-        label_visibility="collapsed"
-    )
-    if st.button("🔎 Analisis Job Ini", use_container_width=True):
+    st.markdown('<div class="info-card" style="margin-top:1rem">', unsafe_allow_html=True)
+    st.markdown('<h4>Jelajahi Lowongan</h4>', unsafe_allow_html=True)
+    jd_input = st.text_area('Paste job description di sini', height=100, placeholder='Copy-paste job description...')
+    if st.button('Analisis Ulang'):
         if jd_input:
-            st.session_state.agent_state["job_description"] = jd_input
+            st.session_state.agent_state['job_description'] = jd_input
             current_state = st.session_state.agent_state
-            current_state["user_input"] = "tolong analisis job description ini dan bandingkan dengan profilku. Beri tahu seberapa match aku dan skill apa yang perlu dipelajari"
-            current_state["messages"] = st.session_state.chat_history
-
-            # Show loading indicator
+            current_state['user_input'] = 'tolong analisis job description ini dan bandingkan dengan profilku'
+            current_state['messages'] = st.session_state.chat_history
             loading_container = st.empty()
             with loading_container:
-                st.markdown(show_loading_popup(
-                    "🍵 Matcha sedang menganalisis job...",
-                    "Mencocokkan skill dan requirement job description..."
-                ), unsafe_allow_html=True)
-            
+                st.markdown(show_loading_popup('🍵 Matcha sedang menganalisis job...','Mencocokkan skill dan requirement job description...'), unsafe_allow_html=True)
             result = matcha_graph.invoke(current_state)
-            loading_container.empty()  # Clear loading
-
+            loading_container.empty()
             st.session_state.agent_state = result
             save_session(st.session_state.session_id, result)
-
-            response = result.get("agent_response", "")
-            st.session_state.chat_history.append({"role": "assistant", "content": response})
-            st.rerun()
+            st.experimental_rerun()
         else:
-            st.warning("⚠️ Paste job description dulu ya!")
+            st.warning('Paste job description dulu ya!')
+    st.markdown('</div>', unsafe_allow_html=True)
+    

@@ -15,7 +15,7 @@ def extract_text_from_docx(file) -> str:
     return text.strip()
 
 def extract_cv_text(file) -> str:
-    filename = file.name.lower()
+    filename = file.filename.lower()
     if filename.endswith(".pdf"):
         return extract_text_from_pdf(file)
     elif filename.endswith(".docx"):
